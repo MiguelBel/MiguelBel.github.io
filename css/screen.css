@@ -1,0 +1,132 @@
+body {
+  color: #222;
+  font-family: "Lato", serif;
+  font-weight: 300;
+  font-size: 14pt;
+  line-height: 1.4em;
+  margin: 0 5%;
+  min-width: 25em;
+  max-width: 40em;
+}
+
+a {
+  color: #444e5c;
+  text-decoration: none;
+  border-bottom: 1px solid #3498db;
+}
+
+.post-name a, #header h1 a{
+  border-bottom: none;
+  color:#3498db;
+}
+
+a:visited { border-bottom: 1px solid #3498db; }
+a:hover, a:visited:hover { border-bottom: none; }
+a.image { border-bottom: 0; }
+
+h1, h2, h3, h4 {
+  color:#3498db;
+  font-weight: 600;
+  line-height: 1.5em;
+  margin-bottom: 0.3em;
+}
+
+.clear { clear: both; }
+
+
+#header {
+  margin: 0 1em 2em 1em;
+}
+
+#content {
+  margin: 0 4em;
+}
+
+#footer {
+  margin: 6em 4em 3em 4em;
+  font-size: 70%;
+  text-align: right;
+}
+
+
+/** Posts list page **/
+h2.year {
+  margin-top: 0;
+}
+
+.posts {
+  margin: 0 0 2em 0;
+  padding: 0;
+  list-style: none outside;
+  position: relative;
+}
+
+.posts li {
+  line-height: 1.25em;
+  clear: left;
+}
+
+.posts .post-date {
+  position: absolute;
+  left: 0;
+}
+
+.posts .post-name {
+  float: left;
+  margin-left: 5em;
+  padding-bottom: 0.5em;
+}
+
+
+/** Post show page **/
+.post-date {
+  float: right;
+  margin: 0;
+}
+
+.post-title {
+  clear: right;
+}
+
+.last-post {
+  float: left;
+}
+
+.next-post {
+  float: right;
+}
+
+code {
+  background-color: #F2F2F2;
+  font-size: 80%;
+}
+
+pre {
+  overflow: hidden;
+  background-color: #F2F2F2;
+  padding: 10px;
+  line-height: 1.0em;
+}
+
+pre code {
+  background-color: transparent;
+  overflow-x: auto; /* Use horizontal scroller if needed; for Firefox 2, not needed in Firefox 3 */
+  white-space: pre-wrap; /* css-3 */
+  white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  width: 99%;
+  word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+
+.gist {
+  font-size: 12px;
+}
+
+small, .aside {
+  font-size: 70%;
+}
+
+#content img {
+  width: 100%;
+}
