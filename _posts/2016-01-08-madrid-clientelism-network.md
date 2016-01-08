@@ -1,6 +1,8 @@
 ---
 published: true
+layout: post
 ---
+
 
 ### How governance policies works in Madrid, Spain and the world in general
 
@@ -27,8 +29,6 @@ Every year the wealthy people of the city end up going to that VIP zone for not 
 It is not a big deal, it do not cost too much money but it exemplifies the inequality.
 
 Madrid is currently the city with the most quantity of debt per inhabitant of Spain. Every Madrid citizen owes more than 2.000€ and we are talking of 3 million.
-
-
 
 ![Imgur](http://i.imgur.com/BZmUR3X.jpg)
 
