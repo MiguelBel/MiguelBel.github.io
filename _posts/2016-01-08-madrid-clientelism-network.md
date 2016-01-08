@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ### How governance policies works in Madrid, Spain and the world in general
 
@@ -45,4 +46,3 @@ The major, Manuela Carmena has been criticized a lot for her measures. I do, I c
 She turned the VIP zone in a place for disabled people. And this is a first step to say to every people who mix their private business with the public ones to stay away.
  
 This is a first step to stop to use public relations as an excuse of use public money in benefiting only to some. She is also doing some other things for prevent that. Time will say if she became a truly changer or if she follow the same attitude as her predecessors.
-
