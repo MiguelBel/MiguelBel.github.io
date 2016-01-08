@@ -4,6 +4,7 @@ layout: post
 ---
 
 
+
 ### How governance policies works in Madrid, Spain and the world in general
 
 Long, long time ago, there was a small village, not too many people living there. Let’s say we have a dominant class conformed by 10% of the population all of them wealthy. They are not supposed to have more rights and legally they do not have.
