@@ -59,3 +59,9 @@ The interest thing come now. If look to the population and the GBP of the counti
 | Counties with majority pro independent | 60.769,60 | 2.644.151 |
 
 As you can see there is not a consensus between the regions. The independence process is not strong enough for talking about a new country and even that the pro independent are ruling things as unilateral independence declaration can end up into a real balkanization of Catalonia.
+
+__Notes__:
+
+- Data extracted from: [Idescat](http://www.idescat.cat/)
+- Map created (by me) with [CartoDB](https://miguelbeltram.cartodb.com/viz/5b30f848-bc99-11e5-8cf8-0ef7f98ade21/map)
+- Normalized data in MySQL (by me) available [here](https://www.dropbox.com/s/suwriwj7xk6khtw/cat_2015_2016-01-17.sql?dl=0)
