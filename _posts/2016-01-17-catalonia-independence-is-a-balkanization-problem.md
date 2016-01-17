@@ -41,7 +41,7 @@ There are opinions which says that parties like CatSiqueesPot or PACMA are not a
 I will count majority as 50%.
 
 
-<iframe width="100%" height="520" frameborder="0" src="https://miguelbeltram.cartodb.com/viz/5b30f848-bc99-11e5-8cf8-0ef7f98ade21/embed_map" allowfullscreen="allowfullscreen"></iframe>
+
 
 As you can see, there is a majority of counties with majority of pro-independence.
 
