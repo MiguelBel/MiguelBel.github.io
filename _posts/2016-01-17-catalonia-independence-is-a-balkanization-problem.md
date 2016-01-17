@@ -1,7 +1,9 @@
 ---
 published: true
 title: Catalonia independence is a balkanization problem
+layout: post
 ---
+
 
 ### How countries are formed
 
@@ -51,4 +53,3 @@ The interest thing come now. If look to the population and the GBP of the counti
 | —— | —— | — — |
 | Counties with majority against Independence | 145.604,29 | 4.838.613 |
 | Counties with majority pro independent | 60.769,60 | 2.644.151 |
-
