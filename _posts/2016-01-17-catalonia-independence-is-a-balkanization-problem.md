@@ -45,7 +45,7 @@ I will count majority as 50%.
 
 As you can see, there is a majority of counties with majority of pro-independence.
 
-|                                        |         |
+| Position                    |     Number of counties    |
 | -------------------------------------- | ------- |
 | Counties with majority pro independent | 33 |
 | Counties with majority against Independence | 8 |
