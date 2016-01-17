@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Catalonia independence is a balkanization problem
 layout: post
 ---
@@ -38,8 +38,10 @@ And in the other hand the against independence (C’s, PP, PSOE, CatSiqueesPot, 
 
 There are opinions which says that parties like CatSiqueesPot or PACMA are not against the independence. I consider that they are against it because they are national parties in favor of the right to decide but they protect the unity of Spain. I am polarizing the parties that will form a new country tomorrow if it will be in their hands and the ones who do not.
 
-I will analyze the counties of Catalonia. And I will count majority as 50%.
+I will count majority as 50%.
 
+
+<iframe width="100%" height="520" frameborder="0" src="https://miguelbeltram.cartodb.com/viz/5b30f848-bc99-11e5-8cf8-0ef7f98ade21/embed_map" allowfullscreen="allowfullscreen"></iframe>
 
 As you can see, there is a majority of counties with majority of pro-independence.
 
@@ -54,3 +56,5 @@ The interest thing come now. If look to the population and the GBP of the counti
 | -------- | ---------------------- | ---------- |
 | Counties with majority against Independence | 145.604,29 | 4.838.613 |
 | Counties with majority pro independent | 60.769,60 | 2.644.151 |
+
+As you can see there is not a consensus between the regions. The independence process is not strong enough for talking about a new country and even that the pro independent are ruling things as unilateral independence declaration can end up into a real balkanization of Catalonia.
