@@ -40,6 +40,7 @@ There are opinions which says that parties like CatSiqueesPot or PACMA are not a
 
 I will analyze the counties of Catalonia. And I will count majority as 50%.
 
+
 As you can see, there is a majority of counties with majority of pro-independence.
 
 | Counties with majority pro independent | 33 |
