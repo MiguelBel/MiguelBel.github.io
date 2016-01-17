@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Catalonia independence is a balkanization problem
 layout: post
 ---
@@ -43,12 +43,14 @@ I will analyze the counties of Catalonia. And I will count majority as 50%.
 
 As you can see, there is a majority of counties with majority of pro-independence.
 
+|                                        |         |
+| -------------------------------------- | ------- |
 | Counties with majority pro independent | 33 |
 | Counties with majority against Independence | 8 |
 
 The interest thing come now. If look to the population and the GBP of the counties according to their position within the independence, you will find an interesting fact:
 
 | Position | GBP (Milions of euros) | Population |
-| —— | —— | — — |
+| -------- | ---------------------- | ---------- |
 | Counties with majority against Independence | 145.604,29 | 4.838.613 |
 | Counties with majority pro independent | 60.769,60 | 2.644.151 |
