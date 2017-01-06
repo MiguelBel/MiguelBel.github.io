@@ -4,7 +4,7 @@ title: Reseña "Yonkis del dinero" (2016)
 ---
 ![](http://i.imgur.com/Yw8pAOU.jpg)
 
-Descubrí este libro por casualidad haciendo las comprar navideñas. Me llamó la atención el título y me dió más curiosidad al leer la sinopsis.
+Descubrí este libro por casualidad haciendo las comprar navideñas. Me llamó la atención el título y me dio más curiosidad al leer la sinopsis.
 
 Fundamentalmente el libro son diez tramas de corrupción en la Comunidad Valenciana, desde 1990 hasta el día de hoy. Cada trama tiene un, a menudo, excéntrico protagonista. El libro mantiene el nivel a lo largo de sus páginas. La estructuración por capítulos hace que nunca resulte especialmente pesado.
 
