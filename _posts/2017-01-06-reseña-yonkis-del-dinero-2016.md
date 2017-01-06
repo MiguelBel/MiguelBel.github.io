@@ -14,4 +14,4 @@ Abundan los nombres y los datos con frecuentes menciones a publicaciones en peri
 
 En conclusión, lo considero un libro imprescindible para echar la vista atrás y tener claro como ha funcionado -funciona y probablemente, funcionará- gran parte de la política de la "comunitat". Si tienes interés en el tema, se te hará muy corto.
 
-Puedes comprar el libro [aquí](https://www.amazon.es/Yonquis-del-dinero-Cuadril%C3%A1tero-libros/dp/841601289X)
+Puedes comprar el libro [aquí](https://www.amazon.es/Yonquis-del-dinero-Cuadril%C3%A1tero-libros/dp/841601289X).
