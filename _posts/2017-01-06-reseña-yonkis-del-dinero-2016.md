@@ -1,5 +1,6 @@
 ---
 published: true
+title: Reseña "Yonkis del dinero" (2016)
 ---
 ![](http://i.imgur.com/mIJ1pQ3.jpg)
 
