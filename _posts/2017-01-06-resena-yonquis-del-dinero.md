@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Reseña "Yonkis del dinero" (2016)
 ---
 ## Yonquis del dinero.
 
