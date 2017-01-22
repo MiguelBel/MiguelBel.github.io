@@ -28,13 +28,14 @@
 </head>
 <body>
   <div id="content">
-    {{ content }}
-  </div>
+    <div class="header">
+      <ul>
+        <li><a href="/">Posts</a> | </li>
+        <li><a href="/about">About</a></li>
+      </ul>
+    </div>
 
-  <div id="footer">
-    Written by <a href="http://miguel.im">Miguel</a>
-    <br/>I also tweet as <a href="http://twitter.com/miguelb93">@miguelb93</a>
-    <br/> I try to write about programming, geopolitics, and business.
+    {{ content }}
   </div>
 </body>
 </html>

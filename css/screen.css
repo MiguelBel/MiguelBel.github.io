@@ -18,14 +18,14 @@ a {
 .post-name a, #header h1 a{
   border-bottom: none;
   color:#3498db;
+  font-weight: 400;
 }
 
-a:visited { border-bottom: 1px solid #3498db; }
 a:hover, a:visited:hover { border-bottom: none; }
 a.image { border-bottom: 0; }
 
 h1, h2, h3, h4 {
-  color:#3498db;
+  color: #19AAD1;
   font-weight: 600;
   line-height: 1.5em;
   margin-bottom: 0.3em;
@@ -88,6 +88,7 @@ h2.year {
 
 .post-title {
   clear: right;
+  color: #FFCC4C;
 }
 
 .last-post {
