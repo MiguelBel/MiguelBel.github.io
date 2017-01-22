@@ -4,9 +4,9 @@ body {
   font-weight: 300;
   font-size: 14pt;
   line-height: 1.4em;
-  margin: 0 5%;
+  margin: 0 auto;
   min-width: 25em;
-  max-width: 40em;
+  max-width: 45em;
 }
 
 a {
@@ -39,7 +39,7 @@ h1, h2, h3, h4 {
 }
 
 #content {
-  margin: 0 4em;
+  margin: 2em 4em;
 }
 
 #footer {
@@ -52,10 +52,12 @@ h1, h2, h3, h4 {
 /** Posts list page **/
 h2.year {
   margin-top: 0;
+  margin-bottom: 20px;
+  text-align: center;
 }
 
 .posts {
-  margin: 0 0 2em 0;
+  margin: 0 0 3.5em 0;
   padding: 0;
   list-style: none outside;
   position: relative;
