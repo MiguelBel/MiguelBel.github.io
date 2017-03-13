@@ -14,4 +14,4 @@ Creo que es un tema amplio pero no veo que este libro ahonde en nada en particul
 
 No lo recomiendo, no es un libro que ayude a entender la figura de los _influencers_.
 
-Puedes comprar el libro [aquí](http://amazon.es/dp/8433975692).
+Puedes comprar el libro [aquí](http://amazon.es/dp/8416002533).
