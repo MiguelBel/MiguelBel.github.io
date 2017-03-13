@@ -1,5 +1,6 @@
 ---
 published: true
+title: wadus
 ---
 ![](http://i.imgur.com/PN3Elm4.jpg)
 
