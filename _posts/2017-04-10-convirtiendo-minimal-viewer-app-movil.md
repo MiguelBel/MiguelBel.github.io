@@ -30,7 +30,7 @@ Aprovecho esta parte para profundizar en los conceptos que creo que me pueden fa
 
 **Navegación**: En teoría el cambio de `React`, en el que sí que he hecho cosas, a `React Native` no debería ser muy grande a nivel de sintaxis y funcionamiento interno. Sin embargo tengo ciertas dudas en la navegación entre "pantallas". Por eso hago una pequeña aplicación que me permite resolver las dudas al respecto. 
 
-![](http://i.imgur.com/EWQmWXR.gif)
+![](http://i.imgur.com/EWQmWXR.gif =250x)
 
 Intento ser lo más pragmático posible e ir al grano. No me preocupo del código limpio, ni de los tests, simplemente quiero entender minimamente como funciona la navegación en móvil. Lo que busco es un balance entre no emplear demasiado tiempo y que cuando esté desarrollando no tenga que volver a la documentación para hacer la navegación.
 
