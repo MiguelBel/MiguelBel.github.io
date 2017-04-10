@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Convirtiendo Minimal Viewer en una app móvil
 ---
 Hace un tiempo creé [MinimalViewer](https://github.com/MiguelBel/MinimalViewer), tardé muy poco en conseguir que me aportase valor. Fundamentalmente es una forma inteligente de leer webs -sin anuncios, sin repetir lo que ya has visto...-, puedes ver un ejemplo en [MinimalViewer for HackerNews](http://www.minimalviewer.com/viewers/hackernews). 
