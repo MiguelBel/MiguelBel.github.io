@@ -132,6 +132,8 @@ small, .aside {
 
 #content img {
   max-width: 100%;
+  margin: 0 auto;
+  display: block;
 }
 
 table {
