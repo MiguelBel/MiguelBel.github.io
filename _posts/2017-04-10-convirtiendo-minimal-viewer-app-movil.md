@@ -20,7 +20,7 @@ Es una aplicación sencilla, son 4 pantallas y la lógica es simple. Llamar a un
 
 Lo último que hice de móvil fue hace por lo menos 4 o 5 años con [PhoneGap](http://phonegap.com/). El resultado fue bastante decepcionante. No me planteo volver a elegir una tecnología que dependa de un `webkit`. Aunque solo quiero hacer la app para iPhone, tampoco me planteo hacerlo con `Objective-C` o `Swift`. Quiero iterar lo más rápido posible. Por tanto queda la versión intermedia algo como [Titanium](https://www.appcelerator.com/mobile-app-development-products/) o [React Native]([https://facebook.github.io/react-native/). 
 
-Ya que MinimalViewer está hecho en [React](https://facebook.github.io/react/) elijo `React Native`. Aprovechando que he usado la plantilla de sketch de `Native Base`, tampoco me caliento mucho la cabeza elijiendo kit de UI y utilizo esta.
+Ya que MinimalViewer está hecho en [React](https://facebook.github.io/react/) elijo `React Native`. Aprovechando que he usado la plantilla de sketch de `Native Base`, tampoco me caliento mucho la cabeza eligiendo kit de UI y utilizo esta.
 
 Esta parte de la decisión es un poco mentira. No ha sido un ejercicio de probar y valorar tecnologías. Tenía la idea en la cabeza de lo que quería usar y luego me he justificado. Lo normal sería haber probado diferentes herramientas y después de evaluar haberme quedado con la más convenientes. Al ser un proyecto personal tampoco quiero entretenerme mucho en esta parte. Me planteo cuantas veces queremos afrontar un desarrollo y justificamos las decisiones de las tecnologías empleadas en lugar de buscar la tecnología más adecuada.
 
@@ -78,4 +78,4 @@ De momento no me planteo publicar la app en la `App Store`. Quizá en el futuro 
 
 Llegados a este punto, en seguida te planteas nuevas funcionalidades y mejoras. No voy a hacerlas por ahora, ya tengo lo que quería, voy a seguir usando la aplicación y cuando piense -con el uso- que hacen falta mejoras, las añadiré.
 
-La idea que tenía con este post es la de mostrar como intento desarrollar proyectos personales de manera sostenible. Intentando ser lo más pragmático posible intento evitar el desarrollar un producto muy complejo que tiene funcionalidades innecesarias. Si tengo que destacar algo de este `post` es el hecho de tener claro un final. Todos hemos dejado proyectos personales a medias. Diría que la razón principal, al menos en mi caso, es no tener claro el objetivo. 
+La idea que tenía con este post es la de mostrar como intento desarrollar proyectos personales de manera sostenible. Intentando ser lo más pragmático posible intento evitar el desarrollar un producto muy complejo que tiene funcionalidades innecesarias. Si tengo que destacar algo de este `post` es el hecho de tener claro un final. Todos hemos dejado proyectos personales a medias. Diría que la razón principal, al menos en mi caso, es no tener claro el objetivo.
