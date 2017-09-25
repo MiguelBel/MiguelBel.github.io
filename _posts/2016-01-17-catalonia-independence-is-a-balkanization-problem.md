@@ -51,9 +51,9 @@ As you can see, there is a majority of counties with majority of pro-independenc
 | Counties with majority pro independent | 33 |
 | Counties with majority against Independence | 8 |
 
-The interest thing come now. If look to the population and the GBP of the counties according to their position within the independence, you will find an interesting fact:
+The interest thing come now. If look to the population and the GDP of the counties according to their position within the independence, you will find an interesting fact:
 
-| Position | GBP (Milions of euros) | Population |
+| Position | GDP (Milions of euros) | Population |
 | -------- | ---------------------- | ---------- |
 | Counties with majority against Independence | 145.604,29 | 4.838.613 |
 | Counties with majority pro independent | 60.769,60 | 2.644.151 |
