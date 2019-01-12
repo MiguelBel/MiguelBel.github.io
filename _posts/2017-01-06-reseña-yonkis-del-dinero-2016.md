@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 title: Reseña "Yonkis del dinero" (2016)
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 title: 'Reseña "Beyond Measure: The Big Impact of Small Changes" (2015)'
 ---

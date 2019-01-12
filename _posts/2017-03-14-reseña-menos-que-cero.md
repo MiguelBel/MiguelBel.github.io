@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 title: Reseña "Menos que cero" (1985)
 ---

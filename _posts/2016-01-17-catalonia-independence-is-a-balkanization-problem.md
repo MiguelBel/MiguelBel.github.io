@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 title: Catalonia independence is a balkanization problem
 layout: post

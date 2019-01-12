@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Boris Skossyreff and monarchical Andorra
 layout: post
 ---

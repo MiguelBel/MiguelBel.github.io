@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 title: Reseña "Partir" (2016)
 ---
