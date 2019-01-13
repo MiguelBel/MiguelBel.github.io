@@ -4,9 +4,10 @@ def meta
   <<~EOF
     ---
     layout: default
-    title: Bookshelf
+    title: Libros que leo
     permalink: /bookshelf/
     ---
+    <p>En 2016 empecé a hacer un excel para guardar todos los libros que iba leyendo. La he pasado a formato web. Aquí puedes encontrar casi -si no los acabo o son libros de consulta no los anoto- todos los libros que he leído desde 2016. Algunos tienen reseñas. Si tienes dificultad para encontrar alguno no dudes en pedir ayuda.</p>
   EOF
 end
 

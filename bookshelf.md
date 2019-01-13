@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Bookshelf
+title: Libros que leo
 permalink: /bookshelf/
 ---
+<p>En 2016 empecé a hacer un excel para guardar todos los libros que iba leyendo. La he pasado a formato web. Aquí puedes encontrar casi -si no los acabo o leo solo trozos no los cuento- todos los libros que he leído desde 2016. Algunos tienen reseñas. Si tienes dificultad para encontrar alguno no dudes en pedir ayuda.</p>
 
 <h2 class="year f2 avenir yellow">2019</h2>
 
@@ -374,7 +375,8 @@ permalink: /bookshelf/
     <img src="/assets/manu.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/05/06/resen-a-manu.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/8415862040" target="_blank">Link</a>
   </div>
 </div>
@@ -383,7 +385,8 @@ permalink: /bookshelf/
     <img src="/assets/cityofgolddubaiandthedreamofcapitalism.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/04/09/resen-a-city-of-gold.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/0312655436" target="_blank">Link</a>
   </div>
 </div>
@@ -392,7 +395,8 @@ permalink: /bookshelf/
     <img src="/assets/partir.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/03/20/resen-a-partir.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/B01IRUJKT6" target="_blank">Link</a>
   </div>
 </div>
@@ -401,7 +405,8 @@ permalink: /bookshelf/
     <img src="/assets/menosquecero.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/03/14/resen-a-menos-que-cero.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/0679781498" target="_blank">Link</a>
   </div>
 </div>
@@ -410,7 +415,8 @@ permalink: /bookshelf/
     <img src="/assets/objetivoinfluencer.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/03/13/resen-a-objetivo-influencer.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/8416002533" target="_blank">Link</a>
   </div>
 </div>
@@ -428,7 +434,8 @@ permalink: /bookshelf/
     <img src="/assets/unanovelafrancesa.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/02/12/resen-a-una-novela-francesa.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/8433975692" target="_blank">Link</a>
   </div>
 </div>
@@ -437,7 +444,8 @@ permalink: /bookshelf/
     <img src="/assets/sapiens.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/01/30/resen-a-sapiens.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/0099590085" target="_blank">Link</a>
   </div>
 </div>
@@ -446,7 +454,8 @@ permalink: /bookshelf/
     <img src="/assets/enelcamino.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/01/22/resen-a-en-el-camino.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/8433920146" target="_blank">Link</a>
   </div>
 </div>
@@ -455,7 +464,8 @@ permalink: /bookshelf/
     <img src="/assets/flashboyslarevolucindewallstreetcontraquienesmanipulanelmercado.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/01/14/resen-a-flash-boys.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/B00O4CWH38" target="_blank">Link</a>
   </div>
 </div>
@@ -464,7 +474,8 @@ permalink: /bookshelf/
     <img src="/assets/beyondmeasurethebigimpactofsmallchanges.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/01/09/resen-a-beyond-measure.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/B00QCDO0EQ" target="_blank">Link</a>
   </div>
 </div>
@@ -473,7 +484,8 @@ permalink: /bookshelf/
     <img src="/assets/yonquisdeldinero.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/2017/01/06/resen-a-yonkis-del-dinero-2016.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/841601289X" target="_blank">Link</a>
   </div>
 </div>
