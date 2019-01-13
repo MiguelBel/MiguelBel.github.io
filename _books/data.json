@@ -1,0 +1,802 @@
+[
+  {
+    "author": "Pablo Ol\u00f3ndriz L\u00e1zaro",
+    "cover": "vivirbiencon300eurosalmes.jpg",
+    "id": "B00D81BN68",
+    "post": null,
+    "title": "Vivir bien con 300 euros al mes",
+    "year": 2016
+  },
+  {
+    "author": "Pedro Calvo Martinez",
+    "cover": "gowexlagranestafa.jpg",
+    "id": "8423419347",
+    "post": null,
+    "title": "Gowex. La gran estafa",
+    "year": 2016
+  },
+  {
+    "author": "Wade Foster",
+    "cover": "theultimateguidetoremotework.jpg",
+    "id": "B00VDQ280A",
+    "post": null,
+    "title": "The Ultimate Guide to Remote Work",
+    "year": 2016
+  },
+  {
+    "author": "Nacho Carretero",
+    "cover": "faria.jpg",
+    "id": "8416001464",
+    "post": null,
+    "title": "Fari\u00f1a",
+    "year": 2016
+  },
+  {
+    "author": "Keith Ferrazzi",
+    "cover": "nuncacomassolo.jpg",
+    "id": "B00H4DJ85E",
+    "post": null,
+    "title": "Nunca comas solo",
+    "year": 2016
+  },
+  {
+    "author": "J.D Salinger",
+    "cover": "elguardinentreelcenteno.jpg",
+    "id": "8420674206",
+    "post": null,
+    "title": "El guardi\u00e1n entre el centeno",
+    "year": 2016
+  },
+  {
+    "author": "Duane Jackson",
+    "cover": "fourthousanddaysmyjourneyfromprisontobusinesssuccess.jpg",
+    "id": "B00W3QRNWM",
+    "post": null,
+    "title": "Four Thousand Days: My Journey From Prison To Business Success ",
+    "year": 2016
+  },
+  {
+    "author": "Aleandro Cao de Ben\u00f3s",
+    "cover": "almarojasangreazul.jpg",
+    "id": "8415706154",
+    "post": null,
+    "title": "Alma Roja, Sangre Azul",
+    "year": 2016
+  },
+  {
+    "author": "Peter Thiel",
+    "cover": "deceroauno.jpg",
+    "id": "B00KHX0II4",
+    "post": null,
+    "title": "De Cero a Uno",
+    "year": 2016
+  },
+  {
+    "author": "Richard A Muller",
+    "cover": "energyforfuturepresidentsthesciencebehindtheheadlines.jpg",
+    "id": "B008DZ2CCS",
+    "post": null,
+    "title": "Energy for Future Presidents: The Science Behind the Headlines ",
+    "year": 2016
+  },
+  {
+    "author": "Fr\u00e9d\u00e9ric Beigbeder",
+    "cover": "elamorduratresaos.jpg",
+    "id": "8433977873",
+    "post": null,
+    "title": "El amor dura tres a\u00f1os",
+    "year": 2016
+  },
+  {
+    "author": "Christina Wodtke",
+    "cover": "radicalfocusachievingyourmostimportantgoalswithobjectivesandkeyresults.jpg",
+    "id": "B01BFKJA0Y",
+    "post": null,
+    "title": "Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results",
+    "year": 2016
+  },
+  {
+    "author": "Anton Ch\u00e9jov",
+    "cover": "cuadernodenotas.jpg",
+    "id": "848393048X",
+    "post": null,
+    "title": "Cuaderno de Notas",
+    "year": 2016
+  },
+  {
+    "author": "Pekka Himanem ",
+    "cover": "laticahacker.jpg",
+    "id": "9507320334",
+    "post": null,
+    "title": "La \u00e9tica hacker",
+    "year": 2016
+  },
+  {
+    "author": "John Lefevre",
+    "cover": "straighttohell.jpg",
+    "id": "0802123309",
+    "post": null,
+    "title": "Straight to hell",
+    "year": 2016
+  },
+  {
+    "author": "Enric Gonzalez",
+    "cover": "historiasdenuevayork.jpg",
+    "id": "B00FFBV9W2",
+    "post": null,
+    "title": "Historias de Nueva York",
+    "year": 2016
+  },
+  {
+    "author": "Michel Houellebecq",
+    "cover": "plataforma.jpg",
+    "id": "B00JAND2NA",
+    "post": null,
+    "title": "Plataforma",
+    "year": 2016
+  },
+  {
+    "author": "Michel Houellebecq",
+    "cover": "ampliacindelcampodebatalla.jpg",
+    "id": "B00V74BEIK",
+    "post": null,
+    "title": "Ampliaci\u00f3n del campo de batalla",
+    "year": 2016
+  },
+  {
+    "author": "Bob Wescott ",
+    "cover": "everycomputerperformancebook.jpg",
+    "id": "1482657759",
+    "post": null,
+    "title": "Every Computer Performance Book ",
+    "year": 2016
+  },
+  {
+    "author": "Michel Houellebecq",
+    "cover": "lanzarote.jpg",
+    "id": "8433972480",
+    "post": null,
+    "title": "Lanzarote",
+    "year": 2016
+  },
+  {
+    "author": "Elizabeth Dunn",
+    "cover": "happymoney.jpg",
+    "id": "B00D478K3U",
+    "post": null,
+    "title": "Happy Money",
+    "year": 2016
+  },
+  {
+    "author": "Michel Houellebecq",
+    "cover": "laspartculaselementales.jpg",
+    "id": "8433967304",
+    "post": null,
+    "title": "Las part\u00edculas elementales",
+    "year": 2016
+  },
+  {
+    "author": "Michael Flocker",
+    "cover": "hedonismhandbookmasteringthelostartsofleisureandpleasure.jpg",
+    "id": "0306814145",
+    "post": null,
+    "title": "Hedonism Handbook: Mastering the Lost Arts of Leisure and Pleasure",
+    "year": 2016
+  },
+  {
+    "author": "Elvira Lindo",
+    "cover": "lugaresquenoquierocompartirconnadie.jpg",
+    "id": "B006GHB5SC",
+    "post": null,
+    "title": "Lugares que no quiero compartir con nadie",
+    "year": 2016
+  },
+  {
+    "author": "Sandro Mancuso",
+    "cover": "thesoftwarecraftsmanprofessionalismpragmatismpride.jpg",
+    "id": "0134052501",
+    "post": null,
+    "title": "The Software Craftsman: Professionalis\u200bm, Pragmatism, Pride",
+    "year": 2016
+  },
+  {
+    "author": "Paulo Coelho",
+    "cover": "elalquimista.jpg",
+    "id": "840807475X",
+    "post": null,
+    "title": "El Alquimista",
+    "year": 2016
+  },
+  {
+    "author": "Fr\u00e9d\u00e9ric Beigbeder",
+    "cover": "windowsontheworld.jpg",
+    "id": "8433972642",
+    "post": null,
+    "title": "Windows on the World",
+    "year": 2016
+  },
+  {
+    "author": "George Akerlof",
+    "cover": "phishingforphoolstheeconomicsofmanipulationanddeception.jpg",
+    "id": "0691168318",
+    "post": null,
+    "title": "Phishing for Phools: The Economics of Manipulation and Deception",
+    "year": 2016
+  },
+  {
+    "author": "Herman Hesse",
+    "cover": "loboestepario.jpg",
+    "id": "9681500954",
+    "post": null,
+    "title": "Lobo estepario",
+    "year": 2016
+  },
+  {
+    "author": "Fr\u00e9d\u00e9ric Beigbeder",
+    "cover": "1399euros.jpg",
+    "id": "843397792X",
+    "post": null,
+    "title": "13,99 Euros",
+    "year": 2016
+  },
+  {
+    "author": "Fr\u00e9d\u00e9ric Beigbeder",
+    "cover": "socorroperdn.jpg",
+    "id": "8433973711",
+    "post": null,
+    "title": "Socorro, Perd\u00f3n",
+    "year": 2016
+  },
+  {
+    "author": "David Sanch\u00eds",
+    "cover": "elsolucionador.jpg",
+    "id": "841665851X",
+    "post": null,
+    "title": "El Solucionador",
+    "year": 2016
+  },
+  {
+    "author": "Franz Kafka",
+    "cover": "cartaalpadre.jpg",
+    "id": "8471667339",
+    "post": null,
+    "title": "Carta al padre",
+    "year": 2016
+  },
+  {
+    "author": "Gabriele Romagnoli",
+    "cover": "viajarligero.jpg",
+    "id": "8416222223",
+    "post": null,
+    "title": "Viajar Ligero",
+    "year": 2016
+  },
+  {
+    "author": "Ernest Hemingway",
+    "cover": "elviejoyelmar.jpg",
+    "id": "8497594584",
+    "post": null,
+    "title": "El viejo y el mar",
+    "year": 2016
+  },
+  {
+    "author": "Ashlee Vance",
+    "cover": "elonmuskinventingthefuture.jpg",
+    "id": "0062301233",
+    "post": null,
+    "title": "Elon Musk : Inventing the Future",
+    "year": 2016
+  },
+  {
+    "author": "Phineas Mollod",
+    "cover": "elperfectogentleman.jpg",
+    "id": "8499892051",
+    "post": null,
+    "title": "El perfecto gentleman",
+    "year": 2016
+  },
+  {
+    "author": "Ryszard Kapuscinski",
+    "cover": "laguerradelftbolyotrosreportajes.jpg",
+    "id": "8433925245",
+    "post": null,
+    "title": "La guerra del f\u00fatbol y otros reportajes",
+    "year": 2016
+  },
+  {
+    "author": "Dan Lyons",
+    "cover": "disruptedmymisadventureinthestartupbubble.jpg",
+    "id": "B014DUUA3E",
+    "post": null,
+    "title": "Disrupted: My Misadventure in the Start-Up Bubble",
+    "year": 2016
+  },
+  {
+    "author": "Andre Agassi",
+    "cover": "open.jpg",
+    "id": "8415945485",
+    "post": null,
+    "title": "Open",
+    "year": 2016
+  },
+  {
+    "author": "Marty Cagan",
+    "cover": "inspiredhowtocreateproductscustomerslove.jpg",
+    "id": "0981690408",
+    "post": null,
+    "title": "Inspired: How To Create Products Customers Love ",
+    "year": 2016
+  },
+  {
+    "author": "Sandi Metz & Katrina Owen",
+    "cover": "99bottlesoop.jpg",
+    "id": "https://www.sandimetz.com/99bottles/",
+    "post": null,
+    "title": "99 bottles of OOP",
+    "year": 2016
+  },
+  {
+    "author": "Charles Bukowsky",
+    "cover": "mujeres.jpg",
+    "id": "8433920995",
+    "post": null,
+    "title": "Mujeres",
+    "year": 2016
+  },
+  {
+    "author": "Valent\u00ed Puig",
+    "cover": "rataseneljardn.jpg",
+    "id": "B008E54KFE",
+    "post": null,
+    "title": "Ratas en el jard\u00edn",
+    "year": 2016
+  },
+  {
+    "author": "I\u00f1aki Uriarte",
+    "cover": "diarios19992003.jpg",
+    "id": "849376714X",
+    "post": null,
+    "title": "Diarios (1999-2003)",
+    "year": 2016
+  },
+  {
+    "author": "Haruki Murakami",
+    "cover": "1q84primerlibro.jpg",
+    "id": "8483835991",
+    "post": null,
+    "title": "1Q84 Primer libro",
+    "year": 2016
+  },
+  {
+    "author": "Manuel Jabois",
+    "cover": "irseamadrid.jpg",
+    "id": "8493834955",
+    "post": null,
+    "title": "Irse a Madrid",
+    "year": 2016
+  },
+  {
+    "author": "Bret Easton Ellis",
+    "cover": "americanphsyco.jpg",
+    "id": "0679735771",
+    "post": null,
+    "title": "American Phsyco",
+    "year": 2016
+  },
+  {
+    "author": "Javier Reverte",
+    "cover": "newyorknewyork.jpg",
+    "id": "8401017521",
+    "post": null,
+    "title": "New York, New York...",
+    "year": 2016
+  },
+  {
+    "author": "Sergi Castillo Prats",
+    "cover": "yonquisdeldinero.jpg",
+    "id": "841601289X",
+    "post": null,
+    "title": "Yonquis del dinero",
+    "year": 2017
+  },
+  {
+    "author": "Margaret Heffernan",
+    "cover": "beyondmeasurethebigimpactofsmallchanges.jpg",
+    "id": "B00QCDO0EQ",
+    "post": null,
+    "title": "Beyond Measure: The Big Impact of Small Changes",
+    "year": 2017
+  },
+  {
+    "author": "Michael Lewis",
+    "cover": "flashboyslarevolucindewallstreetcontraquienesmanipulanelmercado.jpg",
+    "id": "B00O4CWH38",
+    "post": null,
+    "title": "Flash Boys: La revoluci\u00f3n de Wall Street contra quienes manipulan el mercado",
+    "year": 2017
+  },
+  {
+    "author": "Jack Kerouac",
+    "cover": "enelcamino.jpg",
+    "id": "8433920146",
+    "post": null,
+    "title": "En el camino",
+    "year": 2017
+  },
+  {
+    "author": "Yuval Noah Harari",
+    "cover": "sapiens.jpg",
+    "id": "0099590085",
+    "post": null,
+    "title": "Sapiens",
+    "year": 2017
+  },
+  {
+    "author": "Frederic Beigbeder",
+    "cover": "unanovelafrancesa.jpg",
+    "id": "8433975692",
+    "post": null,
+    "title": "Una novela francesa",
+    "year": 2017
+  },
+  {
+    "author": "Haruki Murakami",
+    "cover": "1q84segundolibro.jpg",
+    "id": "8483835991",
+    "post": null,
+    "title": "1Q84 Segundo libro",
+    "year": 2017
+  },
+  {
+    "author": "Cristina Blanco",
+    "cover": "objetivoinfluencer.jpg",
+    "id": "8416002533",
+    "post": null,
+    "title": "Objetivo: Influencer",
+    "year": 2017
+  },
+  {
+    "author": "Bret Easton Ellis",
+    "cover": "menosquecero.jpg",
+    "id": "0679781498",
+    "post": null,
+    "title": "Menos que cero",
+    "year": 2017
+  },
+  {
+    "author": "Luc\u00eda Baskaran",
+    "cover": "partir.jpg",
+    "id": "B01IRUJKT6",
+    "post": null,
+    "title": "Partir",
+    "year": 2017
+  },
+  {
+    "author": "Jim Krane",
+    "cover": "cityofgolddubaiandthedreamofcapitalism.jpg",
+    "id": "0312655436",
+    "post": null,
+    "title": "City of Gold: Dubai and the Dream of Capitalism",
+    "year": 2017
+  },
+  {
+    "author": "Manuel Jabois",
+    "cover": "manu.jpg",
+    "id": "8415862040",
+    "post": null,
+    "title": "Manu",
+    "year": 2017
+  },
+  {
+    "author": "Phil Knight",
+    "cover": "shoedog.jpg",
+    "id": "1501135910",
+    "post": null,
+    "title": "Shoe Dog",
+    "year": 2017
+  },
+  {
+    "author": "Haruki Murakami",
+    "cover": "1q84tercerlibro.jpg",
+    "id": "8483836203",
+    "post": null,
+    "title": "1Q84 tercer libro",
+    "year": 2017
+  },
+  {
+    "author": "Gay Talese",
+    "cover": "elmoteldelvoyeur.jpg",
+    "id": "B01MRM1BPQ",
+    "post": null,
+    "title": "El motel del voyeur",
+    "year": 2017
+  },
+  {
+    "author": "Javier Aznar",
+    "cover": "dndevamosabailarestanoche.jpg",
+    "id": "849462993X",
+    "post": null,
+    "title": "\u00bfD\u00f3nde vamos a bailar esta noche?",
+    "year": 2017
+  },
+  {
+    "author": "Melanie Swan",
+    "cover": "blockchainblueprintforaneweconomy.jpg",
+    "id": "B00SNS9JLW",
+    "post": null,
+    "title": "Blockchain: Blueprint for a New Economy",
+    "year": 2017
+  },
+  {
+    "author": "Siraj Raval",
+    "cover": "decentralizedapplicationsharnessingbitcoinsblockchaintechnology.jpg",
+    "id": "B01IO2VKHM",
+    "post": null,
+    "title": "Decentralized Applications: Harnessing Bitcoin's Blockchain Technology",
+    "year": 2017
+  },
+  {
+    "author": "Charles Bukowski",
+    "cover": "cartero.jpg",
+    "id": "8433920634",
+    "post": null,
+    "title": "Cartero",
+    "year": 2017
+  },
+  {
+    "author": "Charles Bukowski",
+    "cover": "factotum.jpg",
+    "id": "8433920057",
+    "post": null,
+    "title": "Factotum",
+    "year": 2017
+  },
+  {
+    "author": "Paul Auster",
+    "cover": "lainvencindelasoledad.jpg",
+    "id": "8432209805",
+    "post": null,
+    "title": "La invenci\u00f3n de la soledad",
+    "year": 2017
+  },
+  {
+    "author": "Michel Houellebecq",
+    "cover": "elmapayelterritorio.jpg",
+    "id": "8433977040",
+    "post": null,
+    "title": "El mapa y el territorio",
+    "year": 2017
+  },
+  {
+    "author": "Charles Simmons",
+    "cover": "aguasalada.jpg",
+    "id": "8416544263",
+    "post": null,
+    "title": "Agua Salada",
+    "year": 2017
+  },
+  {
+    "author": "Fernano J L\u00f3pez",
+    "cover": "cuandotodoerafcil.jpg",
+    "id": "8494434888",
+    "post": null,
+    "title": "Cuando todo era f\u00e1cil",
+    "year": 2017
+  },
+  {
+    "author": "Nassim Taleb",
+    "cover": "fooledbyrandomness.jpg",
+    "id": "B00K5190LE",
+    "post": null,
+    "title": "Fooled By Randomness",
+    "year": 2017
+  },
+  {
+    "author": "Nassim Taleb",
+    "cover": "blackswan.jpg",
+    "id": "B00K5190LE",
+    "post": null,
+    "title": "Black Swan",
+    "year": 2017
+  },
+  {
+    "author": "Andreas Antonopoulous",
+    "cover": "masteringbitcoin.jpg",
+    "id": "1491954388",
+    "post": null,
+    "title": "Mastering Bitcoin",
+    "year": 2017
+  },
+  {
+    "author": "Tom Wolfe",
+    "cover": "lahogueradelasvanidades.jpg",
+    "id": "8433920545",
+    "post": null,
+    "title": "La hoguera de las vanidades",
+    "year": 2017
+  },
+  {
+    "author": "Dino Buzzati",
+    "cover": "eldesiertodelostrtaros.jpg",
+    "id": "8420669865",
+    "post": null,
+    "title": "El desierto de los t\u00e1rtaros",
+    "year": 2017
+  },
+  {
+    "author": "Paul Auster",
+    "cover": "diariodeinvierno.jpg",
+    "id": "8432215503",
+    "post": null,
+    "title": "Diario de Invierno",
+    "year": 2017
+  },
+  {
+    "author": "Tsvevan Raztan",
+    "cover": "altlasdelbienyelmal.jpg",
+    "id": "8408165763",
+    "post": null,
+    "title": "Altlas del bien y el mal",
+    "year": 2017
+  },
+  {
+    "author": "Nassim Taleb",
+    "cover": "antifragile.jpg",
+    "id": "0141038225",
+    "post": null,
+    "title": "Antifragile",
+    "year": 2017
+  },
+  {
+    "author": "Tim Ferris",
+    "cover": "armasdetitanes.jpg",
+    "id": "842342894X",
+    "post": null,
+    "title": "Armas de titanes",
+    "year": 2018
+  },
+  {
+    "author": "Erik Dietrich",
+    "cover": "developerhegemony.jpg",
+    "id": "0692866809",
+    "post": null,
+    "title": "Developer Hegemony",
+    "year": 2018
+  },
+  {
+    "author": "Mario Vargas Llosa",
+    "cover": "travesurasdelaniamala.jpg",
+    "id": "8490625921",
+    "post": null,
+    "title": "Travesuras de la ni\u00f1a mala",
+    "year": 2018
+  },
+  {
+    "author": "Torcuato Luca de Tena",
+    "cover": "embajadorenelinfierno.jpg",
+    "id": "8492518553",
+    "post": null,
+    "title": "Embajador en el infierno",
+    "year": 2018
+  },
+  {
+    "author": "Nassim Taleb",
+    "cover": "skininthegame.jpg",
+    "id": "0525511075",
+    "post": null,
+    "title": "Skin in the game",
+    "year": 2018
+  },
+  {
+    "author": "Luis Garrido-Julve",
+    "cover": "tailandiaenpaosmenores.jpg",
+    "id": "1533147302",
+    "post": null,
+    "title": "Tailandia en pa\u00f1os menores",
+    "year": 2018
+  },
+  {
+    "author": "Rollo Tomassi",
+    "cover": "therationalmale.jpg",
+    "id": "1492777862",
+    "post": null,
+    "title": "The Rational Male",
+    "year": 2018
+  },
+  {
+    "author": "Alena KH",
+    "cover": "unaoyundia.jpg",
+    "id": "846666162X",
+    "post": null,
+    "title": "Un a\u00f1o y un dia",
+    "year": 2018
+  },
+  {
+    "author": "Truman Capote",
+    "cover": "desayunoentifannys.jpg",
+    "id": "8433920170",
+    "post": null,
+    "title": "Desayuno en Tifanny\u2019s",
+    "year": 2018
+  },
+  {
+    "author": "Bret Easton Ellis",
+    "cover": "suitesimperiales.jpg",
+    "id": "8439723288",
+    "post": null,
+    "title": "Suites imperiales",
+    "year": 2018
+  },
+  {
+    "author": "Bret Easton Ellis",
+    "cover": "lasleyesdelaatraccin.jpg",
+    "id": "8433923323",
+    "post": null,
+    "title": "Las leyes de la atracci\u00f3n",
+    "year": 2018
+  },
+  {
+    "author": "Frederic Beigbeder",
+    "cover": "oonaysalinger.jpg",
+    "id": "8433979450",
+    "post": null,
+    "title": "Oona y Salinger",
+    "year": 2018
+  },
+  {
+    "author": "Bret Easton Ellis",
+    "cover": "losconfidentes.jpg",
+    "id": "8440650345",
+    "post": null,
+    "title": "Los confidentes",
+    "year": 2018
+  },
+  {
+    "author": "Bret Easton Ellis",
+    "cover": "glamorama.jpg",
+    "id": "0330536311",
+    "post": null,
+    "title": "Glamorama",
+    "year": 2018
+  },
+  {
+    "author": "Henry Miller",
+    "cover": "tropicodecancer.jpg",
+    "id": "8435019314",
+    "post": null,
+    "title": "Tropico de Cancer",
+    "year": 2018
+  },
+  {
+    "author": "Rafael Fernandez",
+    "cover": "diariosdesexoylibertad.jpg",
+    "id": "https://elreydelcosmos.com/tienda/libro-diarios-secretos-de-sexo-y-libertad",
+    "post": null,
+    "title": "Diarios de sexo y libertad",
+    "year": 2018
+  },
+  {
+    "author": "Albert Camus",
+    "cover": "elextranjero.jpg",
+    "id": "8420669784",
+    "post": null,
+    "title": "El extranjero",
+    "year": 2018
+  },
+  {
+    "title": "Sumisión",
+    "author": "Michel Houellebecq",
+    "id": "843397923X",
+    "year": 2019,
+    "post": "/2019/01/12/resena-sumision.html",
+    "cover": "portada-sumision.jpg"
+  },
+  {
+    "title": "La última raya",
+    "author": "Javier Jorge",
+    "id": "8461388585",
+    "year": 2019,
+    "post": null,
+    "cover": "portada-la-ultima-raya.jpg"
+  }
+]

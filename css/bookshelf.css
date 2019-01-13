@@ -1,0 +1,26 @@
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.book {
+  margin-top: 20px;
+  width: 25%;
+  text-align: center;
+}
+
+.book .links {
+  margin-top: 5px;
+}
+
+.book .crop {
+  height: 225px;
+  width: 150px;
+  overflow: hidden;
+}
+
+.book .crop img {
+  height: auto;
+  width: 150px;
+}
