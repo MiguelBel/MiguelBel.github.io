@@ -13,6 +13,12 @@ For generate the bookshelf from the data in `_books/data.json`, use:
 docker-compose exec app ruby _books/generate_bookshelf.rb
 ```
 
+For add a book to the list (it retrieves some data straight from amazon):
+
+```
+docker-compose run app ruby _books/add_book.rb AMAZON_PRODUCT_ID
+```
+
 ### Development
 
 You can start the project with:
