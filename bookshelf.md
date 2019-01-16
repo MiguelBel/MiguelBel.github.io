@@ -3,21 +3,12 @@ layout: default
 title: Libros que leo
 permalink: /bookshelf/
 ---
-<p>En 2016 empecé a hacer un excel para guardar todos los libros que iba leyendo. La he pasado a formato web. Aquí puedes encontrar casi -si no los acabo o leo solo trozos no los cuento- todos los libros que he leído desde 2016. Algunos tienen reseñas. Si tienes dificultad para encontrar alguno no dudes en pedir ayuda.</p>
+<p>En 2016 empecé a hacer un excel para guardar todos los libros que iba leyendo. La he pasado a formato web. Aquí puedes encontrar casi -si no los acabo o son libros de consulta no los anoto- todos los libros que he leído desde 2016. Algunos tienen reseñas. Si tienes dificultad para encontrar alguno no dudes en pedir ayuda.</p>
 
 <h2 class="year f2 avenir yellow">2019</h2>
 
 <div class="book-list">
   <div class="book">
-  <div class="crop">
-    <img src="/assets/portada-la-ultima-raya.jpg" />
-  </div>
-  <div class="links">
-    
-    <a href="https://amazon.es/dp/8461388585" target="_blank">Link</a>
-  </div>
-</div>
-<div class="book">
   <div class="crop">
     <img src="/assets/portada-sumision.jpg" />
   </div>
