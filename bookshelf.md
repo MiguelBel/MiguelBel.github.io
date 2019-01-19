@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list">
   <div class="book">
   <div class="crop">
+    <img src="/assets/laultimaraya.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/01/19/laultimaraya.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8461388585" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book">
+  <div class="crop">
     <img src="/assets/portada-sumision.jpg" />
   </div>
   <div class="links">

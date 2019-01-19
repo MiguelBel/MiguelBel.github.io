@@ -10,7 +10,7 @@ Theme inspiration: [andre.arko.net](https://github.com/indirect/andre.arko.net)
 For generate the bookshelf from the data in `_books/data.json`, use:
 
 ```
-docker-compose exec app ruby _books/generate_bookshelf.rb
+docker-compose run app ruby _books/generate_bookshelf.rb
 ```
 
 For add a book to the list (it retrieves some data straight from amazon):
