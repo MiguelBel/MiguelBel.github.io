@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list">
   <div class="book">
   <div class="crop">
+    <img src="/assets/serotoninapanoramadenarrativas.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/01/24/serotoninapanoramadenarrativas.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/843398022X" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book">
+  <div class="crop">
     <img src="/assets/laultimaraya.jpg" />
   </div>
   <div class="links">
