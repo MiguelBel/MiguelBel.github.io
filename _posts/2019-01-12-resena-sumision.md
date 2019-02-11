@@ -6,7 +6,7 @@ title: Reseña "Sumisión" (2015)
 
 ![](/assets/portada-sumision.jpg){:width="350", :height="500"}
 
-Cuando leí "El amor dura tres años" de Beigbeder descubrí que a Houellebecq. No hace mucho leí el principio de "Posibilidad de una isla" pero no lo compré. Tenía en casa "Sumisión". Al ver que iba a sacar su nuevo libro en Enero, decidí empezarlo.
+Cuando leí "El amor dura tres años" de Beigbeder descubrí a Houellebecq porque lo recomendaban como un escritor similar. No hace mucho leí el principio de "Posibilidad de una isla" pero no lo compré. Tenía en casa "Sumisión". Al ver que iba a sacar su nuevo libro en Enero, decidí empezarlo.
 
 Los protagonistas de las novelas de Houellebecq suelen ser blancos, heterosexuales, blancos de mediana edad, sin problemas económicos y frustrados en muchos aspectos de la vida. El protagonista de "Sumisión" no es una excepción. El libro trata de una hipotética Francia donde el partido musulmán llega al poder.
 

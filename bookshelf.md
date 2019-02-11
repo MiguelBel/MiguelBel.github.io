@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list">
   <div class="book">
   <div class="crop">
+    <img src="/assets/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/1591848148" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book">
+  <div class="crop">
     <img src="/assets/serotoninapanoramadenarrativas.jpg" />
   </div>
   <div class="links">
