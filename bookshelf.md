@@ -10,6 +10,26 @@ permalink: /bookshelf/
 <div class="book-list">
   <div class="book">
   <div class="crop">
+    <img src="/assets/bartlebyelescribientenarrativa.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/02/22/bartlebyelescribientenarrativa.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8467039353" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book">
+  <div class="crop">
+    <img src="/assets/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/1484242696" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book">
+  <div class="crop">
     <img src="/assets/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.jpg" />
   </div>
   <div class="links">

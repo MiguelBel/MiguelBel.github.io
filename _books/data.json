@@ -814,5 +814,21 @@
     "year": 2019,
     "cover": "americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.jpg",
     "post": "/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html"
+  },
+  {
+    "title": "Quick Start Guide to Penetration Testing: With NMAP, OpenVAS and Metasploit",
+    "author": "Sagar Rahalkar",
+    "id": "1484242696",
+    "year": 2019,
+    "cover": "quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.jpg",
+    "post": "/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html"
+  },
+  {
+    "title": "Bartleby, el escribiente (Narrativa)",
+    "author": "Herman Melville",
+    "id": "8467039353",
+    "year": 2019,
+    "cover": "bartlebyelescribientenarrativa.jpg",
+    "post": "/2019/02/22/bartlebyelescribientenarrativa.html"
   }
 ]

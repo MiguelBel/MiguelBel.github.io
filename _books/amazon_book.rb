@@ -36,10 +36,13 @@ class AmazonBook
   end
 
   def author
-    content.
+    node = content.
       search('.contributorNameID').
-      first.
-      text
+      first || content.
+    search('.author a').
+    first
+
+    node.text
   end
 
   private
