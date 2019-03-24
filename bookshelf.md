@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list">
   <div class="book">
   <div class="crop">
+    <img src="/assets/thebuyside.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/03/04/thebuyside.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/0770437176" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book">
+  <div class="crop">
     <img src="/assets/bartlebyelescribientenarrativa.jpg" />
   </div>
   <div class="links">
