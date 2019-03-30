@@ -10,25 +10,35 @@
   <link rel="stylesheet" href="/css/syntax.css" type="text/css">
   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen">
   <link rel="stylesheet" href="/css/bookshelf.css" type="text/css">
+  <link rel="stylesheet" href="/css/flexboxgrid.min.css" type="text/css">
   <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
 
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
   <script type="text/javascript" src="http://use.typekit.com/qhr5xpd.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   {% feed_meta %}
 </head>
 <body>
-  <div id="content">
-    <div class="header">
+  <div class="row header">
+    <div class="col-md-3"></div>
+    <div class="col-xs-12 col-md-6">
       <ul>
         <li><a href="/">Posts</a> | </li>
         <li><a href="/about">Sobre mi</a> | </li>
         <li><a href="/bookshelf">Libros</a></li>
       </ul>
     </div>
+    <div class="col-md-3"></div>
+  </div>
 
-    {{ content }}
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-xs-12 col-md-6">
+      {{ content }}
+    <div class="col-md-3"></div>
   </div>
 
   <script>

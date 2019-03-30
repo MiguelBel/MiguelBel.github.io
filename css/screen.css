@@ -4,9 +4,6 @@ body {
   font-weight: 300;
   font-size: 14pt;
   line-height: 1.4em;
-  margin: 0 auto;
-  min-width: 25em;
-  max-width: 45em;
 }
 
 a {
@@ -34,12 +31,8 @@ h1, h2, h3, h4 {
 .clear { clear: both; }
 
 
-#header {
-  margin: 0 1em 2em 1em;
-}
-
-#content {
-  margin: 2em 4em;
+.header {
+  margin-top: 2em;
 }
 
 #footer {
@@ -56,47 +49,22 @@ h2.year {
   text-align: center;
 }
 
-.posts {
-  margin: 0 0 3.5em 0;
-  padding: 0;
+ul li {
   list-style: none outside;
-  position: relative;
 }
 
-.posts li {
-  line-height: 1.25em;
-  clear: left;
+.posts {
+  text-align: left;
 }
 
-.posts .post-date {
-  position: absolute;
-  left: 0;
+.post {
+  padding-top: 15px;
 }
 
-.posts .post-name {
-  float: left;
-  margin-left: 5em;
-  padding-bottom: 0.5em;
-}
-
-
-/** Post show page **/
 .post-date {
   float: right;
-  margin: 0;
-}
-
-.post-title {
-  clear: right;
-  color: #FFCC4C;
-}
-
-.last-post {
-  float: left;
-}
-
-.next-post {
-  float: right;
+  width: 130px;
+  text-align: right;
 }
 
 code {
@@ -160,3 +128,14 @@ table {
       margin-top: 0; }
     table tr th :last-child, table tr td :last-child {
       margin-bottom: 0; }
+
+ul {
+  padding-inline-start: 0px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
