@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list">
   <div class="book">
   <div class="crop">
+    <img src="/assets/esquefricaesas.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/03/30/esquefricaesas.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/1723872784" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book">
+  <div class="crop">
     <img src="/assets/thebuyside.jpg" />
   </div>
   <div class="links">
