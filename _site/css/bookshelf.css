@@ -1,0 +1,17 @@
+.book-list {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.book {
+  margin-bottom: 20px;
+}
+
+.book .crop {
+  height: 230px;
+}
+
+.book .crop img {
+  height: 225px;
+  width: 150px;
+}
