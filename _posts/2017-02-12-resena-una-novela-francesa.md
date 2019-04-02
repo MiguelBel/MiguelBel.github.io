@@ -11,7 +11,7 @@ Creo que al hacer la reseña de este libro no estoy haciendo únicamente la rese
 
 Tampoco esperéis una literatura profunda. Lo que lees es lo que hay. No deja de ser una versión afrancesada del estilo Bret Easton Ellis. Tampoco huye del tópico ni se esconde, de hecho, en este libro comenta la influencia del escritor norteaméricano.
 
-No recomiendo leer este libro sin haber léido antes alguno de sus otros libros. En especial 13.99 y Windows on the World. Me da la sensación que este libro supone un adiós, una justificación y una retrospectiva de lo que ha sido su vida. Además tiene algunos recuerdos de libros anteriores.
+No recomiendo leer este libro sin haber leído antes alguno de sus otros libros. En especial 13.99 y Windows on the World. Me da la sensación que este libro supone un adiós, una justificación y una retrospectiva de lo que ha sido su vida. Además tiene algunos recuerdos de libros anteriores.
 
 Puedes comprar el libro [aquí](http://amazon.es/dp/8433975692).
 
