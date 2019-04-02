@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Convirtiendo Minimal Viewer en una app móvil
 ---
-Hace un tiempo creé [MinimalViewer](https://github.com/MiguelBel/MinimalViewer), tardé muy poco en conseguir que me aportase valor. Fundamentalmente es una forma inteligente de leer webs -sin anuncios, sin repetir lo que ya has visto...-, puedes ver un ejemplo en [MinimalViewer for HackerNews](http://www.minimalviewer.com/viewers/hackernews). 
+Hace un tiempo creé [MinimalViewer](https://github.com/MiguelBel/MinimalViewer), tardé muy poco en conseguir que me aportase valor. Fundamentalmente es una forma inteligente de leer webs -sin anuncios, sin repetir lo que ya has visto...-, puedes ver un ejemplo en [MinimalViewer for HackerNews](http://www.minimalviewer.com/viewers/hackernews).
 
 Creé varios visores y los utilicé bastante hasta hace un par de meses. Cada vez me cuesta más tiempo pasar tiempo delante del ordenador si no es para desarrollar, en mi tiempo libre tiendo a usar el móvil. Por esta razón quiero convertir el proyecto en una aplicación móvil (iOS) y que me siga aportando valor.
 
@@ -15,11 +15,11 @@ Abro el [Sketch](https://www.sketchapp.com/), que prácticamente nunca he utiliz
 
 ![](http://i.imgur.com/l8gT15u.png)
 
-Es una aplicación sencilla, son 4 pantallas y la lógica es simple. Llamar a una `API`, pintar una lista, y luego llamar a otras `APIs` dependiendo del elemento que elijas. 
+Es una aplicación sencilla, son 4 pantallas y la lógica es simple. Llamar a una `API`, pintar una lista, y luego llamar a otras `APIs` dependiendo del elemento que elijas.
 
 ## Elegir tecnologías ~ 3 horas
 
-Lo último que hice de móvil fue hace por lo menos 4 o 5 años con [PhoneGap](http://phonegap.com/). El resultado fue bastante decepcionante. No me planteo volver a elegir una tecnología que dependa de un `webkit`. Aunque solo quiero hacer la app para iPhone, tampoco me planteo hacerlo con `Objective-C` o `Swift`. Quiero iterar lo más rápido posible. Por tanto queda la versión intermedia algo como [Titanium](https://www.appcelerator.com/mobile-app-development-products/) o [React Native]([https://facebook.github.io/react-native/). 
+Lo último que hice de móvil fue hace por lo menos 4 o 5 años con [PhoneGap](http://phonegap.com/). El resultado fue bastante decepcionante. No me planteo volver a elegir una tecnología que dependa de un `webkit`. Aunque solo quiero hacer la app para iPhone, tampoco me planteo hacerlo con `Objective-C` o `Swift`. Quiero iterar lo más rápido posible. Por tanto queda la versión intermedia algo como [Titanium](https://www.appcelerator.com/mobile-app-development-products/) o [React Native]([https://facebook.github.io/react-native/).
 
 Ya que MinimalViewer está hecho en [React](https://facebook.github.io/react/) elijo `React Native`. Aprovechando que he usado la plantilla de sketch de `Native Base`, tampoco me caliento mucho la cabeza eligiendo kit de UI y utilizo esta.
 
@@ -29,13 +29,13 @@ Aprovecho esta parte para profundizar en los conceptos que creo que me pueden fa
 
 **Flujo de trabajo**: Básicamente el hecho de pasar de aplicaciones web a móviles provoca un cambio de flujo de trabajo. Ya no ves el resultado en un navegador si no que lo haces en un simulador. El hecho de hacerlo en un simulador es que tienes que instalarte todo lo relacionado con él -`xcode`-. Aprovecho esta parte para familiarizarme con `React Native`. Al final resulta ser bastante sencillo e intuitivo.
 
-**Navegación**: En teoría el cambio de `React`, en el que sí que he hecho cosas, a `React Native` no debería ser muy grande a nivel de sintaxis y funcionamiento interno. Sin embargo tengo ciertas dudas en la navegación entre "pantallas". Por eso hago una pequeña aplicación que me permite resolver las dudas al respecto. 
+**Navegación**: En teoría el cambio de `React`, en el que sí que he hecho cosas, a `React Native` no debería ser muy grande a nivel de sintaxis y funcionamiento interno. Sin embargo tengo ciertas dudas en la navegación entre "pantallas". Por eso hago una pequeña aplicación que me permite resolver las dudas al respecto.
 
 <img src="http://i.imgur.com/EWQmWXR.gif" width="200">
 
-Intento ser lo más pragmático posible e ir al grano. No me preocupo del código limpio, ni de los tests, simplemente quiero entender minimamente como funciona la navegación en móvil. Lo que busco es un balance entre no emplear demasiado tiempo y que cuando esté desarrollando no tenga que volver a la documentación para hacer la navegación.
+Intento ser lo más pragmático posible e ir al grano. No me preocupo del código limpio, ni de los tests, simplemente quiero entender mínimamente como funciona la navegación en móvil. Lo que busco es un balance entre no emplear demasiado tiempo y que cuando esté desarrollando no tenga que volver a la documentación para hacer la navegación.
 
-**Tests**: Al ser `React Native` asumo que las librerías de tests unitarios van a ser las mismas que las de `React`. Sin embargo, me surge la duda de que pasa con los tests `end to end`. Ya tengo en la cabeza tomar la aplicación como la unidad más pequeña y ceñirme en principio a hacer tests `end to end`. 
+**Tests**: Al ser `React Native` asumo que las librerías de tests unitarios van a ser las mismas que las de `React`. Sin embargo, me surge la duda de que pasa con los tests `end to end`. Ya tengo en la cabeza tomar la aplicación como la unidad más pequeña y ceñirme en principio a hacer tests `end to end`.
 
 Después de pasar una hora y media viendo opciones de tests de interfaz, lo veo todo demasiado complejo y con demasiadas cosas que instalar como para dedicarle más tiempo. Desecho la idea de hacer tests `end to end`. Estaba empezando a frustrarme porque esperaba que hubiese una solución más depurada.
 
