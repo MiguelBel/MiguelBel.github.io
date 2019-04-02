@@ -6,8 +6,8 @@
 </description>
     <link>http://www.miguel.im/</link>
     <atom:link href="http://www.miguel.im/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Apr 2019 21:00:12 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Apr 2019 21:00:12 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Apr 2019 21:09:21 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Apr 2019 21:09:21 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -133,7 +133,7 @@
 
 &lt;p&gt;Compré el libro casi el mismo día que salió. De Houellebecq me gusta como es capaz de hablar sobre temas cotidianos en novelas grises.&lt;/p&gt;
 
-&lt;p&gt;Fiel a su estilo, un protagonista francés, blanco, acomodado, sin hijos y sin perspectivas de tenerlos nunca vaga durante cierto tiempo en un mundo que le resulta ajeno. Con una especie de anhedonía o simplemente una incapacidad de sentir, pasan las páginas hablando del amor, de la situación de la economía rural francesa o de los antidepresivos entre otras. Cínicamente, si no, no sería Houellebecq.&lt;/p&gt;
+&lt;p&gt;Fiel a su estilo, un protagonista francés, blanco, acomodado, sin hijos y sin perspectivas de tenerlos nunca vaga durante cierto tiempo en un mundo que le resulta ajeno. Con una especie de anhedonia o simplemente una incapacidad de sentir, pasan las páginas hablando del amor, de la situación de la economía rural francesa o de los antidepresivos entre otras. Cínicamente, si no, no sería Houellebecq.&lt;/p&gt;
 
 &lt;p&gt;Leí buenas críticas y tampoco me pareció para tanto, mejor que &lt;a href=&quot;/2019/01/12/resena-sumision.html&quot;&gt;Sumisión&lt;/a&gt; pero no su mejor obra.&lt;/p&gt;
 
@@ -243,7 +243,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/EWQmWXR.gif&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Intento ser lo más pragmático posible e ir al grano. No me preocupo del código limpio, ni de los tests, simplemente quiero entender minimamente como funciona la navegación en móvil. Lo que busco es un balance entre no emplear demasiado tiempo y que cuando esté desarrollando no tenga que volver a la documentación para hacer la navegación.&lt;/p&gt;
+&lt;p&gt;Intento ser lo más pragmático posible e ir al grano. No me preocupo del código limpio, ni de los tests, simplemente quiero entender mínimamente como funciona la navegación en móvil. Lo que busco es un balance entre no emplear demasiado tiempo y que cuando esté desarrollando no tenga que volver a la documentación para hacer la navegación.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Tests&lt;/strong&gt;: Al ser &lt;code class=&quot;highlighter-rouge&quot;&gt;React Native&lt;/code&gt; asumo que las librerías de tests unitarios van a ser las mismas que las de &lt;code class=&quot;highlighter-rouge&quot;&gt;React&lt;/code&gt;. Sin embargo, me surge la duda de que pasa con los tests &lt;code class=&quot;highlighter-rouge&quot;&gt;end to end&lt;/code&gt;. Ya tengo en la cabeza tomar la aplicación como la unidad más pequeña y ceñirme en principio a hacer tests &lt;code class=&quot;highlighter-rouge&quot;&gt;end to end&lt;/code&gt;.&lt;/p&gt;
 
