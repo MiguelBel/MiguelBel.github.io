@@ -14,9 +14,9 @@ if [ $branch_name = "master" ]; then
     git merge master
     docker-compose run app jekyll build
     git add .
-      git commit -m 'Automatic deploy'
-      git push eyl get-rid-github-pages -f
-      git checkout master
+    git commit -m 'Automatic deploy'
+    git push eyl get-rid-github-pages -f
+    git checkout master
     echo 'Done'
   else
     echo '[ERROR] Something is pending to be commited'
