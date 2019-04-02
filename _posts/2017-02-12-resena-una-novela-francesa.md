@@ -5,7 +5,7 @@ title: Reseña "Una novela francesa" (2009)
 ---
 ![](http://i.imgur.com/ACjM00R.jpg)
 
-De Beigbeder ya había leído [El amor dura tres años](https://www.amazon.es//dp/8433977873/), [13,99 euros](https://www.amazon.es/dp/843397792X/), [Windows on the World](https://www.amazon.es/dp/8433972642/) y [Socorro, perdón](https://www.amazon.es/dp/8433973711/). A raiz de la polémica de [uno de sus artículos](http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=b32313a722&e=9509ebed37), le eché un ojo a los libros que tenía. Me gustó la sinópsis de "Una novela francesa" y fue el elegido.
+De Beigbeder ya había leído [El amor dura tres años](https://www.amazon.es//dp/8433977873/), [13,99 euros](https://www.amazon.es/dp/843397792X/), [Windows on the World](https://www.amazon.es/dp/8433972642/) y [Socorro, perdón](https://www.amazon.es/dp/8433973711/). A raiz de la polémica de [uno de sus artículos](http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=b32313a722&e=9509ebed37), le eché un ojo a los libros que tenía. Me gustó la sinopsis de "Una novela francesa" y fue el elegido.
 
 Creo que al hacer la reseña de este libro no estoy haciendo únicamente la reseña de Beigbeder, si no la de toda su obra. Frédéric hace que parezca fácil. Ni siquiera puedo decir que escriba bien, solo escribe. Parece que no le cueste esfuerzo. El tono desenfadado, cercano te sumerge en su vida y en su forma de ver las cosas.
 
