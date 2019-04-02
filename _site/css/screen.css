@@ -1,0 +1,147 @@
+body {
+  color: #222;
+  font-family: "Lato", serif;
+  font-weight: 300;
+  font-size: 14pt;
+  line-height: 1.4em;
+  margin: 0 !important;
+}
+
+.row {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+a {
+  color: #444e5c;
+  text-decoration: none;
+  border-bottom: 1px solid #3498db;
+}
+
+.post-name a, #header h1 a{
+  border-bottom: none;
+  color:#3498db;
+  font-weight: 400;
+}
+
+a:hover, a:visited:hover { border-bottom: none; }
+a.image { border-bottom: 0; }
+
+h1, h2, h3, h4 {
+  color: #19AAD1;
+  font-weight: 600;
+  line-height: 1.5em;
+  margin-bottom: 0.3em;
+}
+
+.clear { clear: both; }
+
+
+.header {
+  margin-top: 2em;
+}
+
+#footer {
+  margin: 6em 4em 3em 4em;
+  font-size: 70%;
+  text-align: right;
+}
+
+
+/** Posts list page **/
+h2.year {
+  margin-top: 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+ul li {
+  list-style: none outside;
+}
+
+.posts {
+  text-align: left;
+}
+
+.post {
+  padding-top: 15px;
+}
+
+.post-date {
+  float: right;
+  width: 130px;
+  text-align: right;
+}
+
+code {
+  background-color: #F2F2F2;
+  font-size: 80%;
+}
+
+pre {
+  overflow: hidden;
+  background-color: #F2F2F2;
+  padding: 10px;
+  line-height: 1.0em;
+}
+
+pre code {
+  background-color: transparent;
+  overflow-x: auto; /* Use horizontal scroller if needed; for Firefox 2, not needed in Firefox 3 */
+  white-space: pre-wrap; /* css-3 */
+  white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  width: 99%;
+  word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+
+.gist {
+  font-size: 12px;
+}
+
+small, .aside {
+  font-size: 70%;
+}
+
+#content img {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+table {
+  padding: 0; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      text-align: left;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+ul {
+  padding-inline-start: 0px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
