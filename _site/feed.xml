@@ -4,11 +4,30 @@
     <title>blog.miguel.im</title>
     <description>I write, sometimes
 </description>
-    <link>http://www.miguel.im/</link>
-    <atom:link href="http://www.miguel.im/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Apr 2019 21:26:59 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Apr 2019 21:26:59 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 08 Apr 2019 21:59:23 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2019 21:59:23 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Reseña &quot;The Mastermind&quot; (2019)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/themastermindthehuntfortheworldsmostprolificcriminal.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En 2016 leí una historia de siete partes sobre &lt;a href=&quot;https://magazine.atavist.com/the-mastermind&quot;&gt;Paul Le Roux&lt;/a&gt;. Cuando lo vi por primera vez solo habían salido tres capítulos, los leí seguidos, cada semana salía uno y los esperaba con expectación. A finales de 2018 volví a leer la historia. Hace unos meses vi que el autor había publicado un libro. Le &lt;a href=&quot;https://twitter.com/MiguelB93/status/1100029349296857089&quot;&gt;pregunté&lt;/a&gt; si valía la pena después de leer lo publicado en Atavist, me dijo que sí así que compré el libro.&lt;/p&gt;
+
+&lt;p&gt;Paul Le Roux es un programador convertido a señor de la guerra. Creando una empresa de distribución de medicamentos al borde de la ley consigue dinero para intentar convertirse en un magnate de lo prohibido. A través de Internet es capaz de llevar incontables negocios -ilegales- con mayor o menor fortuna.&lt;/p&gt;
+
+&lt;p&gt;El libro me ha gustado pero es cierto que la historia de Paul Le Roux me fascinaba. Recomiendo el libro si te gustan las historias de criminales como &lt;a href=&quot;/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html&quot;&gt;Ross Ulbricht&lt;/a&gt;. Recomendaría leer los dos o tres primeros capítulos de Atavist y si estás interesado, comprar el libro.&lt;/p&gt;
+
+&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1787630242&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2019/04/07/themastermindthehuntfortheworldsmostprolificcriminal.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/04/07/themastermindthehuntfortheworldsmostprolificcriminal.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Reseña &quot;Es que África es así&quot; (2018)</title>
@@ -25,8 +44,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1723872784&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/03/30/esquefricaesas.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/03/30/esquefricaesas.html</guid>
+        <link>http://0.0.0.0:4000/2019/03/30/esquefricaesas.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/03/30/esquefricaesas.html</guid>
         
         
       </item>
@@ -46,8 +65,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0770437176&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/03/04/thebuyside.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/03/04/thebuyside.html</guid>
+        <link>http://0.0.0.0:4000/2019/03/04/thebuyside.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/03/04/thebuyside.html</guid>
         
         
       </item>
@@ -69,8 +88,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8467039353&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/02/22/bartlebyelescribientenarrativa.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/02/22/bartlebyelescribientenarrativa.html</guid>
+        <link>http://0.0.0.0:4000/2019/02/22/bartlebyelescribientenarrativa.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/02/22/bartlebyelescribientenarrativa.html</guid>
         
         
       </item>
@@ -88,8 +107,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1484242696&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html</guid>
+        <link>http://0.0.0.0:4000/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html</guid>
         
         
       </item>
@@ -121,8 +140,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1591848148&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html</guid>
+        <link>http://0.0.0.0:4000/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html</guid>
         
         
       </item>
@@ -140,8 +159,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/843398022X&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/01/24/serotoninapanoramadenarrativas.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/01/24/serotoninapanoramadenarrativas.html</guid>
+        <link>http://0.0.0.0:4000/2019/01/24/serotoninapanoramadenarrativas.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/01/24/serotoninapanoramadenarrativas.html</guid>
         
         
       </item>
@@ -161,8 +180,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8461388585&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/01/19/laultimaraya.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/01/19/laultimaraya.html</guid>
+        <link>http://0.0.0.0:4000/2019/01/19/laultimaraya.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/01/19/laultimaraya.html</guid>
         
         
       </item>
@@ -182,8 +201,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://www.amazon.es/dp/843397923X&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/01/12/resena-sumision.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/01/12/resena-sumision.html</guid>
+        <link>http://0.0.0.0:4000/2019/01/12/resena-sumision.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/01/12/resena-sumision.html</guid>
         
         
       </item>
@@ -205,95 +224,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://www.amazon.es/dp/8415862040/&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2017/05/06/resena-manu.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2017/05/06/resena-manu.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Convirtiendo Minimal Viewer en una app móvil</title>
-        <description>&lt;p&gt;Hace un tiempo creé &lt;a href=&quot;https://github.com/MiguelBel/MinimalViewer&quot;&gt;MinimalViewer&lt;/a&gt;, tardé muy poco en conseguir que me aportase valor. Fundamentalmente es una forma inteligente de leer webs -sin anuncios, sin repetir lo que ya has visto…-, puedes ver un ejemplo en &lt;a href=&quot;http://www.minimalviewer.com/viewers/hackernews&quot;&gt;MinimalViewer for HackerNews&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Creé varios visores y los utilicé bastante hasta hace un par de meses. Cada vez me cuesta más tiempo pasar tiempo delante del ordenador si no es para desarrollar, en mi tiempo libre tiendo a usar el móvil. Por esta razón quiero convertir el proyecto en una aplicación móvil (iOS) y que me siga aportando valor.&lt;/p&gt;
-
-&lt;h2 id=&quot;prototipado--1-hora&quot;&gt;Prototipado ~ 1 hora&lt;/h2&gt;
-
-&lt;p&gt;Nunca he prototipado el diseño ni tampoco el resultado deseado cuando he hecho proyectos de fin de semana. Esto me suele llevar a pensar el resultado final una vez estoy maquetando. Suele ser pesado ya que acabas definiendo el resultado final a base de cambiar ficheros &lt;code class=&quot;highlighter-rouge&quot;&gt;.css&lt;/code&gt;. Para este proyecto he decidido tener el resultado de lo que quiero antes de empezar.&lt;/p&gt;
-
-&lt;p&gt;Abro el &lt;a href=&quot;https://www.sketchapp.com/&quot;&gt;Sketch&lt;/a&gt;, que prácticamente nunca he utilizado, me bajo la plantilla de &lt;a href=&quot;https://nativebase.io/&quot;&gt;NativeBase&lt;/a&gt; y después de un rato obtengo esto:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/l8gT15u.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Es una aplicación sencilla, son 4 pantallas y la lógica es simple. Llamar a una &lt;code class=&quot;highlighter-rouge&quot;&gt;API&lt;/code&gt;, pintar una lista, y luego llamar a otras &lt;code class=&quot;highlighter-rouge&quot;&gt;APIs&lt;/code&gt; dependiendo del elemento que elijas.&lt;/p&gt;
-
-&lt;h2 id=&quot;elegir-tecnologías--3-horas&quot;&gt;Elegir tecnologías ~ 3 horas&lt;/h2&gt;
-
-&lt;p&gt;Lo último que hice de móvil fue hace por lo menos 4 o 5 años con &lt;a href=&quot;http://phonegap.com/&quot;&gt;PhoneGap&lt;/a&gt;. El resultado fue bastante decepcionante. No me planteo volver a elegir una tecnología que dependa de un &lt;code class=&quot;highlighter-rouge&quot;&gt;webkit&lt;/code&gt;. Aunque solo quiero hacer la app para iPhone, tampoco me planteo hacerlo con &lt;code class=&quot;highlighter-rouge&quot;&gt;Objective-C&lt;/code&gt; o &lt;code class=&quot;highlighter-rouge&quot;&gt;Swift&lt;/code&gt;. Quiero iterar lo más rápido posible. Por tanto queda la versión intermedia algo como &lt;a href=&quot;https://www.appcelerator.com/mobile-app-development-products/&quot;&gt;Titanium&lt;/a&gt; o &lt;a href=&quot;[https://facebook.github.io/react-native/&quot;&gt;React Native&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ya que MinimalViewer está hecho en &lt;a href=&quot;https://facebook.github.io/react/&quot;&gt;React&lt;/a&gt; elijo &lt;code class=&quot;highlighter-rouge&quot;&gt;React Native&lt;/code&gt;. Aprovechando que he usado la plantilla de sketch de &lt;code class=&quot;highlighter-rouge&quot;&gt;Native Base&lt;/code&gt;, tampoco me caliento mucho la cabeza eligiendo kit de UI y utilizo esta.&lt;/p&gt;
-
-&lt;p&gt;Esta parte de la decisión es un poco mentira. No ha sido un ejercicio de probar y valorar tecnologías. Tenía la idea en la cabeza de lo que quería usar y luego me he justificado. Lo normal sería haber probado diferentes herramientas y después de evaluar haberme quedado con la más convenientes. Al ser un proyecto personal tampoco quiero entretenerme mucho en esta parte. Me planteo cuantas veces queremos afrontar un desarrollo y justificamos las decisiones de las tecnologías empleadas en lugar de buscar la tecnología más adecuada.&lt;/p&gt;
-
-&lt;p&gt;Aprovecho esta parte para profundizar en los conceptos que creo que me pueden faltar cuando empiece el desarrollo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Flujo de trabajo&lt;/strong&gt;: Básicamente el hecho de pasar de aplicaciones web a móviles provoca un cambio de flujo de trabajo. Ya no ves el resultado en un navegador si no que lo haces en un simulador. El hecho de hacerlo en un simulador es que tienes que instalarte todo lo relacionado con él -&lt;code class=&quot;highlighter-rouge&quot;&gt;xcode&lt;/code&gt;-. Aprovecho esta parte para familiarizarme con &lt;code class=&quot;highlighter-rouge&quot;&gt;React Native&lt;/code&gt;. Al final resulta ser bastante sencillo e intuitivo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Navegación&lt;/strong&gt;: En teoría el cambio de &lt;code class=&quot;highlighter-rouge&quot;&gt;React&lt;/code&gt;, en el que sí que he hecho cosas, a &lt;code class=&quot;highlighter-rouge&quot;&gt;React Native&lt;/code&gt; no debería ser muy grande a nivel de sintaxis y funcionamiento interno. Sin embargo tengo ciertas dudas en la navegación entre “pantallas”. Por eso hago una pequeña aplicación que me permite resolver las dudas al respecto.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/EWQmWXR.gif&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Intento ser lo más pragmático posible e ir al grano. No me preocupo del código limpio, ni de los tests, simplemente quiero entender mínimamente como funciona la navegación en móvil. Lo que busco es un balance entre no emplear demasiado tiempo y que cuando esté desarrollando no tenga que volver a la documentación para hacer la navegación.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tests&lt;/strong&gt;: Al ser &lt;code class=&quot;highlighter-rouge&quot;&gt;React Native&lt;/code&gt; asumo que las librerías de tests unitarios van a ser las mismas que las de &lt;code class=&quot;highlighter-rouge&quot;&gt;React&lt;/code&gt;. Sin embargo, me surge la duda de que pasa con los tests &lt;code class=&quot;highlighter-rouge&quot;&gt;end to end&lt;/code&gt;. Ya tengo en la cabeza tomar la aplicación como la unidad más pequeña y ceñirme en principio a hacer tests &lt;code class=&quot;highlighter-rouge&quot;&gt;end to end&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Después de pasar una hora y media viendo opciones de tests de interfaz, lo veo todo demasiado complejo y con demasiadas cosas que instalar como para dedicarle más tiempo. Desecho la idea de hacer tests &lt;code class=&quot;highlighter-rouge&quot;&gt;end to end&lt;/code&gt;. Estaba empezando a frustrarme porque esperaba que hubiese una solución más depurada.&lt;/p&gt;
-
-&lt;h2 id=&quot;desarrollo--10-horas&quot;&gt;Desarrollo ~ 10 horas&lt;/h2&gt;
-
-&lt;p&gt;Puedes ver el código en el &lt;a href=&quot;https://github.com/MiguelBel/MinimalViewerMobile&quot;&gt;repositorio&lt;/a&gt;. Este post no tendría mucho sentido sin liberar el código.&lt;/p&gt;
-
-&lt;p&gt;Después de acabar un poco frustrado al ver que no iba a poder hacer &lt;a href=&quot;https://en.wikipedia.org/wiki/Behavior-driven_development&quot;&gt;Behaviour Driven Development&lt;/a&gt;, me puse a ello. Me quedé sorprendido de lo productivo que era en un campo que prácticamente no había tocado nunca. Era como programar para web, incluso más sencillo porque ya tenía toda la UI hecha gracias a &lt;code class=&quot;highlighter-rouge&quot;&gt;Native Base&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;El único punto donde estuve algo bloqueado y estuve un buen rato buscando en Google fue usando &lt;code class=&quot;highlighter-rouge&quot;&gt;AsyncStorage&lt;/code&gt; que es asíncrono y no tenía claro como aplicar &lt;code class=&quot;highlighter-rouge&quot;&gt;.filter&lt;/code&gt; , pero eso se debe a que tampoco he tocado tanto &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Si sabes &lt;code class=&quot;highlighter-rouge&quot;&gt;React&lt;/code&gt;, hacer algo en &lt;code class=&quot;highlighter-rouge&quot;&gt;React Native&lt;/code&gt; es trivial. Si sabes &lt;code class=&quot;highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt; hacer algo en &lt;code class=&quot;highlighter-rouge&quot;&gt;React&lt;/code&gt; es sencillo. Hacer apps móviles es bastante sencillo con esta solución.&lt;/p&gt;
-
-&lt;p&gt;El reto en esta parte fue el balancear entre la limpieza del código y el foco. Al tener ya los requisitos donde quería llegar el reto fue rebajar un poco la limpieza del código para no dedicarle demasiado tiempo. En el &lt;code class=&quot;highlighter-rouge&quot;&gt;readme&lt;/code&gt; del repositorio están los atajos que tomé para no dedicarle mucho tiempo a dejar el código perfecto. Se convertirá en deuda técnica si añado más cosas al producto, si no, así se quedará.&lt;/p&gt;
-
-&lt;p&gt;Al empezar el objetivo era conseguir las funcionalidades básicas (&lt;code class=&quot;highlighter-rouge&quot;&gt;swipe&lt;/code&gt;, contador, leer visores, leer entradas…) y dejar la maquetación para el final. Así que conseguí esto:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/USY1DTW.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Luego de aplicar los estilos, la aplicación quedó así:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/NoZSQ4e.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;pruebas--30-minutos&quot;&gt;Pruebas ~ 30 minutos&lt;/h2&gt;
-
-&lt;p&gt;Aunque mi idea de hacer &lt;code class=&quot;highlighter-rouge&quot;&gt;BDD&lt;/code&gt; no fue posible, sí que quería mantener ciclos cortos de &lt;code class=&quot;highlighter-rouge&quot;&gt;feedback&lt;/code&gt; así que después de cada cambio hacía las pruebas a mano. Por suerte, la aplicación es bastante simple, en apenas 5 movimientos puedes probar casi todas las funcionalidades pero llegó a un momento ciertamente cansado. Al final el hecho de tener que estar con el simulador en lugar de tener la &lt;code class=&quot;highlighter-rouge&quot;&gt;suite&lt;/code&gt; de tests en verde hace que pierdas el foco. Viendo como lo hacen en otros proyectos de &lt;code class=&quot;highlighter-rouge&quot;&gt;React Native&lt;/code&gt; se pueden usar snapshots pero ya pierdes el poder hacerlo antes.&lt;/p&gt;
-
-&lt;p&gt;No hice mucho test exploratorio, tampoco había necesidad, los casos extremos son pocos, el único defecto que encontré fue cuando estabas en el último elemento y pasabas al siguiente, daba error. Lo solucioné cuando lo descubrí.&lt;/p&gt;
-
-&lt;p&gt;En cuanto a los dispositivos solo probé para iOS, en iPhone 7, que es donde lo voy a usar. Tengo curiosidad por probarlo en el simulador de Android pero eso lo he dejado fuera del objetivo de esta parte.&lt;/p&gt;
-
-&lt;h2 id=&quot;despliegue--15-minutos&quot;&gt;Despliegue ~ 15 minutos&lt;/h2&gt;
-
-&lt;p&gt;Una de las cosas que me “preocupaba” era el tener que pagar la cuenta de desarrollador de Apple para poder probarlo en mi móvil. Son 100 dólares al año. Me parecía demasiado para simplemente probar la aplicación en mi móvil. Al parecer cambiaron la política hace unos años y ahora se puede probar en el móvil sin problemas sin tener que pagar nada.&lt;/p&gt;
-
-&lt;p&gt;Tuve un problema con el firmado que soluciono “googleando” por lo demás muy sencillo. Abrir el proyecto con el &lt;code class=&quot;highlighter-rouge&quot;&gt;XCode&lt;/code&gt;, conectar el móvil, seleccionarlo y desplegarlo.&lt;/p&gt;
-
-&lt;h2 id=&quot;y-ahora-qué&quot;&gt;¿Y ahora qué?&lt;/h2&gt;
-
-&lt;p&gt;De momento no me planteo publicar la app en la &lt;code class=&quot;highlighter-rouge&quot;&gt;App Store&lt;/code&gt;. Quizá en el futuro si considero que puede aportarle valor a alguien lo haga pero no es el caso ahora mismo.&lt;/p&gt;
-
-&lt;p&gt;Llegados a este punto, en seguida te planteas nuevas funcionalidades y mejoras. No voy a hacerlas por ahora, ya tengo lo que quería, voy a seguir usando la aplicación y cuando piense -con el uso- que hacen falta mejoras, las añadiré.&lt;/p&gt;
-
-&lt;p&gt;La idea que tenía con este post es la de mostrar como intento desarrollar proyectos personales de manera sostenible. Intentando ser lo más pragmático posible intento evitar el desarrollar un producto muy complejo que tiene funcionalidades innecesarias. Si tengo que destacar algo de este &lt;code class=&quot;highlighter-rouge&quot;&gt;post&lt;/code&gt; es el hecho de tener claro un final. Todos hemos dejado proyectos personales a medias. Diría que la razón principal, al menos en mi caso, es no tener claro el objetivo.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2017/04/10/convirtiendo-minimal-viewer-app-movil.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2017/04/10/convirtiendo-minimal-viewer-app-movil.html</guid>
+        <link>http://0.0.0.0:4000/2017/05/06/resena-manu.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2017/05/06/resena-manu.html</guid>
         
         
       </item>

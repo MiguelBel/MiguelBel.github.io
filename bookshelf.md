@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/themastermindthehuntfortheworldsmostprolificcriminal.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/04/07/themastermindthehuntfortheworldsmostprolificcriminal.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/1787630242" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/esquefricaesas.jpg" />
   </div>
   <div class="links">
