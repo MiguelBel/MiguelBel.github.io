@@ -6,9 +6,28 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jul 2019 06:31:43 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Jul 2019 06:31:43 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jul 2019 02:57:22 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Jul 2019 02:57:22 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Reseña &quot;Cityboy (2009)&quot;</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/cityboybeerandloathinginthesquaremile.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vi el libro recomendado en el blog de &lt;a href=&quot;http://mikaelsyding.com/&quot;&gt;Mikael Syding&lt;/a&gt;. Me llamó la atención. Los libros sobre el lado “humano” del mundo financiero suelen captar mi atención. Ya hice la reseña de &lt;a href=&quot;/2019/03/04/thebuyside.html&quot;&gt;“The Buy Side”&lt;/a&gt;, es parecido.&lt;/p&gt;
+
+&lt;p&gt;Si “The Buy Side” trataba sobre como influyen las relaciones de poder en la vida social de algunos empleados de &lt;em&gt;hedge funds&lt;/em&gt;, “Cityboy” trata sobre lo mismo pero con los analistas. Es en Londres en lugar de Nueva York, unos años antes, el antihéroe sigue el mismo patrón. Joven, algo idealista, entra en el mundo de la bolsa. No encuentra muchas dificultades para progresar al mismo tiempo que llena su vacío existencial con comida, sexo, alcohol y drogas. Con un poco de moralina a ratos, el protagonista acaba por dejar ese mundo ya que le consume la vida haciéndolo miserable.&lt;/p&gt;
+
+&lt;p&gt;Es entretenido pero no aporta mucho más que otros libros similares.&lt;/p&gt;
+
+&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0755346181&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2019/07/10/cityboybeerandloathinginthesquaremile.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/07/10/cityboybeerandloathinginthesquaremile.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Reseña &quot;La verdad de la tribu (2019)&quot;</title>
@@ -189,39 +208,6 @@
         <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Reseña &quot;American Kingpin&quot; (2017)</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Era el verano de 2012, dediqué bastante tiempo a explorar la &lt;em&gt;deep web&lt;/em&gt;. En mi Samsung con Ubuntu 12.04 (Precise pangolin) descargué Tor, me paseé por aquella red lenta y -no tan- peligrosa. El bitcoin valía cinco dólares después de un pico de más de veinte.&lt;/p&gt;
-
-&lt;p&gt;Recuerdo varias webs que visité:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Un foro de &lt;em&gt;carders/crackers/hackers&lt;/em&gt;. Vendían tarjetas, cuentas de paypal, bases de datos…&lt;/li&gt;
-  &lt;li&gt;Webs comunes con información “prohibida” que se podía encontrar igualmente en la &lt;em&gt;clearnet&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Silk Road&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Era la web más popular de la &lt;em&gt;deep web&lt;/em&gt;. Mucha de la información que había sobre la &lt;em&gt;red onion&lt;/em&gt;, que así se llamaba aquella maraña de intelegibles dominios &lt;em&gt;.onion&lt;/em&gt;, era para poder acceder a Silk Road. Se podía comprar todo tipo de drogas, armas, artículos prohibidos… No tenía ninguna intención de comprar nada. Me llamó más la atención como funcionaban los grupos de &lt;em&gt;carders&lt;/em&gt; (poco antes habían detenido a Josh The God y Cosmo The God miembros de UGNazi, LulzSec…) que Silk Road.&lt;/p&gt;
-
-&lt;p&gt;Más de un año más tarde cerrarían Silk Road, deteniendo a su creador. El bitcoin subiría a mil dólares y yo me arrepentiría durante bastante tiempo no haber comprado, pero esa es otra historia.&lt;/p&gt;
-
-&lt;p&gt;El libro trata de la vida de Ross Ulbricht. Explica que le llevó a crear la web, como consiguió que tuviera éxito y como fue detenido. Son capítulos cortos, se hacen bastante amenos. Hay capítulos desde la perspectiva de Ross así como de los agentes que le detuvieron.&lt;/p&gt;
-
-&lt;p&gt;Hay momentos en los que te planteas hasta donde llega la moral del pensamiento liberal. Es una mezcla entre ética e informática curiosa. En su día no me escandalizó excesivamente que se pudiese comprar “de todo” por internet a través de esos medios. Tampoco lo hace ahora, aunque eso no significa que esté de acuerdo con ello.&lt;/p&gt;
-
-&lt;p&gt;Siempre he tenido cierta fascinación morbosa por los “cibercriminales”. Recomiendo el libro.&lt;/p&gt;
-
-&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1591848148&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html</guid>
         
         
       </item>
