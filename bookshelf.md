@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/floresparaalgernongranangular.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/08/02/floresparaalgernongranangular.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/846751146X" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/cityboybeerandloathinginthesquaremile.jpg" />
   </div>
   <div class="links">

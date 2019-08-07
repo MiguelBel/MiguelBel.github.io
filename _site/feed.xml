@@ -6,9 +6,28 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Jul 2019 02:57:22 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Jul 2019 02:57:22 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Aug 2019 21:13:10 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Aug 2019 21:13:10 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Reseña &quot;Flores para Algernon (1966)&quot;</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/floresparaalgernongranangular.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Descubrí este libro porque lo vi usado para ilustrar una comparación en la que pasas de una ignorancia casi absoluta hasta un gran entendimiento. Me llamó la atención que se catalogase como “ciencia ficción”. El hecho de que el libro tuviese más de cincuenta años influyó para que lo priorizase.&lt;/p&gt;
+
+&lt;p&gt;La historia va sobre Charlie Gordon. Con un coeficiente de 60 lleva una vida más o menos independiente pero limitada por su -escasa- inteligencia. Es sometido a una operación en la que se multiplicará su capacidad intelectual.&lt;/p&gt;
+
+&lt;p&gt;Me gustó el estilo del libro ya que está escrito en forma de diario. Me sorprendió la viveza con la que detalla la maduración del personaje en el terreno personal. Creo que retrata, pese a no saber nada del tema, bastante bien la vida de alguien así en aquella época. Lo recomiendo.&lt;/p&gt;
+
+&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/846751146X&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2019/08/02/floresparaalgernongranangular.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/08/02/floresparaalgernongranangular.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Reseña &quot;Cityboy (2009)&quot;</title>
@@ -189,25 +208,6 @@
         <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:4000/2019/02/22/bartlebyelescribientenarrativa.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/2019/02/22/bartlebyelescribientenarrativa.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Reseña &quot;Quick Start Guide to Penetration Testing&quot; (2018)</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Encontré este libro en &lt;a href=&quot;https://learning.oreilly.com&quot;&gt;Safari books&lt;/a&gt;. Estaba buscando algo sobre pentesting y este libro parecía bastante ligero.&lt;/p&gt;
-
-&lt;p&gt;El libro es corto, se lee en cuatro ratos. Enseña a utilizar NMAP, OpenVAS y Metasploit.Me interesaba más lo que se podía hacer con esos programas más que aprender como utilizarlo de forma práctica.&lt;/p&gt;
-
-&lt;p&gt;Ya había utilizado NMAP antes. También sé lo que es una ip, un host, un puerto… el libro no lo explica, está muy centrado en las herramientas mencionadas. Quiero decir, es una introducción al pentesting relativa, si partes desde cero o con muy poco conocimiento estoy seguro que hay libros que hacen un mejor papel. Si por el contrario ya has usado NMAP o Metasploit probablemente se quede muy introductorio.&lt;/p&gt;
-
-&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1484242696&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:4000/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html</guid>
         
         
       </item>
