@@ -4,11 +4,30 @@
     <title>blog.miguel.im</title>
     <description>I write, sometimes
 </description>
-    <link>http://www.miguel.im/</link>
-    <atom:link href="http://www.miguel.im/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Aug 2019 17:10:29 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Aug 2019 17:10:29 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 29 Sep 2019 15:05:57 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Sep 2019 15:05:57 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Reseña &quot;El corazón de las tinieblas (1902)&quot;</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/elcorazndelastinieblascontemporanea.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Es un libro que tenía ganas de leer desde hace tiempo. Creo recordar que la primera vez que escuché hablar de él fue cuando estaba informándome sobre la colonización belga en el Congo. Según leí es el genocidio más grande de la historia y no es algo que mucha gente sepa. Empecé a leerlo en inglés y lo dejé. Finalmente me lo he leído en castellano.&lt;/p&gt;
+
+&lt;p&gt;Trata sobre la historia de un marino que pasa unos meses en el Congo en la época colonial. No es un libro largo.&lt;/p&gt;
+
+&lt;p&gt;No me ha gustado. Tenía muchas expectativas y no han sido cumplidas. Puedo elogiar las figuras éticas que encarnan los personajes pero poco más. La forma en la que está escrito me parece innecesariamente enrevesado. Es un libro clásico en la literatura de viajes pero ¯_(ツ)_/¯.&lt;/p&gt;
+
+&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8497596463&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2019/09/29/elcorazndelastinieblascontemporanea.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/09/29/elcorazndelastinieblascontemporanea.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Reseña &quot;El retrato de Dorian Gray (1890)&quot;</title>
@@ -23,8 +42,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8467033932&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/08/31/elretratodedoriangrayclsica.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/08/31/elretratodedoriangrayclsica.html</guid>
+        <link>http://0.0.0.0:4000/2019/08/31/elretratodedoriangrayclsica.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/08/31/elretratodedoriangrayclsica.html</guid>
         
         
       </item>
@@ -42,8 +61,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8437606756&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</guid>
+        <link>http://0.0.0.0:4000/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</guid>
         
         
       </item>
@@ -61,8 +80,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/846751146X&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/08/02/floresparaalgernongranangular.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/08/02/floresparaalgernongranangular.html</guid>
+        <link>http://0.0.0.0:4000/2019/08/02/floresparaalgernongranangular.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/08/02/floresparaalgernongranangular.html</guid>
         
         
       </item>
@@ -80,8 +99,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0755346181&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/07/10/cityboybeerandloathinginthesquaremile.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/07/10/cityboybeerandloathinginthesquaremile.html</guid>
+        <link>http://0.0.0.0:4000/2019/07/10/cityboybeerandloathinginthesquaremile.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/07/10/cityboybeerandloathinginthesquaremile.html</guid>
         
         
       </item>
@@ -99,8 +118,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8499929141&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</guid>
+        <link>http://0.0.0.0:4000/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</guid>
         
         
       </item>
@@ -120,8 +139,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0140100180&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/05/23/thebasketballdiaries.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/05/23/thebasketballdiaries.html</guid>
+        <link>http://0.0.0.0:4000/2019/05/23/thebasketballdiaries.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/05/23/thebasketballdiaries.html</guid>
         
         
       </item>
@@ -141,8 +160,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1846041244&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html</guid>
+        <link>http://0.0.0.0:4000/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html</guid>
         
         
       </item>
@@ -160,8 +179,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0143109677&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/05/07/letmypeoplegosurfing.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/05/07/letmypeoplegosurfing.html</guid>
+        <link>http://0.0.0.0:4000/2019/05/07/letmypeoplegosurfing.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/05/07/letmypeoplegosurfing.html</guid>
         
         
       </item>
@@ -179,29 +198,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1787630242&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/04/07/themastermindthehuntfortheworldsmostprolificcriminal.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/04/07/themastermindthehuntfortheworldsmostprolificcriminal.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Reseña &quot;Es que África es así&quot; (2018)</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/esquefricaesas.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hace un año empecé a seguir a &lt;a href=&quot;https://www.instagram.com/bufalomoto/&quot;&gt;Búfalo en Moto&lt;/a&gt;. Es un aventurero y lo sigo porque viaja en moto. Tiene varios libros publicados. Cuando vi por Instagram que había sacado un libro sobre su viaje en África, lo compré.&lt;/p&gt;
-
-&lt;p&gt;El libro trata de un viaje que hizo hace tres años desde Sudáfrica a Cádiz. El autor cuenta su experiencia de forma personal y “sin pelos en la lengua”. Por un lado cuenta detalles del viaje y por otro lado refleja su filosofía de vida.&lt;/p&gt;
-
-&lt;p&gt;Lo he leído a ratos en el ordenador. Cuando hablaba de ciertas localizaciones, dedicaba tiempo a mirar por Internet fotos del lugar así como su posición en el mapa.&lt;/p&gt;
-
-&lt;p&gt;El libro me ha gustado. Se me hizo un poco pesado al final la parte de crítica al sistema, el dinero y humanidad. Cosa que es consciente él porque hay un punto que dice que siente ser tan &lt;em&gt;pesado&lt;/em&gt;. Es un libro entretenido de leer, con partes bastante graciosas y otras profundas.&lt;/p&gt;
-
-&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1723872784&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/03/30/esquefricaesas.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/03/30/esquefricaesas.html</guid>
+        <link>http://0.0.0.0:4000/2019/04/07/themastermindthehuntfortheworldsmostprolificcriminal.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/04/07/themastermindthehuntfortheworldsmostprolificcriminal.html</guid>
         
         
       </item>

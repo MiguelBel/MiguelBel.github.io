@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/elcorazndelastinieblascontemporanea.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/09/29/elcorazndelastinieblascontemporanea.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8497596463" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/elretratodedoriangrayclsica.jpg" />
   </div>
   <div class="links">
