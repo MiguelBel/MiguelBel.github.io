@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/elcaminomscortonoficcin.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/09/30/elcaminomscortonoficcin.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8490706905" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/elcorazndelastinieblascontemporanea.jpg" />
   </div>
   <div class="links">
