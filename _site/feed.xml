@@ -4,11 +4,48 @@
     <title>blog.miguel.im</title>
     <description>I write, sometimes
 </description>
-    <link>http://www.miguel.im/</link>
-    <atom:link href="http://www.miguel.im/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Sep 2019 20:17:42 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Sep 2019 20:17:42 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Oct 2019 21:32:36 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2019 21:32:36 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Reseña &quot;The Mythical Man Month&quot; (1975)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/themythicalmanmonthessaysonsoftwareengineering.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ya intenté leer este libro hace 3 años (2016). No recuerdo quien dijo que le regalaría este libro a su manager -de la vieja escuela- y por eso me llamó la atención. Leí aproximadamente un tercio. Recuerdo porque lo dejé, me resultaba complicado empatizar con la experiencia del autor. No lo vi útil y en aquella época intentaba ser más pragmático.&lt;/p&gt;
+
+&lt;p&gt;El libro es de 1975, el autor programaba sistemas operativos de los que no había oído hablar. Mi experiencia desarrollando software es ampliamente diferente. Incluso en los capítulos añadidos para la versión de 1995 me cuesta sentirme identificado ya que habla de sistemas operativos (más modernos eso sí) y software para ordenadores personales. Mi experiencia desarrollando software profesionalmente es fundamentalmente “aplicaciones web” y “aplicaciones de servidor”.&lt;/p&gt;
+
+&lt;p&gt;Hace unas semanas volví a empezarlo. Las ideas principales resultan obvias hoy en día, al menos en el entorno donde me muevo, pero pensar como era el mundo entonces es un ejercicio de humildad. La única referencia internet (lo llama ARPANET) es para compartir documentación.&lt;/p&gt;
+
+&lt;p&gt;Ciertos capítulos son perfectamente válidos en el día de hoy, otros no tantos, al menos en mi contexto. La figura de un arquitecto central, la separación entre diseño y construcción, diagramas de Gantt… era algo necesario en aquella época, en mi experiencia no aplica a la forma en la que he trabajado. Los capítulos “obsoletos” al menos son curiosos. Es divertido dar como válidos los argumentos de esos capítulos e imaginar las limitaciones técnicas que llevan a ciertas decisiones.&lt;/p&gt;
+
+&lt;p&gt;Me quedo con conceptos como la “integridad conceptual” y “los grandes incrementos de productividad en la creación de software por accidente y no por esencia”.&lt;/p&gt;
+
+&lt;p&gt;Recomiendo ciertos capítulos, para la versión de 1995:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1.- The tar pit&lt;/li&gt;
+  &lt;li&gt;2.- The Mythical Man-Month&lt;/li&gt;
+  &lt;li&gt;7.- Why did the Tower of Babel Fail&lt;/li&gt;
+  &lt;li&gt;12.- Sharp Tools&lt;/li&gt;
+  &lt;li&gt;13.- The Whole and the Parts&lt;/li&gt;
+  &lt;li&gt;14.- Hatching a Catastrophe&lt;/li&gt;
+  &lt;li&gt;16.- No Silver Buller - Essence and Accident&lt;/li&gt;
+  &lt;li&gt;17.- “No Silver Buller” Refired&lt;/li&gt;
+  &lt;li&gt;19.- The Mythical Man-Month after 20 years&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0201835959&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Reseña &quot;El camino más corto (1974)&quot;</title>
@@ -23,8 +60,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8490706905&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/09/30/elcaminomscortonoficcin.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/09/30/elcaminomscortonoficcin.html</guid>
+        <link>http://0.0.0.0:4000/2019/09/30/elcaminomscortonoficcin.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/09/30/elcaminomscortonoficcin.html</guid>
         
         
       </item>
@@ -42,8 +79,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8497596463&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/09/29/elcorazndelastinieblascontemporanea.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/09/29/elcorazndelastinieblascontemporanea.html</guid>
+        <link>http://0.0.0.0:4000/2019/09/29/elcorazndelastinieblascontemporanea.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/09/29/elcorazndelastinieblascontemporanea.html</guid>
         
         
       </item>
@@ -61,8 +98,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8467033932&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/08/31/elretratodedoriangrayclsica.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/08/31/elretratodedoriangrayclsica.html</guid>
+        <link>http://0.0.0.0:4000/2019/08/31/elretratodedoriangrayclsica.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/08/31/elretratodedoriangrayclsica.html</guid>
         
         
       </item>
@@ -80,8 +117,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8437606756&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</guid>
+        <link>http://0.0.0.0:4000/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</guid>
         
         
       </item>
@@ -99,8 +136,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/846751146X&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/08/02/floresparaalgernongranangular.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/08/02/floresparaalgernongranangular.html</guid>
+        <link>http://0.0.0.0:4000/2019/08/02/floresparaalgernongranangular.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/08/02/floresparaalgernongranangular.html</guid>
         
         
       </item>
@@ -118,8 +155,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0755346181&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/07/10/cityboybeerandloathinginthesquaremile.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/07/10/cityboybeerandloathinginthesquaremile.html</guid>
+        <link>http://0.0.0.0:4000/2019/07/10/cityboybeerandloathinginthesquaremile.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/07/10/cityboybeerandloathinginthesquaremile.html</guid>
         
         
       </item>
@@ -137,8 +174,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8499929141&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</guid>
+        <link>http://0.0.0.0:4000/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</guid>
         
         
       </item>
@@ -158,8 +195,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0140100180&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/05/23/thebasketballdiaries.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/05/23/thebasketballdiaries.html</guid>
+        <link>http://0.0.0.0:4000/2019/05/23/thebasketballdiaries.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/05/23/thebasketballdiaries.html</guid>
         
         
       </item>
@@ -179,27 +216,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1846041244&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Reseña &quot;Let My People Go Surfing&quot; (2005)</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/letmypeoplegosurfing.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cuando emepecé, la lista de libros que quería leer, hace 3 años, este fue de los primeros que metí. Alguien, no recuerdo quien, me comentó la filosofía detrás de Patagonia. En aquel momento me pareció curioso pensamiento aplicado a la ropa de “repara antes de comprar” y por eso lo añadí.&lt;/p&gt;
-
-&lt;p&gt;El libro trata sobre los valores de Patagonia. También cuenta la historia de la marca. El libro tiene una gran cantidad de imágenes que hacen sencillo ver la imagen que quiere transmitir la marca.&lt;/p&gt;
-
-&lt;p&gt;Me gustó el principio, la parte de la historia y del fundador. Al final se me hizo un poco pesado. Eché en falta ejemplos de como los valores entraban en conflicto con la realidad. Me imagino que habrá pasado pero apenas dan unos pocos ejemplos superficiales.&lt;/p&gt;
-
-&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0143109677&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/2019/05/07/letmypeoplegosurfing.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/2019/05/07/letmypeoplegosurfing.html</guid>
+        <link>http://0.0.0.0:4000/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html</guid>
         
         
       </item>

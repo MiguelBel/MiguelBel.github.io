@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/themythicalmanmonthessaysonsoftwareengineering.jpg" />
+  </div>
+  <div class="links">
+    <a href="/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/0201835959" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/elcaminomscortonoficcin.jpg" />
   </div>
   <div class="links">
