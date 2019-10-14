@@ -13,9 +13,9 @@ Hace unas semanas volví a empezarlo. Las ideas principales resultan obvias hoy 
 
 Ciertos capítulos son perfectamente válidos en el día de hoy, otros no tantos, al menos en mi contexto. La figura de un arquitecto central, la separación entre diseño y construcción, diagramas de Gantt... era algo necesario en aquella época, en mi experiencia no aplica a la forma en la que he trabajado. Los capítulos "obsoletos" al menos son curiosos. Es divertido dar como válidos los argumentos de esos capítulos e imaginar las limitaciones técnicas que llevan a ciertas decisiones.
 
-Me quedo con conceptos como la "integridad conceptual" y "los grandes incrementos de productividad en la creación de software por accidente y no por esencia".
+Me quedo con conceptos como la "integridad conceptual" y "los grandes incrementos de productividad en la creación de software por accidente y no por esencia". También como refleja la necesidad de ciclos de feedback más cortos así como la necesidad de tener la certeza de que el programa funciona (CI/CD) que parecen ideas actuales y se basan en resolver problemas inherentes a la complejidad asociada al desarrollo de software.
 
-Recomiendo ciertos capítulos, para la versión de 1995:
+No recomendaría hoy en día el libro entero solo ciertos capítulos (versión de 1995):
 
 * 1.- The tar pit
 * 2.- The Mythical Man-Month

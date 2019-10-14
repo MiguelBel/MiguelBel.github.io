@@ -6,8 +6,8 @@
 </description>
     <link>http://www.miguel.im/</link>
     <atom:link href="http://www.miguel.im/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Oct 2019 21:33:27 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Oct 2019 21:33:27 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2019 21:37:48 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2019 21:37:48 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -22,9 +22,9 @@
 
 &lt;p&gt;Ciertos capítulos son perfectamente válidos en el día de hoy, otros no tantos, al menos en mi contexto. La figura de un arquitecto central, la separación entre diseño y construcción, diagramas de Gantt… era algo necesario en aquella época, en mi experiencia no aplica a la forma en la que he trabajado. Los capítulos “obsoletos” al menos son curiosos. Es divertido dar como válidos los argumentos de esos capítulos e imaginar las limitaciones técnicas que llevan a ciertas decisiones.&lt;/p&gt;
 
-&lt;p&gt;Me quedo con conceptos como la “integridad conceptual” y “los grandes incrementos de productividad en la creación de software por accidente y no por esencia”.&lt;/p&gt;
+&lt;p&gt;Me quedo con conceptos como la “integridad conceptual” y “los grandes incrementos de productividad en la creación de software por accidente y no por esencia”. También como refleja la necesidad de ciclos de feedback más cortos así como la necesidad de tener la certeza de que el programa funciona (CI/CD) que parecen ideas actuales y se basan en resolver problemas inherentes a la complejidad asociada al desarrollo de software.&lt;/p&gt;
 
-&lt;p&gt;Recomiendo ciertos capítulos, para la versión de 1995:&lt;/p&gt;
+&lt;p&gt;No recomendaría hoy en día el libro entero solo ciertos capítulos (versión de 1995):&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1.- The tar pit&lt;/li&gt;
