@@ -67,17 +67,3 @@
   color: #19AAD1;
 }
 
-.header ul {
-  list-style-type: none;
-  margin:0;
-  padding:0;
-}
-
-.header ul li, .header ul li a {
-  display: inline;
-  color: #FFCC4C;
-  font-weight: 600;
-  border-bottom: none;
-  text-decoration: none;
-  margin-right: 20px;
-}
