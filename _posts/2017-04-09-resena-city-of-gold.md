@@ -1,4 +1,5 @@
 ---
+categories: Books
 layout: post
 published: true
 title: Reseña "City of Gold. Dubai and the Dream of Capitalism" (2010)

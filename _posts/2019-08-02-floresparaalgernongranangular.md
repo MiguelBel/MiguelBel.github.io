@@ -1,4 +1,5 @@
 ---
+categories: Books
 layout: post
 published: true
 title: Reseña "Flores para Algernon (1966)"

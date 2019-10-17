@@ -1,4 +1,5 @@
 ---
+categories: Books
 layout: post
 published: true
 title: Reseña "Man's Search For Meaning" (1946)

@@ -1,4 +1,5 @@
 ---
+categories: Books
 layout: post
 published: true
 title: Reseña "El corazón de las tinieblas (1902)"

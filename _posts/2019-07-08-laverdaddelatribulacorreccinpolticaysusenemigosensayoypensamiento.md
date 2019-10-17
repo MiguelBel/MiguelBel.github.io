@@ -1,4 +1,5 @@
 ---
+categories: Books
 layout: post
 published: true
 title: Reseña "La verdad de la tribu (2019)"

@@ -1,4 +1,5 @@
 ---
+categories: Books
 layout: post
 published: true
 title: Reseña "Quick Start Guide to Penetration Testing" (2018)
