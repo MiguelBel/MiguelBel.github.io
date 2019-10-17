@@ -171,3 +171,7 @@ img {
 .site-title {
   color: #444e5c;
 }
+
+.site-title a {
+  text-decoration: none;
+}
