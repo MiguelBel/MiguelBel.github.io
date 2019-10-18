@@ -39,7 +39,7 @@ end
 
 def year_template(year:, content:)
   <<~EOF
-    <h2 class="year f2 avenir yellow">#{year}</h2>
+    <h2 class="year f2 avenir">#{year}</h2>
 
     <div class="book-list row">
       #{content}
