@@ -5,7 +5,7 @@ permalink: /bookshelf/
 ---
 <p>En 2016 empecé a hacer un excel para guardar todos los libros que iba leyendo. Lo he pasado a formato web. Aquí puedes encontrar casi -si no los acabo o son libros de consulta no los anoto- todos los libros que he leído desde 2016. Algunos tienen reseñas. Si tienes dificultad para encontrar alguno no dudes en pedir ayuda.</p>
 
-<h2 class="year f2 avenir yellow">2019</h2>
+<h2 class="year f2 avenir">2019</h2>
 
 <div class="book-list row">
   <div class="book col-md-3">
@@ -210,7 +210,7 @@ permalink: /bookshelf/
 </div>
 
 </div>
-<h2 class="year f2 avenir yellow">2018</h2>
+<h2 class="year f2 avenir">2018</h2>
 
 <div class="book-list row">
   <div class="book col-md-3">
@@ -368,7 +368,7 @@ permalink: /bookshelf/
 </div>
 
 </div>
-<h2 class="year f2 avenir yellow">2017</h2>
+<h2 class="year f2 avenir">2017</h2>
 
 <div class="book-list row">
   <div class="book col-md-3">
@@ -672,7 +672,7 @@ permalink: /bookshelf/
 </div>
 
 </div>
-<h2 class="year f2 avenir yellow">2016</h2>
+<h2 class="year f2 avenir">2016</h2>
 
 <div class="book-list row">
   <div class="book col-md-3">
