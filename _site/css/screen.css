@@ -49,7 +49,6 @@ h2.year {
   margin-top: 0;
   margin-bottom: 20px;
   text-align: center;
-  color: #444e5c;
 }
 
 ul li {
@@ -175,8 +174,4 @@ img {
 
 .site-title a {
   text-decoration: none;
-}
-
-.black {
-  color: #444e5c;
 }
