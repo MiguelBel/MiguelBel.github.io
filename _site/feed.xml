@@ -4,11 +4,32 @@
     <title>blog.miguel.im</title>
     <description>I write, sometimes
 </description>
-    <link>http://www.miguel.im/</link>
-    <atom:link href="http://www.miguel.im/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Oct 2019 13:55:14 +0000</pubDate>
-    <lastBuildDate>Fri, 18 Oct 2019 13:55:14 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Oct 2019 19:27:17 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2019 19:27:17 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Reseña &quot;El trap&quot; (2019)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Conocí a &lt;a href=&quot;https://twitter.com/ernest_castro&quot;&gt;@Ernesto Castro&lt;/a&gt; por sus entrevistas a &lt;a href=&quot;https://www.youtube.com/watch?v=VbEcfV-z9-s&quot;&gt;Yung Beef&lt;/a&gt; y &lt;a href=&quot;https://www.youtube.com/watch?v=ARo5SMMwUGA&quot;&gt;C. Tangana&lt;/a&gt;. Cuando supe que iba a sacar un libro sobre el trap no lo podía dejar pasar. Siempre me ha gustado el rap, es el género musical he escuchado siempre, sobretodo el underground. Cuando en 2012/2013 se reían de D. Gómez por sus videoclips, por pensar que era una parodia y en 2014 se empezó a popularizar fue la transición natural del underground. Con esto quiero decir que no soy objetivo, me gusta el trap, lo escucho y lo defiendo si es que necesita ser defendido.&lt;/p&gt;
+
+&lt;p&gt;El libro trata sobre este género musical, intenta definirlo, nombra precedentes y el autor usa el &lt;em&gt;name dropping&lt;/em&gt; además de proporcionar fuentes. Muchos de los artistas que nombra son conocidos si escuchas esta música pero hay muchos otros que al estar relacionados tangencialmente son “desconocidos” y es necesario tener el Youtube o el Spotify mientras vas leyendo.&lt;/p&gt;
+
+&lt;p&gt;Es un recurso muy útil para evidenciar que el trap no es una broma ni vacuo, tiene sus motivaciones y la falta de entendimiento de estas no justifica su critica ignorante.&lt;/p&gt;
+
+&lt;p&gt;Recomiendo el libro si te gusta el trap o tienes mucho interés, si no has escuchado nunca o tienes muy poco interés creo que se te va a hacer pesado.&lt;/p&gt;
+
+&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8417800115&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/2019/10/20/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/10/20/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Reseña &quot;The Mythical Man Month&quot; (1975)</title>
@@ -41,8 +62,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0201835959&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html</guid>
         
         
         <category>Books</category>
@@ -62,8 +83,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8490706905&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/09/30/elcaminomscortonoficcin.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/09/30/elcaminomscortonoficcin.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/09/30/elcaminomscortonoficcin.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/09/30/elcaminomscortonoficcin.html</guid>
         
         
         <category>Books</category>
@@ -83,8 +104,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8497596463&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/09/29/elcorazndelastinieblascontemporanea.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/09/29/elcorazndelastinieblascontemporanea.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/09/29/elcorazndelastinieblascontemporanea.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/09/29/elcorazndelastinieblascontemporanea.html</guid>
         
         
         <category>Books</category>
@@ -104,8 +125,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8467033932&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/08/31/elretratodedoriangrayclsica.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/08/31/elretratodedoriangrayclsica.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/08/31/elretratodedoriangrayclsica.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/08/31/elretratodedoriangrayclsica.html</guid>
         
         
         <category>Books</category>
@@ -125,8 +146,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8437606756&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html</guid>
         
         
         <category>Books</category>
@@ -146,8 +167,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/846751146X&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/08/02/floresparaalgernongranangular.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/08/02/floresparaalgernongranangular.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/08/02/floresparaalgernongranangular.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/08/02/floresparaalgernongranangular.html</guid>
         
         
         <category>Books</category>
@@ -167,8 +188,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0755346181&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/07/10/cityboybeerandloathinginthesquaremile.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/07/10/cityboybeerandloathinginthesquaremile.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/07/10/cityboybeerandloathinginthesquaremile.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/07/10/cityboybeerandloathinginthesquaremile.html</guid>
         
         
         <category>Books</category>
@@ -188,8 +209,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8499929141&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html</guid>
         
         
         <category>Books</category>
@@ -211,31 +232,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0140100180&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/05/23/thebasketballdiaries.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/05/23/thebasketballdiaries.html</guid>
-        
-        
-        <category>Books</category>
-        
-      </item>
-    
-      <item>
-        <title>Reseña &quot;Man's Search For Meaning&quot; (1946)</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/manssearchformeaningtheclassictributetohopefromtheholocaust.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Había visto este libro varias ocasiones recomendado en twitter. No sabía muy bien que esperar pero lo compré. Como el título indica, pensaba que estaría relacionado con la búsqueda del sentido, la misión vital.&lt;/p&gt;
-
-&lt;p&gt;La primera parte del libro, que además es la más amplia, me gustó mucho. El octubre pasado estuve en Auschwitz y todo lo que cuenta me recordó a lo que me contaron allí. Además resolvió algunas dudas que tenía desde entonces, relacionadas con la forma de vida de los presos. En esta parte del libro da pinceladas sobre el concepto de “sentido” en sus vivencias en el campo.&lt;/p&gt;
-
-&lt;p&gt;La última parte trata de la logoterapia, la corriente psicológica relacionada con el sentido de la vida. Hubo unas páginas que se me hicieron algo pesadas en gran parte por las expectativas de la primera parte. Hasta que empezó a dar ejemplos que fue más ameno. Esta última parte está incluida en versiones posteriores (en los 60 y 80) y no en la versión original.&lt;/p&gt;
-
-&lt;p&gt;No sé si recomendaría el libro. Es un libro muy recomendado, desde luego la primera parte es muy recomendable y realmente la disfruté. Lo demás me resonaba a autoayuda.&lt;/p&gt;
-
-&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1846041244&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/05/23/thebasketballdiaries.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/05/23/thebasketballdiaries.html</guid>
         
         
         <category>Books</category>
