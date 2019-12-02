@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Books
 published: true
 title: Reseña "El trap" (2019)
 ---
