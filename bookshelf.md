@@ -10,10 +10,20 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/sinblancaenparsylondrescontemporanea.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books//2019/11/27/sinblancaenparsylondrescontemporanea.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8499890881" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/10/20/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.html" target="_blank">Reseña</a>
+    <a href="/books//2019/10/20/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8417800115" target="_blank">Link</a>
   </div>
@@ -23,7 +33,7 @@ permalink: /bookshelf/
     <img src="/assets/themythicalmanmonthessaysonsoftwareengineering.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html" target="_blank">Reseña</a>
+    <a href="/books//2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/0201835959" target="_blank">Link</a>
   </div>
@@ -33,7 +43,7 @@ permalink: /bookshelf/
     <img src="/assets/elcaminomscortonoficcin.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/09/30/elcaminomscortonoficcin.html" target="_blank">Reseña</a>
+    <a href="/books//2019/09/30/elcaminomscortonoficcin.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8490706905" target="_blank">Link</a>
   </div>
@@ -43,7 +53,7 @@ permalink: /bookshelf/
     <img src="/assets/elcorazndelastinieblascontemporanea.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/09/29/elcorazndelastinieblascontemporanea.html" target="_blank">Reseña</a>
+    <a href="/books//2019/09/29/elcorazndelastinieblascontemporanea.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8497596463" target="_blank">Link</a>
   </div>
@@ -53,7 +63,7 @@ permalink: /bookshelf/
     <img src="/assets/elretratodedoriangrayclsica.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/08/31/elretratodedoriangrayclsica.html" target="_blank">Reseña</a>
+    <a href="/books//2019/08/31/elretratodedoriangrayclsica.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8467033932" target="_blank">Link</a>
   </div>
@@ -63,7 +73,7 @@ permalink: /bookshelf/
     <img src="/assets/ejerciciosdeestilocrticayestudiosliterarios.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html" target="_blank">Reseña</a>
+    <a href="/books//2019/08/31/ejerciciosdeestilocrticayestudiosliterarios.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8437606756" target="_blank">Link</a>
   </div>
@@ -73,7 +83,7 @@ permalink: /bookshelf/
     <img src="/assets/floresparaalgernongranangular.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/08/02/floresparaalgernongranangular.html" target="_blank">Reseña</a>
+    <a href="/books//2019/08/02/floresparaalgernongranangular.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/846751146X" target="_blank">Link</a>
   </div>
@@ -83,7 +93,7 @@ permalink: /bookshelf/
     <img src="/assets/cityboybeerandloathinginthesquaremile.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/07/10/cityboybeerandloathinginthesquaremile.html" target="_blank">Reseña</a>
+    <a href="/books//2019/07/10/cityboybeerandloathinginthesquaremile.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/0755346181" target="_blank">Link</a>
   </div>
@@ -93,7 +103,7 @@ permalink: /bookshelf/
     <img src="/assets/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html" target="_blank">Reseña</a>
+    <a href="/books//2019/07/08/laverdaddelatribulacorreccinpolticaysusenemigosensayoypensamiento.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8499929141" target="_blank">Link</a>
   </div>
@@ -103,7 +113,7 @@ permalink: /bookshelf/
     <img src="/assets/thebasketballdiaries.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/05/23/thebasketballdiaries.html" target="_blank">Reseña</a>
+    <a href="/books//2019/05/23/thebasketballdiaries.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/0140100180" target="_blank">Link</a>
   </div>
@@ -113,7 +123,7 @@ permalink: /bookshelf/
     <img src="/assets/manssearchformeaningtheclassictributetohopefromtheholocaust.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html" target="_blank">Reseña</a>
+    <a href="/books//2019/05/23/manssearchformeaningtheclassictributetohopefromtheholocaust.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/1846041244" target="_blank">Link</a>
   </div>
@@ -123,7 +133,7 @@ permalink: /bookshelf/
     <img src="/assets/letmypeoplegosurfing.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/05/07/letmypeoplegosurfing.html" target="_blank">Reseña</a>
+    <a href="/books//2019/05/07/letmypeoplegosurfing.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/0143109677" target="_blank">Link</a>
   </div>
@@ -133,7 +143,7 @@ permalink: /bookshelf/
     <img src="/assets/themastermindthehuntfortheworldsmostprolificcriminal.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/04/07/themastermindthehuntfortheworldsmostprolificcriminal.html" target="_blank">Reseña</a>
+    <a href="/books//2019/04/07/themastermindthehuntfortheworldsmostprolificcriminal.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/1787630242" target="_blank">Link</a>
   </div>
@@ -143,7 +153,7 @@ permalink: /bookshelf/
     <img src="/assets/esquefricaesas.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/03/30/esquefricaesas.html" target="_blank">Reseña</a>
+    <a href="/books//2019/03/30/esquefricaesas.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/1723872784" target="_blank">Link</a>
   </div>
@@ -153,7 +163,7 @@ permalink: /bookshelf/
     <img src="/assets/thebuyside.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/03/04/thebuyside.html" target="_blank">Reseña</a>
+    <a href="/books//2019/03/04/thebuyside.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/0770437176" target="_blank">Link</a>
   </div>
@@ -163,7 +173,7 @@ permalink: /bookshelf/
     <img src="/assets/bartlebyelescribientenarrativa.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/02/22/bartlebyelescribientenarrativa.html" target="_blank">Reseña</a>
+    <a href="/books//2019/02/22/bartlebyelescribientenarrativa.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8467039353" target="_blank">Link</a>
   </div>
@@ -173,7 +183,7 @@ permalink: /bookshelf/
     <img src="/assets/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html" target="_blank">Reseña</a>
+    <a href="/books//2019/02/11/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/1484242696" target="_blank">Link</a>
   </div>
@@ -183,7 +193,7 @@ permalink: /bookshelf/
     <img src="/assets/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html" target="_blank">Reseña</a>
+    <a href="/books//2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/1591848148" target="_blank">Link</a>
   </div>
@@ -193,7 +203,7 @@ permalink: /bookshelf/
     <img src="/assets/serotoninapanoramadenarrativas.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/01/24/serotoninapanoramadenarrativas.html" target="_blank">Reseña</a>
+    <a href="/books//2019/01/24/serotoninapanoramadenarrativas.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/843398022X" target="_blank">Link</a>
   </div>
@@ -203,7 +213,7 @@ permalink: /bookshelf/
     <img src="/assets/laultimaraya.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/01/19/laultimaraya.html" target="_blank">Reseña</a>
+    <a href="/books//2019/01/19/laultimaraya.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8461388585" target="_blank">Link</a>
   </div>
@@ -213,7 +223,7 @@ permalink: /bookshelf/
     <img src="/assets/portada-sumision.jpg" />
   </div>
   <div class="links">
-    <a href="/2019/01/12/resena-sumision.html" target="_blank">Reseña</a>
+    <a href="/books//2019/01/12/resena-sumision.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/843397923X" target="_blank">Link</a>
   </div>
@@ -566,7 +576,7 @@ permalink: /bookshelf/
     <img src="/assets/manu.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/05/06/reseña-manu.html" target="_blank">Reseña</a>
+    <a href="/books//2017/05/06/reseña-manu.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8415862040" target="_blank">Link</a>
   </div>
@@ -576,7 +586,7 @@ permalink: /bookshelf/
     <img src="/assets/cityofgolddubaiandthedreamofcapitalism.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/04/09/reseña-city-of-gold.html" target="_blank">Reseña</a>
+    <a href="/books//2017/04/09/reseña-city-of-gold.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/0312655436" target="_blank">Link</a>
   </div>
@@ -586,7 +596,7 @@ permalink: /bookshelf/
     <img src="/assets/partir.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/03/20/reseña-partir.html" target="_blank">Reseña</a>
+    <a href="/books//2017/03/20/reseña-partir.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/B01IRUJKT6" target="_blank">Link</a>
   </div>
@@ -596,7 +606,7 @@ permalink: /bookshelf/
     <img src="/assets/menosquecero.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/03/14/reseña-menos-que-cero.html" target="_blank">Reseña</a>
+    <a href="/books//2017/03/14/reseña-menos-que-cero.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/0679781498" target="_blank">Link</a>
   </div>
@@ -606,7 +616,7 @@ permalink: /bookshelf/
     <img src="/assets/objetivoinfluencer.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/03/13/reseña-objetivo-influencer.html" target="_blank">Reseña</a>
+    <a href="/books//2017/03/13/reseña-objetivo-influencer.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8416002533" target="_blank">Link</a>
   </div>
@@ -625,7 +635,7 @@ permalink: /bookshelf/
     <img src="/assets/unanovelafrancesa.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/02/12/reseña-una-novela-francesa.html" target="_blank">Reseña</a>
+    <a href="/books//2017/02/12/reseña-una-novela-francesa.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8433975692" target="_blank">Link</a>
   </div>
@@ -635,7 +645,7 @@ permalink: /bookshelf/
     <img src="/assets/sapiens.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/01/30/reseña-sapiens.html" target="_blank">Reseña</a>
+    <a href="/books//2017/01/30/reseña-sapiens.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/0099590085" target="_blank">Link</a>
   </div>
@@ -645,7 +655,7 @@ permalink: /bookshelf/
     <img src="/assets/enelcamino.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/01/22/reseña-en-el-camino.html" target="_blank">Reseña</a>
+    <a href="/books//2017/01/22/reseña-en-el-camino.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/8433920146" target="_blank">Link</a>
   </div>
@@ -655,7 +665,7 @@ permalink: /bookshelf/
     <img src="/assets/flashboyslarevolucindewallstreetcontraquienesmanipulanelmercado.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/01/14/reseña-flash-boys.html" target="_blank">Reseña</a>
+    <a href="/books//2017/01/14/reseña-flash-boys.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/B00O4CWH38" target="_blank">Link</a>
   </div>
@@ -665,7 +675,7 @@ permalink: /bookshelf/
     <img src="/assets/beyondmeasurethebigimpactofsmallchanges.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/01/09/reseña-beyond-measure.html" target="_blank">Reseña</a>
+    <a href="/books//2017/01/09/reseña-beyond-measure.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/B00QCDO0EQ" target="_blank">Link</a>
   </div>
@@ -675,7 +685,7 @@ permalink: /bookshelf/
     <img src="/assets/yonquisdeldinero.jpg" />
   </div>
   <div class="links">
-    <a href="/2017/01/06/reseña-yonkis-del-dinero-2016.html" target="_blank">Reseña</a>
+    <a href="/books//2017/01/06/reseña-yonkis-del-dinero-2016.html" target="_blank">Reseña</a>
 
     <a href="https://amazon.es/dp/841601289X" target="_blank">Link</a>
   </div>

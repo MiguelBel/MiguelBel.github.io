@@ -51,14 +51,14 @@ class AmazonBook
     return @content if @content
 
     headers = {
-      "User-Agent" => "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.149 Safari/537.36"
+      "user-agent" => "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36"
     }
 
     url = "#{BASE_URL}#{@id}"
 
     response = HTTParty.get(url, headers: headers)
 
-    @content = Nokogiri::HTML.parse(response.body)
+    @content = Nokogiri::HTML.parse(File.read('wadus.html'))
 
     @content
   end

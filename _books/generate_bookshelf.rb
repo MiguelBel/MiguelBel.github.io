@@ -13,7 +13,7 @@ end
 
 def review_link(id)
   <<~EOF
-    <a href="#{id}" target="_blank">Reseña</a>
+    <a href="/books/#{id}" target="_blank">Reseña</a>
   EOF
 end
 
