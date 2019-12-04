@@ -10,6 +10,6 @@ En 2016 leí una historia de siete partes sobre [Paul Le Roux](https://magazine.
 
 Paul Le Roux es un programador convertido a señor de la guerra. Creando una empresa de distribución de medicamentos al borde de la ley consigue dinero para intentar convertirse en un magnate de lo prohibido. A través de Internet es capaz de llevar incontables negocios -ilegales- con mayor o menor fortuna.
 
-El libro me ha gustado pero es cierto que la historia de Paul Le Roux me fascinaba. Recomiendo el libro si te gustan las historias de criminales como [Ross Ulbricht](/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html). Recomendaría leer los dos o tres primeros capítulos de Atavist y si estás interesado, comprar el libro.
+El libro me ha gustado pero es cierto que la historia de Paul Le Roux me fascinaba. Recomiendo el libro si te gustan las historias de criminales como [Ross Ulbricht](/books/2019/02/10/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.html). Recomendaría leer los dos o tres primeros capítulos de Atavist y si estás interesado, comprar el libro.
 
 Puedes comprar el libro [aquí](https://amazon.es/dp/1787630242).
