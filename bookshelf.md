@@ -10,6 +10,36 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/elmundoenmotoconcharlysinewannmadas.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books//2019/12/04/elmundoenmotoconcharlysinewannmadas.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8408210785" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/eljugadordelasmemoriasdeunjovenclsica.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books//2019/12/03/eljugadordelasmemoriasdeunjovenclsica.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/846703601X" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/asesinosmltiplesyotrosdepredadoressocialeslasrespuestasalagranparadojadelmalariel.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books//2019/12/02/asesinosmltiplesyotrosdepredadoressocialeslasrespuestasalagranparadojadelmalariel.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8434427958" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/sinblancaenparsylondrescontemporanea.jpg" />
   </div>
   <div class="links">
