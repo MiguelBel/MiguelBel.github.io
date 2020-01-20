@@ -10,6 +10,45 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/diarios20042007.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8493834998" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/elextraocasodeldrjekyllymrhydeclsicosuniversales.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books//2020/01/19/elextraocasodeldrjekyllymrhydeclosuniversales.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8483433184" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/deargirlsintimatetalesuntoldsecretsandadviceforlivingyourbestlife.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books//2020/01/18/deargirlsintimatetalesuntoldsecretsandadviceforlivingyourbestlife.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/1838850562" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/losdasdebirmaniacontemporanea.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books//2020/01/13/losdasdebirmaniacontemporanea.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8483466570" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/elmundoenmotoconcharlysinewannmadas.jpg" />
   </div>
   <div class="links">
