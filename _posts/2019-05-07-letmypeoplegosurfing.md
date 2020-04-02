@@ -1,6 +1,6 @@
 ---
 categories: Books
-layout: post
+layout: review
 published: true
 title: Reseña "Let My People Go Surfing" (2005)
 ---

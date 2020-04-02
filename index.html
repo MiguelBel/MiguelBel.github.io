@@ -8,7 +8,7 @@ title: miguel.im
     {% for post in site.posts %}
     {% if post.categories contains 'Books' %}
       <li class="post">
-        <span class="post-date blue">
+        <span class="post-date-index blue">
           {{ post.date | date: "%b %d %Y"}}
         </span>
         <span class="post-name blue">
@@ -17,7 +17,7 @@ title: miguel.im
       </li>
     {% else %}
       <li class="post">
-        <span class="post-date blue">
+        <span class="post-date-index blue">
           {{ post.date | date: "%b %d %Y"}}
         </span>
         <span class="post-name blue">

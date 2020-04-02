@@ -1,6 +1,6 @@
 ---
 categories: Books
-layout: post
+layout: review
 published: true
 title: Reseña "En el camino" (1957)
 ---

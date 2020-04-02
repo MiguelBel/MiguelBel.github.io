@@ -1,6 +1,6 @@
 ---
 categories: Books
-layout: post
+layout: review
 published: true
 title: Reseña "American Kingpin" (2017)
 ---

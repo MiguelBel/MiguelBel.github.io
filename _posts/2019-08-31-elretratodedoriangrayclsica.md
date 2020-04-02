@@ -1,6 +1,6 @@
 ---
 categories: Books
-layout: post
+layout: review
 published: true
 title: Reseña "El retrato de Dorian Gray (1890)"
 ---

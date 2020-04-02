@@ -1,6 +1,6 @@
 ---
 categories: Books
-layout: post
+layout: review
 published: true
 title: 'Reseña "Beyond Measure: The Big Impact of Small Changes" (2015)'
 ---

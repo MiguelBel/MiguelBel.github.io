@@ -1,6 +1,6 @@
 ---
 categories: Books
-layout: post
+layout: review
 published: true
 title: Reseña "The Mythical Man Month" (1975)
 ---

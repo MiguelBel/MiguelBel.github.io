@@ -1,7 +1,7 @@
 ---
 categories: Books
 categories: Books
-layout: post
+layout: review
 published: true
 title: Reseña "Sumisión" (2015)
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 categories: Books
 published: true
 title: Reseña "El jugador (1867)"

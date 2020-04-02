@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 categories: Books
 published: true
 title: Reseña "Asesinos múltiples y otros depredadores sociales (2018)"

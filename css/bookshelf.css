@@ -11,6 +11,10 @@
   height: 230px;
 }
 
+.crop {
+  text-align: center;
+}
+
 .book .crop img {
   height: 225px;
   width: 150px;

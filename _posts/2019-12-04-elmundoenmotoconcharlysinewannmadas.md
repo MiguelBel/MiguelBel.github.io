@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 categories: Books
 published: true
 title: Reseña "El mundo en moto con Charly Sinewan (2019)"

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: review
 categories: Books
 published: true
 title: Reseña "El extraño caso del Dr. Jekyll y Mr. Hyde (1886)"

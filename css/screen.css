@@ -22,6 +22,14 @@ a {
   border-bottom: none;
   color:#3498db;
   font-weight: 400;
+  font-size: 22px;
+}
+
+.post-date-index {
+  float: right;
+  width: 130px;
+  text-align: right;
+  font-size: 18px;
 }
 
 a:hover, a:visited:hover { border-bottom: none; }
@@ -69,9 +77,7 @@ ul li {
 }
 
 .post-date {
-  float: right;
-  width: 130px;
-  text-align: right;
+  font-size: 16px;
 }
 
 code {
@@ -105,12 +111,6 @@ small, .aside {
   font-size: 70%;
 }
 
-#content img {
-  max-width: 100%;
-  margin: 0 auto;
-  display: block;
-}
-
 table {
   padding: 0; }
   table tr {
@@ -140,11 +140,26 @@ ul {
   padding-inline-start: 0px;
 }
 
-img {
+.post img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.post .review img {
+  display: inline;
+  margin: 0;
+  width: 35%;
+  float: left;
+  padding: 5px 25px 25px 0px;
+}
+
+.post-title {
+  font-size: 36px;
+  letter-spacing: -2px;
+  line-height: 1;
+  margin-bottom: 0px;
 }
 
 .header ul {
@@ -187,4 +202,9 @@ img {
 
 .links {
   text-align: center;
+}
+
+blockquote {
+  border-right: 5px solid #dee3e2;
+  padding-right: 5px;
 }
