@@ -4,11 +4,62 @@
     <title>blog.miguel.im</title>
     <description>I write, sometimes
 </description>
-    <link>http://www.miguel.im/</link>
-    <atom:link href="http://www.miguel.im/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Feb 2020 12:56:25 +0000</pubDate>
-    <lastBuildDate>Tue, 11 Feb 2020 12:56:25 +0000</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 02 Apr 2020 16:19:42 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2020 16:19:42 +0000</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Sobre mis reseñas</title>
+        <description>&lt;p&gt;El año 2016 fue el año que más libros leí -y probablemente el año que más libros leeré nunca-. Lo hice porque empezaba a tener una lista interminable de libros por leer. Llevaba un tiempo queriendo leer más hasta que me dije que no tenía sentido presionarse por algo que no estaba haciendo. Decidí leer todo lo que me apeteciese priorizándolo sobre otras cosas como ver series, películas, redes sociales… y funcionó.&lt;/p&gt;
+
+&lt;p&gt;Conforme iba leyendo más al acabar el año me di cuenta que había desarrollado la habilidad de poder leer compulsivamente si realmente quería. No hay ningún misterio. Tiempo y ganas.&lt;/p&gt;
+
+&lt;p&gt;En 2017 empecé a hacer reseñas, lo hice porque frecuentemente:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No me paraba a pensar sobre lo que había leído.&lt;/li&gt;
+  &lt;li&gt;No recordaba lo que pensaba cuando me lo había acabado.&lt;/li&gt;
+  &lt;li&gt;No recordaba porque leí ese libro en particular.&lt;/li&gt;
+  &lt;li&gt;Buscaba más información y la perdía.&lt;/li&gt;
+  &lt;li&gt;Recordaba referencias y las olvidaba.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dejé de hacerlas a los seis meses. Se me acumularon y llegó un punto que era demasiado esfuerzo al no llevarlo al día.&lt;/p&gt;
+
+&lt;p&gt;A principios de 2019 también hice la &lt;a href=&quot;/bookshelf&quot;&gt;página pública de los libros&lt;/a&gt; que iba leyendo, antes era una excel. Al pasarlo a web, retomé la idea.&lt;/p&gt;
+
+&lt;p&gt;Durante 2019 sí que he hecho las reseñas de prácticamente todos los libros que leí. A finales de año leí la reseña de &lt;a href=&quot;https://bookmarks.reviews/george-orwells-1940-review-of-mein-kampf/&quot;&gt;George Orwell sobre Mein Kamf&lt;/a&gt;, no se parecía en nada al tipo de reseñas que hago yo, eso me llevó a pensar en el tipo de reseñas que consumo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://unlibroaldia.blogspot.com/&quot;&gt;Un Libro Al Día&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sivers.org/book&quot;&gt;Sivers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hashref.com/reading&quot;&gt;Xavier Noria&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://literaturadeviajes.com/&quot;&gt;Libros de viajes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/books/series/digestedread&quot;&gt;Digested read de The Guardian&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No me gusta una reseña cuando tiene demasiada información del libro. No me gusta saber demasiado del libro más allá de la sinópsis. Tampoco me gusta cuando no hay conclusión personal, echo en falta saber si lo recomiendas, porqué sí, porqué no, bajo que criterios.&lt;/p&gt;
+
+&lt;p&gt;Me parecen intersantes cuando descubro de donde viene el interés del autor de la reseña, contenido relacionado, que sean breves, en definitiva cuando son una opinión ligera sobre el libro y dan más contexto sin llegar a hacer &lt;em&gt;spoilers&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por eso las hago así, cortas, concisas que respondan a estas preguntas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;¿Por qué este libro?&lt;/li&gt;
+  &lt;li&gt;¿Cuál es tu sinópsis personal?&lt;/li&gt;
+  &lt;li&gt;¿Te ha gustado? ¿Lo recomiendas?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Están pensadas para ser leídas antes, para apuntar libros que te llamen la atención o descartar otros.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:4000/sobre-resenas</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/sobre-resenas</guid>
+        
+        
+      </item>
     
       <item>
         <title>Reseña &quot;El extraño caso del Dr. Jekyll y Mr. Hyde (1886)&quot;</title>
@@ -29,8 +80,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8483433184&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2020/01/19/elextraocasodeldrjekyllymrhydeclosuniversales.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2020/01/19/elextraocasodeldrjekyllymrhydeclosuniversales.html</guid>
+        <link>http://0.0.0.0:4000/books/2020/01/19/elextraocasodeldrjekyllymrhydeclosuniversales.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2020/01/19/elextraocasodeldrjekyllymrhydeclosuniversales.html</guid>
         
         
         <category>Books</category>
@@ -50,8 +101,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/1838850562&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2020/01/18/deargirlsintimatetalesuntoldsecretsandadviceforlivingyourbestlife.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2020/01/18/deargirlsintimatetalesuntoldsecretsandadviceforlivingyourbestlife.html</guid>
+        <link>http://0.0.0.0:4000/books/2020/01/18/deargirlsintimatetalesuntoldsecretsandadviceforlivingyourbestlife.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2020/01/18/deargirlsintimatetalesuntoldsecretsandadviceforlivingyourbestlife.html</guid>
         
         
         <category>Books</category>
@@ -73,8 +124,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8483466570&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2020/01/13/losdasdebirmaniacontemporanea.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2020/01/13/losdasdebirmaniacontemporanea.html</guid>
+        <link>http://0.0.0.0:4000/books/2020/01/13/losdasdebirmaniacontemporanea.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2020/01/13/losdasdebirmaniacontemporanea.html</guid>
         
         
         <category>Books</category>
@@ -94,8 +145,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8408210785&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/12/04/elmundoenmotoconcharlysinewannmadas.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/12/04/elmundoenmotoconcharlysinewannmadas.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/12/04/elmundoenmotoconcharlysinewannmadas.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/12/04/elmundoenmotoconcharlysinewannmadas.html</guid>
         
         
         <category>Books</category>
@@ -115,8 +166,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/846703601X&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/12/03/eljugadordelasmemoriasdeunjovenclsica.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/12/03/eljugadordelasmemoriasdeunjovenclsica.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/12/03/eljugadordelasmemoriasdeunjovenclsica.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/12/03/eljugadordelasmemoriasdeunjovenclsica.html</guid>
         
         
         <category>Books</category>
@@ -136,8 +187,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8434427958&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/12/02/asesinosmltiplesyotrosdepredadoressocialeslasrespuestasalagranparadojadelmalariel.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/12/02/asesinosmltiplesyotrosdepredadoressocialeslasrespuestasalagranparadojadelmalariel.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/12/02/asesinosmltiplesyotrosdepredadoressocialeslasrespuestasalagranparadojadelmalariel.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/12/02/asesinosmltiplesyotrosdepredadoressocialeslasrespuestasalagranparadojadelmalariel.html</guid>
         
         
         <category>Books</category>
@@ -157,8 +208,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8499890881&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/11/27/sinblancaenparsylondrescontemporanea.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/11/27/sinblancaenparsylondrescontemporanea.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/11/27/sinblancaenparsylondrescontemporanea.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/11/27/sinblancaenparsylondrescontemporanea.html</guid>
         
         
         <category>Books</category>
@@ -180,8 +231,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8417800115&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/10/20/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/10/20/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/10/20/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/10/20/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.html</guid>
         
         
         <category>Books</category>
@@ -219,29 +270,8 @@
 &lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/0201835959&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html</guid>
-        
-        
-        <category>Books</category>
-        
-      </item>
-    
-      <item>
-        <title>Reseña &quot;El camino más corto (1974)&quot;</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/elcaminomscortonoficcin.jpg&quot; alt=&quot;&quot; width=&quot;350&amp;quot;, :height=&amp;quot;500&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;El año pasado leí un libro de Luis Garrido-Julve, &lt;a href=&quot;https://www.bangkokbizarro.com/tailandia-en-panos-menores-libro/&quot;&gt;Tailandia en paños menores&lt;/a&gt;. Como también leía su &lt;a href=&quot;https://www.bangkokbizarro.com&quot;&gt;blog&lt;/a&gt;, empecé a seguirlo en twitter. Allí me enteré que hacía una colaboración en un &lt;a href=&quot;https://www.ivoox.com/3x06-30tph-narrativa-viajes-con-luis-garrido-julve-audios-mp3_rf_40746579_1.html&quot;&gt;podcast&lt;/a&gt; y mencionaba este libro. Me llamó la atención.&lt;/p&gt;
-
-&lt;p&gt;El libro trata de una “vuelta al mundo” en coche en los años 60. Lo pongo entre comillas porque lo de menos es dar la vuelta al mundo y se duda que las partes finales fuesen &lt;a href=&quot;https://www.efe.com/efe/espana/cultura/mezclo-manu-leguineche-realidad-y-ficcion-en-su-libro-el-camino-mas-corto/10005-3652639#&quot;&gt;reales&lt;/a&gt;. Sin entrar en polémica el libro es una excelente narración de un viaje en la época desde Madrid al sudeste asiático.&lt;/p&gt;
-
-&lt;p&gt;Me parece un libro muy ameno, te hace reflexionar sobre como ha cambiado el mundo desde aquellos tiempos, país por país. Como hoy en día el mismo viaje sería imposible. Recomiendo el libro.&lt;/p&gt;
-
-&lt;p&gt;Puedes comprar el libro &lt;a href=&quot;https://amazon.es/dp/8490706905&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-        <link>http://www.miguel.im/books/2019/09/30/elcaminomscortonoficcin.html</link>
-        <guid isPermaLink="true">http://www.miguel.im/books/2019/09/30/elcaminomscortonoficcin.html</guid>
+        <link>http://0.0.0.0:4000/books/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/books/2019/10/14/themythicalmanmonthessaysonsoftwareengineering.html</guid>
         
         
         <category>Books</category>
