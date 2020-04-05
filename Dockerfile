@@ -8,6 +8,6 @@ COPY Gemfile.lock $APP
 
 COPY . $APP
 
-RUN apk --update add --virtual build_deps build-base mariadb-dev g++ linux-headers alpine-sdk \
-  && bundle install -j 10 --quiet \
-  && apk del build_deps
+RUN apk --update add --virtual build_deps build-base mariadb-dev g++ linux-headers alpine-sdk
+RUN apk --update add libcurl
+RUN bundle install -j 10 --quiet
