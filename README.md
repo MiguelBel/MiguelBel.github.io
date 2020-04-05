@@ -1,4 +1,4 @@
-blog.miguel.im
+miguel.im Blog
 ===================
 
 Personal blog. You can check it out here: [miguel.im](http://miguel.im)
