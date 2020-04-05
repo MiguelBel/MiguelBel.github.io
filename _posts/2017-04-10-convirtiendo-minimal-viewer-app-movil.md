@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Convirtiendo Minimal Viewer en una app móvil
 ---
-Hace un tiempo creé [MinimalViewer](https://github.com/MiguelBel/MinimalViewer), tardé muy poco en conseguir que me aportase valor. Fundamentalmente es una forma inteligente de leer webs -sin anuncios, sin repetir lo que ya has visto...-, puedes ver un ejemplo en [MinimalViewer for HackerNews](http://www.minimalviewer.com/viewers/hackernews).
+Hace un tiempo creé [MinimalViewer](https://github.com/MiguelBel/MinimalViewer), tardé muy poco en conseguir que me aportase valor. Fundamentalmente es una forma inteligente de leer webs -sin anuncios, sin repetir lo que ya has visto...-, puedes ver un ejemplo en [MinimalViewer for HackerNews](http://minimalviewer.miguel.im/viewers/hackernews).
 
 Creé varios visores y los utilicé bastante hasta hace un par de meses. Cada vez me cuesta más tiempo pasar tiempo delante del ordenador si no es para desarrollar, en mi tiempo libre tiendo a usar el móvil. Por esta razón quiero convertir el proyecto en una aplicación móvil (iOS) y que me siga aportando valor.
 
@@ -19,7 +19,7 @@ Es una aplicación sencilla, son 4 pantallas y la lógica es simple. Llamar a un
 
 ## Elegir tecnologías ~ 3 horas
 
-Lo último que hice de móvil fue hace por lo menos 4 o 5 años con [PhoneGap](http://phonegap.com/). El resultado fue bastante decepcionante. No me planteo volver a elegir una tecnología que dependa de un `webkit`. Aunque solo quiero hacer la app para iPhone, tampoco me planteo hacerlo con `Objective-C` o `Swift`. Quiero iterar lo más rápido posible. Por tanto queda la versión intermedia algo como [Titanium](https://www.appcelerator.com/mobile-app-development-products/) o [React Native]([https://facebook.github.io/react-native/).
+Lo último que hice de móvil fue hace por lo menos 4 o 5 años con [PhoneGap](http://phonegap.com/). El resultado fue bastante decepcionante. No me planteo volver a elegir una tecnología que dependa de un `webkit`. Aunque solo quiero hacer la app para iPhone, tampoco me planteo hacerlo con `Objective-C` o `Swift`. Quiero iterar lo más rápido posible. Por tanto queda la versión intermedia algo como [Titanium](https://www.appcelerator.com/mobile-app-development-products/) o [React Native](https://facebook.github.io/react-native/).
 
 Ya que MinimalViewer está hecho en [React](https://facebook.github.io/react/) elijo `React Native`. Aprovechando que he usado la plantilla de sketch de `Native Base`, tampoco me caliento mucho la cabeza eligiendo kit de UI y utilizo esta.
 
