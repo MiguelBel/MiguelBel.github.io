@@ -1,44 +1,19 @@
-branch_name="$(git symbolic-ref HEAD 2>/dev/null)"
-branch_name=${branch_name##refs/heads/}
+branch_name="$(git symbolic-ref HEAD 2>/dev/null)" branch_name=${branch_name##refs/heads/}
+url='http://miguel.im'
+
+source deploy/functions.sh
 
 if [ $branch_name = "master" ]; then
   echo 'Deploying...'
-  CHANGED=$(git diff-index --name-only HEAD --)
 
-  git status
+  check_local_changes
+  build_project
+  check_local_links
+  sync_origin_repository
+  release_production_build
+  run_smoke_test
 
-  if [ -n "$CHANGED" ]; then
-    echo "[ERROR] You cannot deploy with pending changes"
-    exit 1
-  fi
-
-  echo 'Building site'
-  docker-compose run app jekyll build
-
-  echo 'Checking for local broken links'
-  docker-compose run app htmlproofer --checks-to-ignore=ImageCheck --internal-domains localhost --disable-external ./_site
-  if [ $? -ne 0 ] ; then echo "[ERROR] Broken link" ; exit 1; fi
-
-  echo 'Synching repository'
-  git push origin master -f
-
-  echo 'Switching to build branch'
-  git branch -D build || true
-  git checkout -b build
-  git merge master
-
-  sed '/_site\//d' ./.gitignore
-
-  git add -f _site/.
-  git commit -m 'Just another deploy'
-  git push eyl build:master -f
-
-  git branch -D build || true
-
-  echo 'Switching to master branch'
-  git checkout master
-
-  echo 'Done'
+  echo '[SUCCESS] Done'
 else
   echo 'Deploy script must be run in master'
 fi
