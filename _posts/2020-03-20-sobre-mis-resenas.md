@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Sobre mis reseñas
-permalink: /sobre-resenas
+permalink: /sobre-resenas.html
 ---
 
 El año 2016 fue el año que más libros leí -y probablemente el año que más libros leeré nunca-. Lo hice porque empezaba a tener una lista interminable de libros por leer. Llevaba un tiempo queriendo leer más hasta que me dije que no tenía sentido presionarse por algo que no estaba haciendo. Decidí leer todo lo que me apeteciese priorizándolo sobre otras cosas como ver series, películas, redes sociales... y funcionó.
