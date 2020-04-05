@@ -10,7 +10,7 @@ build:
 shell:
 	docker-compose run app /bin/sh
 
-deploy:
+release:
 	time sh deploy.sh
 
 check-links:
