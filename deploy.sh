@@ -23,10 +23,17 @@ if [ $branch_name = "master" ]; then
   git push origin master -f
 
   echo 'Switching to build branch'
-  git checkout build
-  git add .
+  git branch -D build || true
+  git checkout -b build
+  git merge master
+
+  sed '/_site\//d' ./.gitignore
+
+  git add -f _site/.
   git commit -m 'Just another deploy'
-  git push eyl master -f
+  git push eyl build:master -f
+
+  git branch -D build || true
 
   echo 'Switching to master branch'
   git checkout master
