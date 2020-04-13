@@ -11,9 +11,9 @@ def meta
   EOF
 end
 
-def review_link(id)
+def review_link(post)
   <<~EOF
-    <a href="/books/#{id}" target="_blank">Reseña</a>
+    <a href="/books#{post}" target="_blank">Reseña</a>
   EOF
 end
 
