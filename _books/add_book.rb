@@ -29,7 +29,7 @@ def create_review(book)
 
   template = <<~EOF
     ---
-    layout: post
+    layout: review
     categories: Books
     published: true
     title: Reseña "#{title}"
