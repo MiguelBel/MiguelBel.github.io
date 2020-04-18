@@ -355,7 +355,7 @@
     "author": "Iñaki Uriarte",
     "cover": "diarios19992003.jpg",
     "id": "849376714X",
-    "post": null,
+    "post": "/2020/04/18/diariosiii20082010.html",
     "title": "Diarios (1999-2003)",
     "year": 2016
   },
@@ -1010,10 +1010,10 @@
   {
     "title": "Diarios (2004-2007)",
     "author": "Iñaki Uriarte Cantolla",
+    "post": "/2020/04/18/diariosiii20082010.html",
     "id": "8493834998",
     "year": 2019,
-    "cover": "diarios20042007.jpg",
-    "post": null
+    "cover": "diarios20042007.jpg"
   },
   {
     "title": "1984 (Contemporánea)",
@@ -1022,5 +1022,13 @@
     "year": 2020,
     "cover": "1984contempornea.jpg",
     "post": "/2020/04/13/1984contempornea.html"
+  },
+  {
+    "title": "Diarios (2008-2010)",
+    "author": "Iñaki Uriarte Cantolla",
+    "id": "8415862342",
+    "year": 2020,
+    "cover": "diariosiii20082010.jpg",
+    "post": "/2020/04/18/diariosiii20082010.html"
   }
 ]

@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/diariosiii20082010.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2020/04/18/diariosiii20082010.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8415862342" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/1984contempornea.jpg" />
   </div>
   <div class="links">
@@ -28,7 +38,8 @@ permalink: /bookshelf/
     <img src="/assets/diarios20042007.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/books/2020/04/18/diariosiii20082010.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/8493834998" target="_blank">Link</a>
   </div>
 </div>
@@ -820,7 +831,8 @@ permalink: /bookshelf/
     <img src="/assets/diarios19992003.jpg" />
   </div>
   <div class="links">
-    
+    <a href="/books/2020/04/18/diariosiii20082010.html" target="_blank">Reseña</a>
+
     <a href="https://amazon.es/dp/849376714X" target="_blank">Link</a>
   </div>
 </div>
