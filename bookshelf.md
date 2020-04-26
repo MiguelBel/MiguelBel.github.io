@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/thenewkingmakers.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2020/04/20/thenewkingmakers.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/1449356346" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/diariosiii20082010.jpg" />
   </div>
   <div class="links">
