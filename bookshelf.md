@@ -10,6 +10,15 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/lavueltaalmundodeunnovelista1estadosunidoscubapanamhawaijapncoreamanchuriaellibrodebolsillobibliotecasdeautorbibliotecablascoibez.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8491813233" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/thenewkingmakers.jpg" />
   </div>
   <div class="links">
