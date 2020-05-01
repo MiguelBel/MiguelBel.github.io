@@ -15,6 +15,8 @@ Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 </div>
 
 <div class="log-entry" markdown="1">
+Lista de enlaces sobre el contenido que me ha gustado/recomiendo/provoca-interés durante el mes. Hay partes que he consumido superficialmente, otras al completo y otras no pueden ser consumidas (Misc). He cogido la idea de la newsletter de [Gwern](http://gwern.net).
+
 Lectura:
 
 - [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/index.html) [github.io]
