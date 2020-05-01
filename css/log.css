@@ -1,0 +1,20 @@
+.content-index {
+  padding: 0px 10px;
+  border: 2px solid #444e5c;
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+.content-index ul li {
+  list-style: square;
+  margin-left: 30px;
+}
+
+.log a {
+  color: #444e5c;
+}
+
+.log .log-entry ul li {
+  list-style: circle inside;
+  margin-left: 30px;
+}
