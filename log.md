@@ -7,7 +7,35 @@ permalink: /log
 Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 
 <div class="content-index" markdown="1">
+- [[01-05-2020] Atajos para usar vim con corrector ortográfico](#vim-writting-mode)
 - [[31-04-2020] Links del mes de abril 2020](#20abril)
+</div>
+
+<div id="vim-writing-mode" markdown="1">
+### [01-05-2020] Atajos para usar vim con corrector ortográfico
+</div>
+
+<div class="log-entry" markdown="1">
+Con estas funciones:
+
+```
+    " Writer mode
+    function! SpanishWriterMode()
+      set spelllang=es
+      set spell
+    endfunction
+
+    function! DisableSpanishWriterMode()
+      set nospell
+    endfunction
+
+    noremap <leader>swm :call SpanishWriterMode()<CR>
+    noremap <leader>dswm :call DisableSpanishWriterMode()<CR>
+```
+
+se hace más cómodo usar la ayuda para ver las faltas ortográficas al usar vim.
+
+Con `,swm` para activar o `,dswm` para desactivar el corrector ortográfico.
 </div>
 
 <div id="20abril" markdown="1">

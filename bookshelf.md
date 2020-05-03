@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/softwareengineeringatgooglelessonslearnedfromprogrammingovertimeenglishedition.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2020/05/03/softwareengineeringatgooglelessonslearnedfromprogrammingovertimeenglishedition.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/B0859PF5HB" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/lavueltaalmundodeunnovelista1estadosunidoscubapanamhawaijapncoreamanchuriaellibrodebolsillobibliotecasdeautorbibliotecablascoibez.jpg" />
   </div>
   <div class="links">
