@@ -2,7 +2,7 @@
 layout: review
 categories: Books
 published: true
-title: Reseña "Software Engineering at Google"
+title: Reseña "Software Engineering at Google" (2020)
 ---
 ![](/assets/softwareengineeringatgooglelessonslearnedfromprogrammingovertimeenglishedition.jpg){:width="350", :height="500"}
 
