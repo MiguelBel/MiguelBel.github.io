@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "Partir" (2016)
+title: Reseña "Partir (2016)"
 ---
 ![](http://i.imgur.com/b3Cbguw.jpg)
 

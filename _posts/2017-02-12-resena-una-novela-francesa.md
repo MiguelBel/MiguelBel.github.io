@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "Una novela francesa" (2009)
+title: Reseña "Una novela francesa (2009)"
 ---
 ![](http://i.imgur.com/ACjM00R.jpg)
 

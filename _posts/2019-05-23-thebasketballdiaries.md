@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "The Basketball Diaries" (1978)
+title: Reseña "The Basketball Diaries (1978)"
 ---
 ![](/assets/thebasketballdiaries.jpg){:width="350", :height="500"}
 

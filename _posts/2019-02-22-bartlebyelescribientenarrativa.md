@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "Bartleby, el escribiente" (1853)
+title: Reseña "Bartleby, el escribiente (1853)"
 ---
 
 ![](/assets/bartlebyelescribientenarrativa.jpg){:width="350", :height="500"}

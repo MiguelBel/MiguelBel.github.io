@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "The Buy Side" (2013)
+title: Reseña "The Buy Side (2013)"
 ---
 ![](/assets/thebuyside.jpg){:width="350", :height="500"}
 

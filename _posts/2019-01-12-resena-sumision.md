@@ -1,9 +1,8 @@
 ---
 categories: Books
-categories: Books
 layout: review
 published: true
-title: Reseña "Sumisión" (2015)
+title: Reseña "Sumisión (2015)"
 ---
 
 ![](/assets/portada-sumision.jpg){:width="350", :height="500"}

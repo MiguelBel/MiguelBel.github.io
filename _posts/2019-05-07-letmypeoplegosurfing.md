@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "Let My People Go Surfing" (2005)
+title: Reseña "Let My People Go Surfing (2005)"
 ---
 ![](/assets/letmypeoplegosurfing.jpg){:width="350", :height="500"}
 

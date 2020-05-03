@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "Sapiens" (2011)
+title: Reseña "Sapiens (2011)"
 ---
 ![](http://i.imgur.com/laXUddF.jpg)
 

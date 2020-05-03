@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "City of Gold. Dubai and the Dream of Capitalism" (2010)
+title: Reseña "City of Gold. Dubai and the Dream of Capitalism (2010)"
 ---
 ![](http://i.imgur.com/nSLu3wv.jpg)
 
@@ -14,7 +14,7 @@ Me ha costado mucho leer el libro. El inglés que usa no es sencillo, a eso se s
 
 En el lado positivo, relaciona muy bien históricamente la evolución de la ciudad con la cultura imperante. Además, no se ahorra las críticas y las encaja con la actitud de los mandatarios.
 
-No me he molestado en mirar otros libros del tema, quizá haya algún libro mejor para conocer la historia del emirato, en cualquier caso no es un mal libro si se tiene mucho interés en el tema. 
+No me he molestado en mirar otros libros del tema, quizá haya algún libro mejor para conocer la historia del emirato, en cualquier caso no es un mal libro si se tiene mucho interés en el tema.
 
 Puedes comprar el libro [aquí](http://amazon.es/dp/0312655436).
 

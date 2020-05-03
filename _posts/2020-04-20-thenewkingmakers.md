@@ -2,7 +2,7 @@
 layout: review
 categories: Books
 published: true
-title: Reseña "The New Kingmakers" (2013)
+title: Reseña "The New Kingmakers (2013)"
 ---
 ![](/assets/thenewkingmakers.jpg){:width="350", :height="500"}
 

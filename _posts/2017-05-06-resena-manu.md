@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "Manu" (2013)
+title: Reseña "Manu (2013)"
 ---
 ![](http://i.imgur.com/EPl7Pr8.jpg)
 

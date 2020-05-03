@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "Es que África es así" (2018)
+title: Reseña "Es que África es así (2018)"
 ---
 ![](/assets/esquefricaesas.jpg){:width="350", :height="500"}
 

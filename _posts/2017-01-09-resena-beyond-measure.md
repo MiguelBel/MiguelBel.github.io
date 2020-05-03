@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: 'Reseña "Beyond Measure: The Big Impact of Small Changes" (2015)'
+title: 'Reseña "Beyond Measure: The Big Impact of Small Changes (2015)"'
 ---
 ![](http://i.imgur.com/1zsUldJ.jpg)
 

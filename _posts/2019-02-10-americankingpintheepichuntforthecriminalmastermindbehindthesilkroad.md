@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "American Kingpin" (2017)
+title: Reseña "American Kingpin (2017)"
 ---
 
 ![](/assets/americankingpintheepichuntforthecriminalmastermindbehindthesilkroad.jpg){:width="350", :height="500"}

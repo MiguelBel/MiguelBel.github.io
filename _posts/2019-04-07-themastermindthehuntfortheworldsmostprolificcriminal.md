@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "The Mastermind" (2019)
+title: Reseña "The Mastermind (2019)"
 ---
 ![](/assets/themastermindthehuntfortheworldsmostprolificcriminal.jpg){:width="350", :height="500"}
 

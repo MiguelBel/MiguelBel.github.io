@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "Quick Start Guide to Penetration Testing" (2018)
+title: Reseña "Quick Start Guide to Penetration Testing (2018)"
 ---
 ![](/assets/quickstartguidetopenetrationtestingwithnmapopenvasandmetasploit.jpg){:width="350", :height="500"}
 

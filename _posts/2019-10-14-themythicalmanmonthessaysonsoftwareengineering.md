@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "The Mythical Man Month" (1975)
+title: Reseña "The Mythical Man Month (1975)"
 ---
 ![](/assets/themythicalmanmonthessaysonsoftwareengineering.jpg){:width="350", :height="500"}
 

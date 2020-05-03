@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "La última raya" (2010)
+title: Reseña "La última raya (2010)"
 ---
 ![](/assets/laultimaraya.jpg){:width="350", :height="500"}
 

@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "Man's Search For Meaning" (1946)
+title: Reseña "Man's Search For Meaning (1946)"
 ---
 ![](/assets/manssearchformeaningtheclassictributetohopefromtheholocaust.jpg){:width="350", :height="500"}
 

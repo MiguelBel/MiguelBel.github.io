@@ -2,7 +2,7 @@
 layout: review
 categories: Books
 published: true
-title: Reseña "El trap" (2019)
+title: Reseña "El trap (2019)"
 ---
 ![](/assets/eltrapfilosofamillennialparalacrisisenespaafueradecoleccin.jpg){:width="350", :height="500"}
 

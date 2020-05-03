@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: 'Reseña "Objetivo, Influencer" (2016)'
+title: Reseña "Objetivo, Influencer (2016)"
 ---
 ![](http://i.imgur.com/PN3Elm4.jpg)
 

@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "En el camino" (1957)
+title: Reseña "En el camino (1957)"
 ---
 ![](http://i.imgur.com/BDopEth.jpg)
 

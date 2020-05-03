@@ -2,7 +2,7 @@
 categories: Books
 layout: review
 published: true
-title: Reseña "Yonkis del dinero" (2016)
+title: Reseña "Yonkis del dinero (2016)"
 ---
 ![](http://i.imgur.com/Yw8pAOU.jpg)
 
