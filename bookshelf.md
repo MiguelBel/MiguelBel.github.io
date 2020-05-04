@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/againstthegodstheremarkablestoryofrisk.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2020/05/04/againstthegodstheremarkablestoryofrisk.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/0471295639" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/softwareengineeringatgooglelessonslearnedfromprogrammingovertimeenglishedition.jpg" />
   </div>
   <div class="links">
