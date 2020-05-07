@@ -7,8 +7,21 @@ permalink: /log
 Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 
 <div class="content-index" markdown="1">
+- [[06-05-2020] Xv6](#xv6)
 - [[01-05-2020] Atajos para usar vim con corrector ortográfico](#vim-writing-mode)
 - [[31-04-2020] Links del mes de abril 2020](#20abril)
+</div>
+
+<div id="xv6" markdown="1">
+### [06-05-2020] Xv6
+</div>
+
+<div class="log-entry" markdown="1">
+Últimamente me he estado interesando por los sistemas operativos ya que supone una oportunidad para usar lenguajes de "bajo nivel" (si aceptamos C como lenguaje de bajo nivel). Empecé un curso de Linux y me di cuenta que había muchas cosas que no sabía sobre el funcionamiento de los sistemas operativos. Descubrí [Xv6](https://pdos.csail.mit.edu/6.828/2012/xv6.html). Es un sistema operativo mínimo que se puede virtualizar con QEMU. Es más sencillo que [MINIX](https://en.wikipedia.org/wiki/MINIX) y de kernel monolítico. Tiene un manual donde explica en 100 páginas el funcionamiento del sistema. El código es C y es sencillo.
+
+Aproveché también para pasar re-escribir algunas de las GNU core utils para xv6. Hay varios forks y proyectos con modificaciones/extensiones (GUI, en otras arquitecturas...) que resultan más sencillas de explorar que proyectos reales.
+
+No estoy 100% seguro pero uno de los profesores detrás de Xv6 es Robert Morris que es el "precursor" de los virus con [El gusano morris](https://es.wikipedia.org/wiki/Gusano_Morris).
 </div>
 
 <div id="vim-writing-mode" markdown="1">
