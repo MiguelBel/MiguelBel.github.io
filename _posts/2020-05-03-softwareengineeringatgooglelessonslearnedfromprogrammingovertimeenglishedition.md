@@ -16,7 +16,7 @@ La segunda parte es sobre la cultura en Google. Esta parte me ha parecido la má
 
 Luego habla de procesos. Me han gustado especialmente los capítulos sobre testing, sobretodo porque lo enfoca desde un punto de vista agnóstico al proceso de desarrollo (no menciona el TDD, ni lo critica, ni lo alaba), en general estoy acostumbrado a consumir contenido afín al [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming) donde el TDD se ve, como mínimo, como algo a lo que aspirar.
 
-Finalmente la última parte habla de las herramientas que usan en Google. Me parece un buena finalización del libro ya que enlaza con lo bloques anteriores y describe como implementan los principios del desarrollo que aplican en su realidad.
+Finalmente la última parte habla de las herramientas que usan en Google. Me parece una buena finalización del libro ya que enlaza con lo bloques anteriores y describe como implementan los principios del desarrollo que aplican en su realidad.
 
 En cuanto a conceptos no profundiza en cosas "nuevas". No te quieren vender una "bala de plata" y eso se agradece, los autores se esfuerzan en dejar claro que no todo lo que ellos hacen aplican a otros contextos.
 
