@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/todosepuedeentrenarcoleccionalienta.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2020/06/25/todosepuedeentrenarcoleccionalienta.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8416253080" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/100nobswatchtipsforwatchenthusiastssalespeople.jpg" />
   </div>
   <div class="links">
