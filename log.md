@@ -7,10 +7,39 @@ permalink: /log
 Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 
 <div class="content-index" markdown="1">
+- [[02-07-2020] Links del mes de junio 2020](#20junio)
 - [[01-06-2020] Links del mes de mayo 2020](#20mayo)
 - [[06-05-2020] Xv6](#xv6)
 - [[01-05-2020] Atajos para usar vim con corrector ortográfico](#vim-writing-mode)
 - [[31-04-2020] Links del mes de abril 2020](#20abril)
+</div>
+
+<div id="20junio" markdown="1">
+### [02-07-2020] Links del mes de junio 2020
+</div>
+
+<div class="log-entry" markdown="1">
+Lectura:
+
+- [Strings in go](https://blog.golang.org/strings) [golang.org]
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) [joelonsoftware.com]
+- [The Computer Scientist Who Can’t Stop Telling Stories](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/) [quantamagazine.org]
+- [Epigrams on Programming](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html) [uni-tuebingen.de]
+- [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests) [kentcdodds.com]
+- [How VC works](https://simplanations.substack.com/p/2-how-vc-works-a-beginners-guide) [substack.com]
+- [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78) [medium.com]
+- [Do I Need to Go to University?](https://colah.github.io/posts/2020-05-University/) [github.io]
+- [Most tech content is bullshit](https://www.aleksandra.codes/tech-content-consumer) [aleksandra.codes]
+- [Anti-consumerism](https://en.wikipedia.org/wiki/Anti-consumerism) [wikipedia.org]
+- [A framework for Engineering Managers](http://www.engineeringladders.com/) [engineeringladders.com]
+
+Videos:
+
+- [To Microservices and Back Again](https://www.youtube.com/watch?v=hIFeaeZ9_AI) [youtube.com]
+
+Misc:
+
+- [Vitess - A database clustering system for horizontal scaling of MySQL](https://vitess.io/) [vitess.io]
 </div>
 
 <div id="20mayo" markdown="1">

@@ -21,3 +21,6 @@ generate-bookshelf:
 
 add-book:
 	docker-compose run app ruby _books/add_book.rb $(abid)
+
+add-domains-log:
+	docker-compose run app ruby _log/add_domains.rb log.md
