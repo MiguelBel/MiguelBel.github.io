@@ -7,11 +7,39 @@ permalink: /log
 Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 
 <div class="content-index" markdown="1">
+- [[19-07-2020] SICP, Capítulo 1](#20junio)
 - [[02-07-2020] Links del mes de junio 2020](#20junio)
 - [[01-06-2020] Links del mes de mayo 2020](#20mayo)
 - [[06-05-2020] Xv6](#xv6)
 - [[01-05-2020] Atajos para usar vim con corrector ortográfico](#vim-writing-mode)
 - [[31-04-2020] Links del mes de abril 2020](#20abril)
+</div>
+
+<div id="sicp1" markdown="1">
+### [19-07-2020] SICP, Capítulo 1
+</div>
+
+<div class="log-entry" markdown="1">
+[Structure and Interpretation of Computer Program](https://www.amazon.es/dp/0262510871) es un libro "clásico" de la informática. La primera edición es de 1985. Se usaba para enseñar a programar en el MIT. Aunque algunos lo consideran obsoleto y favorecen otros libros como [How to Design Programs](https://www.amazon.es/dp/0262062186).
+
+Son 5 capítulos, he acabado el primero.
+
+- Me parece un libro terrible para aprender a programar si lo que se quiere es programar.
+- Las matemáticas necesarias no son de un gran alto nivel aunque sí se necesita una base mínima.
+- Si ya sabes programar (como es mi caso) pero no tienes una gran "madurez matemática" el reto de los ejercicios es la parte matemática y no la parte de programación.
+- Introduce conceptos generales de los lenguajes de programación que ya conocía pero verlos de forma aislada, con tiempo, y sin aplicación práctica es un ejercicio fabuloso.
+- Las dudas (y los ejercicios) están resueltas en Internet.
+- LISP y derivados (SCHEME en este caso) son interesantes e intuitivos.
+- Está orientado a estudiantes de ingeniería tradicionales cuando quizá no había ni facultades de informática. Conocimientos fuertes en cálculo.
+
+Hay una frase de Taleb que dice:
+
+<blockquote>When you use a ruler to measure the table, you are also using the table to measure the ruler.</blockquote>
+
+Me venía mucho a la cabeza por esa dualidad programación-matemáticas.
+
+Mi motivación para empezar con este libro era aproximarme a la computación desde un punto de vista más cercano a la academia.
+
 </div>
 
 <div id="20junio" markdown="1">
