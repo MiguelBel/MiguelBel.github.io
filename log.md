@@ -7,7 +7,7 @@ permalink: /log
 Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 
 <div class="content-index" markdown="1">
-- [[19-07-2020] SICP, Capítulo 1](#20junio)
+- [[19-07-2020] SICP, Capítulo 1](#sicp1)
 - [[02-07-2020] Links del mes de junio 2020](#20junio)
 - [[01-06-2020] Links del mes de mayo 2020](#20mayo)
 - [[06-05-2020] Xv6](#xv6)
