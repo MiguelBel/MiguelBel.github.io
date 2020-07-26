@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/bloodymiamicompactos.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2020/07/26/bloodymiamicompactos.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8433977571" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/releaseitdesignanddeployproductionreadysoftware.jpg" />
   </div>
   <div class="links">
