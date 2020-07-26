@@ -10,6 +10,15 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/20polvos.png" />
+  </div>
+  <div class="links">
+    
+    <a href="http://elreydelcosmos.com/tienda/libro-20-polvos-edicin-especial" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/bloodymiamicompactos.jpg" />
   </div>
   <div class="links">
