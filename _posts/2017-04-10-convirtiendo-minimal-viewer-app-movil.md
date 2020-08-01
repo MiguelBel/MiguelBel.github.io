@@ -1,4 +1,5 @@
 ---
+categories: Article
 layout: post
 published: true
 title: Convirtiendo Minimal Viewer en una app móvil

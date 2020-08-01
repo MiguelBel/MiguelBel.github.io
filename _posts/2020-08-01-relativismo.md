@@ -1,4 +1,5 @@
 ---
+categories: Article
 layout: post
 title: Relativismo en el desarrollo de software
 layout: post

@@ -7,6 +7,10 @@ body {
   margin: 0 !important;
 }
 
+.main-content {
+  margin-bottom: 50px;
+}
+
 .row {
   margin-left: 0px !important;
   margin-right: 0px !important;

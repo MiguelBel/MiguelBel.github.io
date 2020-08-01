@@ -1,4 +1,5 @@
 ---
+categories: Article
 layout: post
 title: Obiang, Oyala and the Paradox of Plenty.
 layout: post

@@ -1,4 +1,5 @@
 ---
+categories: Article
 layout: post
 published: true
 layout: post
@@ -16,11 +17,11 @@ Since they can afford better education is not surprise for anyone that they will
 
 They have their private business but this private business frequently get benefited by the expenses of public institutions. They get contracts and the influences.
 
-It is neither a surprise that, from hegemonic power given by a rotary democracy, the governance policies became a clientelism network without being a _de facto_ kleptocracy. 
+It is neither a surprise that, from hegemonic power given by a rotary democracy, the governance policies became a clientelism network without being a _de facto_ kleptocracy.
 
 And the time comes and goes and other people enter in this restricted wealthy class and some other go out.
 
-They do not have more rights but they have more rights. Public institutions consider that deals and treatment of this class is of public interest due to the benefit of the whole society. Their companies give job to local people and provide a -better or worse- service to society. If you analyze the situation you see how this relationship with the public administration wind up in a entry barrier for the rest of the non-caste competitors and also a lose of competitiveness due to the bribery and corruption. 
+They do not have more rights but they have more rights. Public institutions consider that deals and treatment of this class is of public interest due to the benefit of the whole society. Their companies give job to local people and provide a -better or worse- service to society. If you analyze the situation you see how this relationship with the public administration wind up in a entry barrier for the rest of the non-caste competitors and also a lose of competitiveness due to the bribery and corruption.
 
 ### An example of how Madrid was feeding their clientelism network
 
@@ -47,5 +48,5 @@ Last year the government changed to one more leftie and with more “common sens
 The major, Manuela Carmena has been criticized a lot for her measures. I do, I criticized her sometimes but today is not the time.
 
 She turned the VIP zone in a place for disabled people. And this is a first step to say to every people who mix their private business with the public ones to stay away.
- 
+
 This is a first step to stop to use public relations as an excuse of use public money in benefiting only to some. She is also doing some other things for prevent that. Time will say if she became a truly changer or if she follow the same attitude as her predecessors.

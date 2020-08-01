@@ -1,4 +1,5 @@
 ---
+categories: Article
 layout: post
 published: true
 title: Sobre mis reseñas

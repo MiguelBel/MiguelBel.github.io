@@ -3,29 +3,37 @@ layout: default
 title: I'm Miguel
 ---
 
+{% assign articles = site.posts | where_exp: "post", "post.categories contains 'Article'" %}
+{% assign reviews = site.posts | where_exp: "post", "post.categories contains 'Books'" %}
+
 <div>
+  <h2 class="site-title">Últimos posts</h2>
   <ul class="posts">
-    {% for post in site.posts %}
-    {% if post.categories contains 'Books' %}
+    {% for post in articles | limit: "5" %}
       <li class="post">
         <span class="post-date-index blue">
-          {{ post.date | date: "%b %d %Y"}}
+          {{ post.date | date: "%b %d %Y" }}
         </span>
         <span class="post-name blue">
           <a href="{{ post.url }}">{{ post.title }}</a>
         </span>
       </li>
-    {% else %}
-      <li class="post">
-        <span class="post-date-index blue">
-          {{ post.date | date: "%b %d %Y"}}
-        </span>
-        <span class="post-name blue">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </span>
-      </li>
-    {% endif %}
     {% endfor %}
-    <br>
   </ul>
+  <h4>...todos los posts ({{ articles | size }}).</h4>
+
+  <h2 class="site-title">Últimas reseñas</h2>
+  <ul class="posts">
+    {% for post in reviews | limit: "5" %}
+      <li class="post">
+        <span class="post-date-index blue">
+          {{ post.date | date: "%b %d %Y" }}
+        </span>
+        <span class="post-name blue">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+  <h4>...todas los reseñas ({{ reviews | size }}).</h4>
 </div>
