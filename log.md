@@ -20,6 +20,7 @@ Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 ### [04-08-2020] Links del mes de julio 2020
 </div>
 
+<div class="log-entry" markdown="1">
 Lectura:
 
 - [Contributing to Ruby MRI](https://kirshatrov.com/2020/01/11/contributing-to-mri/) [kirshatrov.com]
@@ -40,6 +41,7 @@ Lectura:
 Misc:
 
 - [Travel tips by Kirs](https://github.com/kirs/hedonism) [github.com]
+</div>
 
 <div id="sicp1" markdown="1">
 ### [19-07-2020] SICP, Capítulo 1
