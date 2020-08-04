@@ -7,6 +7,7 @@ permalink: /log
 Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 
 <div class="content-index" markdown="1">
+- [[04-08-2020] Links del mes de julio 2020](#20julio)
 - [[19-07-2020] SICP, Capítulo 1](#sicp1)
 - [[02-07-2020] Links del mes de junio 2020](#20junio)
 - [[01-06-2020] Links del mes de mayo 2020](#20mayo)
@@ -14,6 +15,31 @@ Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 - [[01-05-2020] Atajos para usar vim con corrector ortográfico](#vim-writing-mode)
 - [[31-04-2020] Links del mes de abril 2020](#20abril)
 </div>
+
+<div id="20julio" markdown="1">
+### [04-08-2020] Links del mes de julio 2020
+</div>
+
+Lectura:
+
+- [Contributing to Ruby MRI](https://kirshatrov.com/2020/01/11/contributing-to-mri/) [kirshatrov.com]
+- [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/) [josebrowne.com]
+- [An Investment To Die For](https://ofdollarsanddata.com/an-investment-to-die-for/) [ofdollarsanddata.com]
+- [What Risk Isn’t](https://ofdollarsanddata.com/what-risk-isnt/) [ofdollarsanddata.com]
+- [How to Write Technical Posts, so people will read them](https://reasonablypolymorphic.com/blog/writing-technical-posts/) [reasonablypolymorphic.com]
+- [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) [programmingisterrible.com]
+- [Patrick Bateman is a Buddhist Hero](https://dataswamp.org/~lich/musings/buddhist-american-psycho.html) [dataswamp.org]
+- [Google developer documentation style guide](https://developers.google.com/style) [google.com]
+- [Making beautifulsoup Parsing 10 times faster](https://thehftguy.com/2020/07/28/making-beautifulsoup-parsing-10-times-faster/) [thehftguy.com]
+- [I hate patterns](https://web.archive.org/web/20120224000044/http://parand.com/say/index.php/2005/07/18/i-hate-patterns/) [archive.org]
+- [Ruby is harmful](http://harmful.cat-v.org/software/ruby/) [cat-v.org]
+- [Java Enterprise Evolution - Java EE vs J2EE vs Jakarta EE](https://www.baeldung.com/java-enterprise-evolution) [baeldung.com]
+- [The Cold War Bunker That Became Home to a Dark-Web Empire](https://www.newyorker.com/magazine/2020/08/03/the-cold-war-bunker-that-became-home-to-a-dark-web-empire?utm_source=twitter&utm_medium=social&utm_campaign=onsite-share&utm_brand=the-new-yorker&utm_social-type=earned) [newyorker.com]
+- [Relativismo vs Universalismo software](https://crearsoftware.com/2009/02/14/relativismo-vs-universalismo/) [crearsoftware.com]
+
+Misc:
+
+- [Travel tips by Kirs](https://github.com/kirs/hedonism) [github.com]
 
 <div id="sicp1" markdown="1">
 ### [19-07-2020] SICP, Capítulo 1
