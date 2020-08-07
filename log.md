@@ -7,6 +7,7 @@ permalink: /log
 Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 
 <div class="content-index" markdown="1">
+- [[07-08-2020] Monkey Patching en Lisp](#lispmonkey)
 - [[04-08-2020] Links del mes de julio 2020](#20julio)
 - [[19-07-2020] SICP, Capítulo 1](#sicp1)
 - [[02-07-2020] Links del mes de junio 2020](#20junio)
@@ -14,6 +15,26 @@ Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
 - [[06-05-2020] Xv6](#xv6)
 - [[01-05-2020] Atajos para usar vim con corrector ortográfico](#vim-writing-mode)
 - [[31-04-2020] Links del mes de abril 2020](#20abril)
+</div>
+
+<div id="lispmonkey" markdown="1">
+### [07-08-2020] Monkey Patching en Lisp
+</div>
+
+<div class="log-entry" markdown="1">
+El monkey patching trae [problemas](https://en.wikipedia.org/wiki/Monkey_patch#Pitfalls) pero estaba mirando por curiosidad como hacerlo en Lisp. Un ejemplo, que el símbolo de sumar reste:
+
+```lisp
+1 ]=> (define (+ . args-list)
+  (apply - args-list))
+
+;Value: +
+
+1 ]=> (+ 1 1)
+
+;Value: 0
+```
+
 </div>
 
 <div id="20julio" markdown="1">
@@ -160,19 +181,19 @@ No estoy 100% seguro pero uno de los profesores detrás de Xv6 es Robert Morris 
 <div class="log-entry" markdown="1">
 Con estas funciones:
 
-```
-    " Writer mode
-    function! SpanishWriterMode()
-      set spelllang=es
-      set spell
-    endfunction
+```lisp
+  " Writer mode
+  function! SpanishWriterMode()
+    set spelllang=es
+    set spell
+  endfunction
 
-    function! DisableSpanishWriterMode()
-      set nospell
-    endfunction
+  function! DisableSpanishWriterMode()
+    set nospell
+  endfunction
 
-    noremap <leader>swm :call SpanishWriterMode()<CR>
-    noremap <leader>dswm :call DisableSpanishWriterMode()<CR>
+  noremap <leader>swm :call SpanishWriterMode()<CR>
+  noremap <leader>dswm :call DisableSpanishWriterMode()<CR>
 ```
 
 se hace más cómodo usar la ayuda para ver las faltas ortográficas al usar vim.
