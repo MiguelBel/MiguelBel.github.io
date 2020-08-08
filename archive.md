@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Archivo | I'm Miguel
+permalink: /archive/
 ---
 
 {% assign articles = site.posts | where_exp: "post", "post.categories contains 'Article'" %}

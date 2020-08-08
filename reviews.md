@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reseñas | I'm Miguel
+permalink: /reviews/
 ---
 
 {% assign reviews = site.posts | where_exp: "post", "post.categories contains 'Books'" %}

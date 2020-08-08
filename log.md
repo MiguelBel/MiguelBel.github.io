@@ -1,7 +1,7 @@
 ---
 layout: log
 title: Log
-permalink: /log
+permalink: /log/
 ---
 
 Aquí pongo las cosas que no dan para un post pero quiero conservar y compartir.
