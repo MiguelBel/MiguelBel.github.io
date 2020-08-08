@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="log">
+  <div id="{{ page.anchor }}">
+    <h3>[{{ page.date | date: '%d-%m-%Y' }}] {{ page.title }}</h3>
+  </div>
+
+  <div class="log-entry" markdown="1">
+    {{ content }}
+  </div>
+
+  <hr />
+  <a href="/log">Leer más entradas del log.</a>
+</div>

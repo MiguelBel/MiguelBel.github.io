@@ -5,6 +5,7 @@ title: I'm Miguel
 
 {% assign articles = site.posts | where_exp: "post", "post.categories contains 'Article'" %}
 {% assign reviews = site.posts | where_exp: "post", "post.categories contains 'Books'" %}
+{% assign entries = site.posts | where_exp: "post", "post.categories contains 'Log'" %}
 
 <div>
   <h2 class="site-title">Últimos posts</h2>
@@ -20,7 +21,22 @@ title: I'm Miguel
       </li>
     {% endfor %}
   </ul>
-  <h4>...todos los posts ({{ articles | size }}).</h4>
+  <h4><a href="/archive">...todos los posts ({{ articles | size }}).</a></h4>
+
+  <h2 class="site-title">Últimas entradas del log</h2>
+  <ul class="posts">
+    {% for post in entries| limit: "5" %}
+      <li class="post">
+        <span class="post-date-index blue">
+          {{ post.date | date: "%b %d %Y" }}
+        </span>
+        <span class="post-name blue">
+          <a href="/log#{{ post.anchor }}">{{ post.title }}</a>
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+  <h4><a href="/log">...todos las entradas del log ({{ entries | size }}).</a></h4>
 
   <h2 class="site-title">Últimas reseñas</h2>
   <ul class="posts">
@@ -35,5 +51,5 @@ title: I'm Miguel
       </li>
     {% endfor %}
   </ul>
-  <h4>...todas los reseñas ({{ reviews | size }}).</h4>
+  <h4><a href="/reviews">...todas los reseñas ({{ reviews | size }}).</a></h4>
 </div>
