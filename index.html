@@ -10,7 +10,7 @@ title: I'm Miguel
 <div>
   <h2 class="site-title">Últimos posts</h2>
   <ul class="posts">
-    {% for post in articles | limit: "5" %}
+    {% for post in articles limit: "5" %}
       <li class="post">
         <span class="post-date-index blue">
           {{ post.date | date: "%b %d %Y" }}
@@ -25,7 +25,7 @@ title: I'm Miguel
 
   <h2 class="site-title">Últimas entradas del log</h2>
   <ul class="posts">
-    {% for post in entries| limit: "5" %}
+    {% for post in entries limit: "5" %}
       <li class="post">
         <span class="post-date-index blue">
           {{ post.date | date: "%b %d %Y" }}
@@ -40,7 +40,7 @@ title: I'm Miguel
 
   <h2 class="site-title">Últimas reseñas</h2>
   <ul class="posts">
-    {% for post in reviews | limit: "5" %}
+    {% for post in reviews limit: "5" %}
       <li class="post">
         <span class="post-date-index blue">
           {{ post.date | date: "%b %d %Y" }}

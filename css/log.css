@@ -14,7 +14,7 @@
   color: #444e5c;
 }
 
-.log .log-entry ul li {
+.list ul li, .log .log-entry ul li {
   list-style: circle inside;
   margin-left: 30px;
   margin-top: 5px;

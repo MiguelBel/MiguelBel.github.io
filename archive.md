@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archivo | I'm Miguel
+title: Archivo
 permalink: /archive/
 ---
 
