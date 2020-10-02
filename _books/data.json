@@ -1101,5 +1101,13 @@
     "post": null,
     "title": "20 Polvos",
     "year": 2020
+  },
+  {
+    "title": "\nLa Maleta\n",
+    "author": "El Búfalo",
+    "id": "B08C95PBZ5",
+    "year": 2020,
+    "cover": "lamaleta.jpg",
+    "post": "/2020/09/02/lamaleta.html"
   }
 ]
