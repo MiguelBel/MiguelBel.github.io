@@ -8,6 +8,7 @@ permalink: /ideas/
 
 <div class="list" markdown="1">
 - [HECHO] ~~Hacer un conversor de [Arvelie calendar](https://wiki.xxiivv.com/site/arvelie.html) en Lisp (u otro lenguaje)~~
+  - [Entrada en el log](/log/#arvelie-scheme)
   - [Implementación en Scheme](https://github.com/MiguelBel/arvelie-scheme)
 - Hacer un juego de sudoku para [SerenityOS](https://github.com/SerenityOS/serenity) en C++
 - [HECHO] ~~Añadir full text search al blog (lunr.js ?)~~

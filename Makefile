@@ -24,3 +24,6 @@ add-book:
 
 add-domains-log:
 	docker-compose run app ruby _log/add_domains.rb $(file)
+
+add-log-entry:
+	docker-compose run app ruby _log/add_entry.rb $(title) $(slug)
