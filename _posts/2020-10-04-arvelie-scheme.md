@@ -27,8 +27,12 @@ Los errores de sintaxis Scheme son crípticos. Un error de sintaxis y a buscar d
 
 Lisp es estético. No comparto (ahora) la idea de que tantos paréntesis lo hace feo. Visualmente me resulta muy homogéneo.
 
+La notación polaca, bien.
+
 Demasiadas conversiones de tipos. Tengo la sensación de que mi solución tiene demasiadas conversiones de tipos. Creo que se podría refactorizar para trabajar con listas desde el principio siendo así más sencillo.
 
 La solución podría ser más sencilla. Hubo un momento en el que dejé de hacer la solución más sencilla y empecé a darme prisa por acabarlo. Creo que se podría hacer más sencillo, en especial las validaciones.
 
 Encontrar información no es tan fácil. Comparado con otros lenguajes que buscas en google `how to get first n elements of a list in XXXX` y el primer resultado es consistente en Scheme no es tan sencillo. Desde soluciones que ya existen en la librería estándar hasta soluciones de otros sabores de Lisp (Chicken Scheme, Racket) o soluciones que ya existen en la librería estándar pero que reimplementan en la solución. Supongo que por la historia/naturaleza del lenguaje no puedes esperar el mismo nivel de información que en los populares.
+
+Me ha gustado trabajar con listas pero al ser un problema general aplicando un lenguaje generalista no he podido ver mejoras de "productividad" en comparación con otros lenguajes que he usado.
