@@ -31,7 +31,7 @@ permalink: /buscar/
       "title": "{{ page.title | xml_escape }}",
       "author": "{{ page.author | xml_escape }}",
       "category": "{{ page.category | xml_escape }}",
-      "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+      "content": {{ page.content | strip_html | strip_newlines | jsonify }},
       "url": "{{ page.url | xml_escape }}"
     }
     {% unless forloop.last %},{% endunless %}
@@ -87,7 +87,7 @@ permalink: /buscar/
       var searchTerm = document.getElementById('search-box').value;
 
       if (searchTerm) {
-        var results = idx.search(searchTerm);
+        var results = idx.search('*' + searchTerm + '*');
         displaySearchResults(results, window.store);
       }
     }

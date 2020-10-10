@@ -22,4 +22,5 @@ permalink: /ideas/
 - Implementación básica de RSA
 - [HECHO] ~~Añadir algún método a [Natalie](https://github.com/seven1m/natalie)~~
   - [PR - Array: #sample](https://github.com/seven1m/natalie/pull/27)
+- Añadir comentarios al blog (con [utterances](https://utteranc.es/)?)
 </div>

@@ -1,6 +1,6 @@
 ---
 categories: Article
-layout: Boris Skossyreff and monarchical Andorra
+title: Boris Skossyreff and monarchical Andorra
 layout: post
 ---
 
