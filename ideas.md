@@ -23,4 +23,6 @@ permalink: /ideas/
 - [HECHO] ~~Añadir algún método a [Natalie](https://github.com/seven1m/natalie)~~
   - [PR - Array: #sample](https://github.com/seven1m/natalie/pull/27)
 - Añadir comentarios al blog (con [utterances](https://utteranc.es/)?)
+- Probar [Eiffel](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n_Eiffel)
+- Implement a subset of Sixel
 </div>

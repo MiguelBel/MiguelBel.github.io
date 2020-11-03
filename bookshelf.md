@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/domaindrivendesigndistilled.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2020/11/03/domaindrivendesigndistilled.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/0134434420" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/crimenycastigopenguinclsicos.jpg" />
   </div>
   <div class="links">
