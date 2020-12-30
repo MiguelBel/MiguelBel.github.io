@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/unsurfistaenbuscadelparaso.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2020/12/30/unsurfistaenbuscadelparaso.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/B089T1LLY5" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/domaindrivendesigndistilled.jpg" />
   </div>
   <div class="links">
