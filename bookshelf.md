@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/viajealfindelanocheedhasaliteraria.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2020/12/30/viajealfindelanocheedhasaliteraria.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8435008932" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/unsurfistaenbuscadelparaso.jpg" />
   </div>
   <div class="links">
