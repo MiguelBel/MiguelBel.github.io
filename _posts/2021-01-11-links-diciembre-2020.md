@@ -3,7 +3,7 @@ categories: Log
 layout: log_entry
 published: true
 title: Links del mes de diciembre 2020
-anchor: linksoctubre2020
+anchor: linksdiciembre2020
 ---
 
 Lectura:
