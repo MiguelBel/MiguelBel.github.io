@@ -5,10 +5,132 @@ permalink: /bookshelf/
 ---
 <p>En 2016 empecé a hacer un excel para guardar todos los libros que iba leyendo. Lo he pasado a formato web. Aquí puedes encontrar casi -si no los acabo o son libros de consulta no los anoto- todos los libros que he leído desde 2016. Algunos tienen reseñas. Si tienes dificultad para encontrar alguno no dudes en pedir ayuda.</p>
 
+<h2 class="year f2 avenir">2021</h2>
+
+<div class="book-list row">
+  <div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/repudiadosalmargen.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/849437821X" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/indignodeserhumano2edalmargen.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/849374137X" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/vagabondingelartedeviajarporelmundoperimetro.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/B00DJBKU20" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/elltimoveranoenroma.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/B088JGCXLL" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/gentequesefue.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8494913131" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/comedor.png" />
+  </div>
+  <div class="links">
+    
+    <a href="https://elreydelcosmos.com/tienda/libro-el-comedor-de-coos" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/hellyeahorno.png" />
+  </div>
+  <div class="links">
+    
+    <a href="https://sive.rs/n" target="_blank">Link</a>
+  </div>
+</div>
+
+</div>
 <h2 class="year f2 avenir">2020</h2>
 
 <div class="book-list row">
   <div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/ascaypacosanz.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8494440780" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/aossalvajesmividayelsurflibrosdelasteroiden171.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/B08LQMYJ4S" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/themanwhosolvedthemarkethowjimsimonslaunchedthequantrevolution.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/073521798X" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/elhombredelosdadosnarrativaextranjera.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8416420254" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/theelephantinthebrainhiddenmotivesineverydaylife.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/0190495995" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/enpresenciadeschopenhauer8nuevoscuadernosanagrama.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/843391619X" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
   <div class="crop">
     <img src="/assets/failsafeinvesting.jpg" />
   </div>
