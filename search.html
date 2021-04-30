@@ -4,6 +4,8 @@ title: Buscar
 permalink: /buscar/
 ---
 
+{% assign not_index_pages = "feed-xml,css-main-css,archive,log,reviews,buscar" | split: "," %}
+
 <div style="margin-top: 30px; width: 100%; text-align: center;">
   <input type="text" id="search-box" style="width:100%; height: 30px; font-size: 28px;" name="query">
   <button id="trigger-search" style="padding: 10px 30px; margin-top: 10px; font-size: 30px;">Buscar</button>
@@ -22,19 +24,16 @@ permalink: /buscar/
       "category": "{{ post.category | xml_escape }}",
       "content": {{ post.content | strip_html | strip_newlines | jsonify }},
       "url": "{{ post.url | xml_escape }}"
-    }
-    {% unless forloop.last %},{% endunless %}
-    {% endfor %}
-    ,
-    {% for page in site.pages %}
-    "{{ page.url | slugify }}": {
+    }{% unless forloop.last %},{% endunless %}{% endfor %},{% for page in site.pages %}
+      {% assign slug = page.url | slugify %}
+      {% unless not_index_pages contains slug || page.title == "I'm Miguel" %}
+    "{{ slug }}": {
       "title": "{{ page.title | xml_escape }}",
       "author": "{{ page.author | xml_escape }}",
       "category": "{{ page.category | xml_escape }}",
       "content": {{ page.content | strip_html | strip_newlines | jsonify }},
       "url": "{{ page.url | xml_escape }}"
-    }
-    {% unless forloop.last %},{% endunless %}
+    }{% unless forloop.last %},{% endunless %}{% endunless %}
     {% endfor %}
   };
 </script>
