@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/lacancinderoldncrimenycastigonoficcin.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2021/06/28/lacancinderoldncrimenycastigonoficcin.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8408136747" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/robarenamericanapparel26heroesmodernos.jpg" />
   </div>
   <div class="links">
