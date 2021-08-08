@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/jakobvonguntencontempornea.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2021/08/07/jakobvonguntencontempornea.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8490323062" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/memoriasdeunpresomrbiografas.jpg" />
   </div>
   <div class="links">
