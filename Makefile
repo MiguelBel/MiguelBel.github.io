@@ -13,6 +13,9 @@ shell:
 release:
 	time sh deploy.sh
 
+today:
+	sh today.sh
+
 check-links:
 	docker-compose run app htmlproofer --checks-to-ignore=ImageCheck ./_site
 
