@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/losdasdegloriadivulgacinbiografasymemorias.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2021/11/30/losdasdegloriadivulgacinbiografasymemorias.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/8427038801" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/fueradejuegocompactosn762.jpg" />
   </div>
   <div class="links">
