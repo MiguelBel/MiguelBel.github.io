@@ -12,7 +12,6 @@ if [ $branch_name = "master" ]; then
   build_project
   check_local_links
   sync_origin_repository
-  release_production_build
   run_smoke_test
 
   echo '[SUCCESS] Done'
