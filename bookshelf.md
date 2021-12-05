@@ -10,6 +10,16 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/egoistheenemythefighttomasterourgreatestopponent.jpg" />
+  </div>
+  <div class="links">
+    <a href="/books/2021/12/05/egoistheenemythefighttomasterourgreatestopponent.html" target="_blank">Reseña</a>
+
+    <a href="https://amazon.es/dp/1781257027" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/losdasdegloriadivulgacinbiografasymemorias.jpg" />
   </div>
   <div class="links">
