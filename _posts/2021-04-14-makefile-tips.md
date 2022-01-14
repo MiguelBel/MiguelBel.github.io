@@ -1,6 +1,6 @@
 ---
-categories: Log
-layout: log_entry
+categories: Article
+layout: post
 published: true
 title: "@ y -  en Makefiles"
 anchor: makefiletips

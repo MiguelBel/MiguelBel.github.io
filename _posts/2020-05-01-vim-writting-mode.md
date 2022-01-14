@@ -1,6 +1,6 @@
 ---
-categories: Log
-layout: log_entry
+categories: Article
+layout: post
 published: true
 title: Atajos para usar vim con corrector ortográfico
 anchor: vim-writting-mode

@@ -1,6 +1,6 @@
 ---
-categories: Log
-layout: log_entry
+categories: Article
+layout: post
 published: true
 title: Utilidad fechas Arvelie en Scheme
 anchor: arvelie-scheme
