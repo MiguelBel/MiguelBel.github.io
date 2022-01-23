@@ -5,10 +5,240 @@ permalink: /bookshelf/
 ---
 <p>En 2016 empecé a hacer un excel para guardar todos los libros que iba leyendo. Lo he pasado a formato web. Aquí puedes encontrar casi -si no los acabo o son libros de consulta no los anoto- todos los libros que he leído desde 2016. Algunos tienen reseñas. Si tienes dificultad para encontrar alguno no dudes en pedir ayuda.</p>
 
+<h2 class="year f2 avenir">2022</h2>
+
+<div class="book-list row">
+  <div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/alsurdelafronteraaloestedelsolmaxi.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8483835037" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/orgulloyprejuicioedicinconmemorativapenguinclsicos.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8491051325" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/diariodeunaninfmanabolsillo.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/B071G8VKMK" target="_blank">Link</a>
+  </div>
+</div>
+
+</div>
 <h2 class="year f2 avenir">2021</h2>
 
 <div class="book-list row">
   <div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/catastrofismoadministracindeldesastreysumisinsostenible.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8493834912" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/lasoncemilvergas30akalclsicosdelaliteratura.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8446050226" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/porsilasvocesvuelvennoficcin.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8408249215" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/laciudadylosperroscontempornea.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/849062593X" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/brevehistoriadesenderoluminosomayor.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8490973954" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/cienaosdesoledadcontempornea.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8497592204" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/laleyendadelsantobebedor8compactos50.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8433902334" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/elcoronelnotienequienleescribacontempornea.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8497592352" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/lasvenasabiertasdeamricalatinaedicinconmemorativadel50aniversario25bibliotecaeduardogaleano.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8432320242" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/elmercadoestfatalrocabolsillobestseller.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8416240167" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/crnicadeunamuerteanunciadacontempornea.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8497592433" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/nauseala.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/9500306530" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/excesodeequipajeporquelturismoesungraninventohastaquedejadeserlosociedad.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8499928625" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/busy_doing_nothing.jpeg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://100r.co/site/busy_doing_nothing.html" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/yanorecuerdoququeraserdemayortemasdehoy.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8499987753" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/billiondollarwhalethemanwhofooledwallstreethollywoodandtheworld.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/0306873575" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/miibizaprivadafcoleccion.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8467055944" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/codersatworkreflectionsonthecraftofprogramming.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/1430219483" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/feria.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8412226720" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/bitcoinwhalesguyswhofooledtheworldsecretsandliesinthecryptoworld.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/1793901023" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/vidaslowcostserjovenentredoscrisis843mayor.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8413522641" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/las48leyesdelpoderfueradecoleccinyoneshot.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8467039051" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
   <div class="crop">
     <img src="/assets/egoistheenemythefighttomasterourgreatestopponent.jpg" />
   </div>

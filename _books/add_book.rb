@@ -6,6 +6,8 @@ require_relative 'amazon_book'
 FOLDER = 'assets/'
 BOOKS_DATA_PATH = '_books/data.json'
 
+p ENV
+
 id = ARGV[0]
 
 book = AmazonBook.new(id)
@@ -50,13 +52,14 @@ def add_book_to_read_list(book, post_filename)
     title: book.title,
     author: book.author,
     id: book.id,
-    year: Time.now.year,
-    cover: "#{book.slug}.jpg",
-    post: '/' + post_filename.
-                gsub('-', '/').
-                gsub('.md', '.html')
+    year: ENV['YEAR'].to_i || Time.now.year,
+    cover: "#{book.slug}.jpg"
 
   }
+
+  new_book[:post] = '/' + post_filename.
+    gsub('-', '/').
+    gsub('.md', '.html') if post_filename
 
   books = JSON.parse(
     File.read(BOOKS_DATA_PATH)
@@ -68,7 +71,11 @@ def add_book_to_read_list(book, post_filename)
 end
 
 save_cover(book)
-path = create_review(book)
+path = if ENV['NO_POST']
+         nil
+       else
+         create_review(book)
+       end
 add_book_to_read_list(book, path)
 
 require_relative 'generate_bookshelf'
