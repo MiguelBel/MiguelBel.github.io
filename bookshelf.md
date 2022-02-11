@@ -10,6 +10,24 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/libreysalvajelagranaventuradelavueltaalmundoapiezenithoriginal.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8408170120" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/losaosdeperegrinacindelchicosincolorandanzas.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/B00FGAM5HK" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/laconjuradelosnecios.jpg" />
   </div>
   <div class="links">
