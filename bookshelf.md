@@ -10,6 +10,69 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/noruega.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8412226542" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/elalmanaquedenavalravikantunaguaparalariquezaylafelicidad.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8412303547" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/confesionesdeuncomedordeopioinglsseriegreatideas29.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8430607277" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/tranvaalamalvarrosahispnica.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8420481289" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/whiskassatisfyerylexatin.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8412437004" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/unmundofelizcontempornea.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8497594258" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/lasendadelperdedor138compactosanagrama.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8433914693" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/libreysalvajelagranaventuradelavueltaalmundoapiezenithoriginal.jpg" />
   </div>
   <div class="links">
