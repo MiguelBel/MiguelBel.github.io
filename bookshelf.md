@@ -10,6 +10,123 @@ permalink: /bookshelf/
 <div class="book-list row">
   <div class="book col-md-3">
   <div class="crop">
+    <img src="/assets/givemeeverythingyouhaveonbeingstalkedenglishedition.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/B00BCZY30K" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/unrequitedwomenandromanticobsession.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/0062114018" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/whenasoulmatesaysnoamemoir.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/1925914437" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/laruzafahuertanaentrelacarreraencortsylacarrerasanluis.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8415801521" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/elfestndelamor270librosdelasteroide.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8417977988" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/unavidasinfin1021panoramadenarrativas.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8433980564" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/caasybarroellibrodebolsillobibliotecasdeautorbibliotecablascoibez.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8491045341" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/facenderanarrativashispnicas.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/B09YT7PJFK" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/nom3persepolisintegralcastellanonmadas.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8498470668" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/deratonesyhombresedhasaliteraria.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/B07VQ88HBS" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/sesentasemanaseneltrpicoviajesporelplanetaexterior.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/B0786KW76W" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/msalldeloprohibido.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8491835792" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
+    <img src="/assets/teorakingkongliteraturarandomhouse.jpg" />
+  </div>
+  <div class="links">
+    
+    <a href="https://amazon.es/dp/8439733852" target="_blank">Link</a>
+  </div>
+</div>
+<div class="book col-md-3">
+  <div class="crop">
     <img src="/assets/noruega.jpg" />
   </div>
   <div class="links">
