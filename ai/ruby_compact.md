@@ -5,7 +5,7 @@ satisfaction: 5/5
 difficulty: 1/5
 -->
 
-{% include_relative _layouts/collapsible_fragment_start.html title="Ruby syntax compact" %}
+{% include collapsible_fragment_start.html title="Ruby syntax compact" %}
 
 <div markdown="1">
 
@@ -45,4 +45,4 @@ regexp: '^(?!.*0001$).*$'
 
 </div>
 
-{% include_relative _layouts/collapsible_fragment_end.html %}
+{% include collapsible_fragment_end.html %}

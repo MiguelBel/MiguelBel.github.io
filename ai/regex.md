@@ -5,7 +5,7 @@ satisfaction: 5/5
 difficulty: 2/5
 -->
 
-{% include_relative _layouts/collapsible_fragment_start.html title="Regex" %}
+{% include collapsible_fragment_start.html title="Regex" %}
 
 <div markdown="1">
 
@@ -42,4 +42,4 @@ end
 
 </div>
 
-{% include_relative _layouts/collapsible_fragment_end.html %}
+{% include collapsible_fragment_end.html %}
