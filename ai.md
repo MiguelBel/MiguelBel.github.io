@@ -6,7 +6,17 @@ permalink: /ai/
 
 <h2 class="site-title">AI</h2>
 
+### 06-12-2022
+
 ### 05-12-2022
+
+Tenía que hacer un código que validase una cadena. La especificación estaba ya documentada porque lo hacíamos en el backend y teníamos que compartirlo con otros equipos. Tuve que añadir esas validaciones en una aplicación nueva frontend.
+
+Al ser una tarea mecánica y anodina probé a hacerlo con OpenAI Chat.
+
+{% include_relative ai/formatting_rules.md %}
+
+Calculo que me ahorraría un par o tres horas de trabajo. En este punto me he puesto nervioso. No me cabe duda que estamos ante el futuro. Programar, aprender de programación sin una AI no tiene sentido sería como hacerlo sin StackOverflow. Quizá Fred Brooks se equivocó [y sí hay silver bullet](https://es.wikipedia.org/wiki/No_hay_balas_de_plata).
 
 ### 02-12-2022
 
